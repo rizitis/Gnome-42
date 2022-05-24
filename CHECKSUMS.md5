@@ -10,12 +10,13 @@ tail +13 CHECKSUMS.md5 | md5sum --check | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
+d6ecfda5ff148aa9988e0e2be5616a04  ./FILELIST.TXT
 fb5721d213c3e0faced645f678538e3e  ./GPG-KEY
 36124de262bec81da3316b9aa8748a9a  ./GnomeGitlab.webm
 a1b97941e8975113dd39048bb9e255be  ./GnomeGitlab.webm.asc
-8684f1a5b3620a94e962fe9b95c1e860  ./MANIFEST.bz2
-fe46fdb334b8570f3452673e070d890d  ./PACKAGES.TXT
-df377afc028172eb2ecb3c38b8a048c0  ./PACKAGES.TXT.gz
+74323b6df56fae2736625fe1a20a0942  ./MANIFEST.bz2
+8513bd7d71ccb83b20d74030214fea9d  ./PACKAGES.TXT
+b09663725b28f5ce04ff33a1cdeb2c44  ./PACKAGES.TXT.gz
 e8146180e8b6339699cd5fb9f8a546e1  ./README.md
 52be239a2a331ac0fb5ae543291209ab  ./README.md.asc
 9773003b70dff1c8cfc8f325822db93b  ./Slackware
@@ -295,12 +296,24 @@ e49f4e9d834a277ef83186c3bc3587dd  ./gnome-panel-3.44.0-x86_64-1_rtz.tgz
 f51c03a5562ab6ddbe2c2aa9f95b2742  ./gnome-panel-3.44.0-x86_64-1_rtz.tgz.asc
 dec10a9fd2eb4af8705fc9f25e61b523  ./gnome-panel-3.44.0-x86_64-1_rtz.tgz.md5
 cf338292bd5eff9f0a3cded03dbcaab7  ./gnome-panel-3.44.0-x86_64-1_rtz.txt
+14731b976a6971e22c12e4e606e39e25  ./gnome-photos-42.0-x86_64-1_rtz.lst
+1e212c2b486e8b2c7ce5c664cf0274fb  ./gnome-photos-42.0-x86_64-1_rtz.meta
+cf3e7b5c5c4062a500909cdd9b2bd5a3  ./gnome-photos-42.0-x86_64-1_rtz.tgz
+92db6312385eff0ab25782b276c712a7  ./gnome-photos-42.0-x86_64-1_rtz.tgz.asc
+8ac36eb1376de9b241fee801c32b34f3  ./gnome-photos-42.0-x86_64-1_rtz.tgz.md5
+51d392a8c80c927f13d85789703f1e35  ./gnome-photos-42.0-x86_64-1_rtz.txt
 f664f56351ad6027c6534f197a1f79a2  ./gnome-power-manager-3.32.0-x86_64-1_rtz.lst
 e453ecbb548733ef4f2e30819dbead8e  ./gnome-power-manager-3.32.0-x86_64-1_rtz.meta
 9d3b9d95a0ac563e9e1007f196f54188  ./gnome-power-manager-3.32.0-x86_64-1_rtz.tgz
 c59f02d45a14f4f8ea9dd4bc0c63f064  ./gnome-power-manager-3.32.0-x86_64-1_rtz.tgz.asc
 cb4bf5bf1bb95a0fbf943dbe117d2c09  ./gnome-power-manager-3.32.0-x86_64-1_rtz.tgz.md5
 8965144f158f2e28e2df518d96cd9793  ./gnome-power-manager-3.32.0-x86_64-1_rtz.txt
+288b539ff1fa268b2fd6863dc3eb1a0c  ./gnome-remote-desktop-42.1.1-x86_64-1_rtz.lst
+62ed03a22906e7b42a9482bba4ab6beb  ./gnome-remote-desktop-42.1.1-x86_64-1_rtz.meta
+88344cb314ff8b7359b568883e02611e  ./gnome-remote-desktop-42.1.1-x86_64-1_rtz.tgz
+b83ff6e1377ce99591644b135a1c2006  ./gnome-remote-desktop-42.1.1-x86_64-1_rtz.tgz.asc
+50dfe40481e9a3c83985c222eadcfc8e  ./gnome-remote-desktop-42.1.1-x86_64-1_rtz.tgz.md5
+8a8d72512dc02b3d10296bf8af81e528  ./gnome-remote-desktop-42.1.1-x86_64-1_rtz.txt
 86f025f2120cf2503531d9d3224b72b9  ./gnome-session-42.0-x86_64-1_rtz.lst
 ae0f20dc249de311f62afdc5c00c9196  ./gnome-session-42.0-x86_64-1_rtz.meta
 d41d8cd98f00b204e9800998ecf8427e  ./gnome-session-42.0-x86_64-1_rtz.txt
@@ -493,6 +506,12 @@ af799a96418cf3468dcbdc7f71e26ef8  ./liblouis-3.21.0-x86_64-1_rtz.tgz
 60139c12532f894665da19de91ff0f8f  ./liblouis-3.21.0-x86_64-1_rtz.tgz.asc
 c9bb691fb66c68cc6a75dccdafed20d0  ./liblouis-3.21.0-x86_64-1_rtz.tgz.md5
 a1c8250d3e3016239414abec94fcb93e  ./liblouis-3.21.0-x86_64-1_rtz.txt
+28e2b0e98bad6deb67eeb2070d7a622b  ./libmediaart-1.9.5-x86_64-1_rtz.lst
+a98d7611a8b99c4c4b3b52bf5ef03626  ./libmediaart-1.9.5-x86_64-1_rtz.meta
+945a4e5552b1d9417a48c5c3faa5d3a7  ./libmediaart-1.9.5-x86_64-1_rtz.txt
+53af6b96ce872b7e83ae604ecaab9916  ./libmediaart-1.9.5-x86_64-1_rtz.txz
+c47c8eb4e80e4f1ef0c82a7de543d8f6  ./libmediaart-1.9.5-x86_64-1_rtz.txz.asc
+355af4f3a5f4d7829c01b4a64ccc8eae  ./libmediaart-1.9.5-x86_64-1_rtz.txz.md5
 ff35a03fdf5bc9dbb8e2a4f3797866a0  ./libnma-1.8.38-x86_64-1_rtz.lst
 6d0b50f97699e57923bc4e5489593ec6  ./libnma-1.8.38-x86_64-1_rtz.meta
 956f29d66532629b1056312c1d506238  ./libnma-1.8.38-x86_64-1_rtz.txt
@@ -561,6 +580,12 @@ af9d7ca67fefcbaad107979572dde6ca  ./nautilus-42.1.1-x86_64-1_rtz.txt
 1904ef121be9970cf4981ed74c4a8577  ./nautilus-code-0.4-x86_64-1_rtz.tgz.asc
 70082dba87fe2c311eb6a678b2f154d5  ./nautilus-code-0.4-x86_64-1_rtz.tgz.md5
 acd7481ce93e06c493f6a0632051b901  ./nautilus-code-0.4-x86_64-1_rtz.txt
+b39d9c5ff111d841328c4ece7c4e0507  ./nv-codec-headers-11.1.5.1-x86_64-1_rtz.lst
+0ba5dc663b63beac0748186d34c0c368  ./nv-codec-headers-11.1.5.1-x86_64-1_rtz.meta
+f68f83245a6c951c1c900f08bc90fa87  ./nv-codec-headers-11.1.5.1-x86_64-1_rtz.tgz
+cd6ffdd9c7fbc58c749fc93b34331abc  ./nv-codec-headers-11.1.5.1-x86_64-1_rtz.tgz.asc
+e91f132c20f4417994625036bc6bb2b0  ./nv-codec-headers-11.1.5.1-x86_64-1_rtz.tgz.md5
+069a50945376b1d654426848602391a4  ./nv-codec-headers-11.1.5.1-x86_64-1_rtz.txt
 b65f48b7ba74e9143ebf1bf14a14e055  ./orca-42.1-x86_64-1_rtz.lst
 0eb44c5e4439608046e3d9d4f83a3673  ./orca-42.1-x86_64-1_rtz.meta
 3c9c7feaade8c76f94e6387b6b37c0f6  ./orca-42.1-x86_64-1_rtz.tgz

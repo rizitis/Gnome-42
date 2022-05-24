@@ -1,4 +1,4 @@
-PACKAGES.TXT;  Mon May 23 06:04:20 UTC 2022
+PACKAGES.TXT;  Tue May 24 17:14:00 UTC 2022
 
 PACKAGE NAME:  amtk-5.4.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -758,6 +758,23 @@ gnome-panel:  Gnome Panel component comes with several default applets
 gnome-panel: https://wiki.gnome.org/Projects/GnomePanel
 gnome-panel:
 
+PACKAGE NAME:  gnome-photos-42.0-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  904 K
+PACKAGE SIZE (uncompressed):  4020 K
+PACKAGE DESCRIPTION:
+gnome-photos:
+gnome-photos: GNOME Photos
+gnome-photos:
+gnome-photos: GNOME Photos is an application to access, organize and share your
+gnome-photos: photos with GNOME.
+gnome-photos:
+gnome-photos:
+gnome-photos:
+gnome-photos:
+gnome-photos: https://wiki.gnome.org/Apps/Photos
+gnome-photos:
+
 PACKAGE NAME:  gnome-power-manager-3.32.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  252 K
@@ -774,6 +791,23 @@ gnome-power-manager:
 gnome-power-manager:
 gnome-power-manager: https://gitlab.gnome.org/GNOME/gnome-power-manager
 gnome-power-manager:
+
+PACKAGE NAME:  gnome-remote-desktop-42.1.1-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  220 K
+PACKAGE SIZE (uncompressed):  850 K
+PACKAGE DESCRIPTION:
+gnome-remote-desktop:
+gnome-remote-desktop: GNOME Remote Desktop
+gnome-remote-desktop:
+gnome-remote-desktop: Remote desktop server which allows you to connect to your machine
+gnome-remote-desktop: remotely
+gnome-remote-desktop:
+gnome-remote-desktop:
+gnome-remote-desktop:
+gnome-remote-desktop:
+gnome-remote-desktop: https://gitlab.gnome.org/GNOME/gnome-remote-desktop
+gnome-remote-desktop:
 
 PACKAGE NAME:  gnome-session-42.0-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
@@ -1281,6 +1315,23 @@ liblouis:
 liblouis: https://github.com/liblouis/liblouis
 liblouis:
 
+PACKAGE NAME:  libmediaart-1.9.5-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  56 K
+PACKAGE SIZE (uncompressed):  390 K
+PACKAGE DESCRIPTION:
+libmediaart:
+libmediaart: libmediaart
+libmediaart:
+libmediaart: Library tasked with managing, extracting and handling media art
+libmediaart: caches.
+libmediaart:
+libmediaart:
+libmediaart:
+libmediaart:
+libmediaart: https://gitlab.gnome.org/GNOME/libmediaart
+libmediaart:
+
 PACKAGE NAME:  libnma-1.8.38-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  320 K
@@ -1466,6 +1517,23 @@ nautilus-code:
 nautilus-code: 
 nautilus-code: https://github.com/realmazharhussain/nautilus-code
 nautilus-code:
+
+PACKAGE NAME:  nv-codec-headers-11.1.5.1-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  72 K
+PACKAGE SIZE (uncompressed):  390 K
+PACKAGE DESCRIPTION:
+nv-codec-headers: nv-codec-headers (FFmpeg version of Nvidia Codec SDK headers)
+nv-codec-headers:
+nv-codec-headers: FFmpeg version of headers required to interface with Nvidia's
+nv-codec-headers: codec APIs. Corresponds to Video Codec SDK version 11.1.5.
+nv-codec-headers:
+nv-codec-headers:
+nv-codec-headers:
+nv-codec-headers: https://github.com/FFmpeg/nv-codec-headers
+nv-codec-headers:
+nv-codec-headers:
+nv-codec-headers:
 
 PACKAGE NAME:  orca-42.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
