@@ -1,0 +1,11 @@
+gnome-remote-desktop:
+gnome-remote-desktop: GNOME Remote Desktop
+gnome-remote-desktop:
+gnome-remote-desktop: Remote desktop server which allows you to connect to your machine
+gnome-remote-desktop: remotely
+gnome-remote-desktop:
+gnome-remote-desktop:
+gnome-remote-desktop:
+gnome-remote-desktop:
+gnome-remote-desktop: https://gitlab.gnome.org/GNOME/gnome-remote-desktop
+gnome-remote-desktop:

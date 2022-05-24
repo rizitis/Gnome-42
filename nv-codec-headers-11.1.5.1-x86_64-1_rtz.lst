@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./nv-codec-headers-11.1.5.1-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-24 19:51 ./
+drwxr-xr-x root/root         0 2022-05-24 19:51 install/
+-rw-r--r-- root/root       921 2022-05-24 19:51 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-24 19:51 usr/
+drwxr-xr-x root/root         0 2022-05-24 19:51 usr/doc/
+drwxr-xr-x root/root         0 2022-05-24 19:51 usr/doc/nv-codec-headers-11.1.5.1/
+-rw-rw-r-- root/root       207 2022-01-11 04:00 usr/doc/nv-codec-headers-11.1.5.1/README
+-rw-r--r-- root/root      2653 2022-05-24 19:51 usr/doc/nv-codec-headers-11.1.5.1/nv-codec-headers.SlackBuild
+drwxr-xr-x root/root         0 2022-05-24 19:51 usr/include/
+drwxr-xr-x root/root         0 2022-05-24 19:51 usr/include/ffnvcodec/
+-rw-r--r-- root/root     20271 2022-05-24 19:51 usr/include/ffnvcodec/dynlink_cuda.h
+-rw-r--r-- root/root     66471 2022-05-24 19:51 usr/include/ffnvcodec/dynlink_cuviddec.h
+-rw-r--r-- root/root     20899 2022-05-24 19:51 usr/include/ffnvcodec/dynlink_loader.h
+-rw-r--r-- root/root     25833 2022-05-24 19:51 usr/include/ffnvcodec/dynlink_nvcuvid.h
+-rw-r--r-- root/root    241580 2022-05-24 19:51 usr/include/ffnvcodec/nvEncodeAPI.h
+drwxr-xr-x root/root         0 2022-05-24 19:51 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-24 19:51 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       156 2022-05-24 19:51 usr/lib64/pkgconfig/ffnvcodec.pc
+
+

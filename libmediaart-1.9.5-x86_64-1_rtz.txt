@@ -1,0 +1,11 @@
+libmediaart:
+libmediaart: libmediaart
+libmediaart:
+libmediaart: Library tasked with managing, extracting and handling media art
+libmediaart: caches.
+libmediaart:
+libmediaart:
+libmediaart:
+libmediaart:
+libmediaart: https://gitlab.gnome.org/GNOME/libmediaart
+libmediaart:

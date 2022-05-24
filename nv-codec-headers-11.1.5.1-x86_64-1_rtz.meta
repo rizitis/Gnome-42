@@ -1,0 +1,17 @@
+PACKAGE NAME:  nv-codec-headers-11.1.5.1-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  72 K
+PACKAGE SIZE (uncompressed):  390 K
+PACKAGE DESCRIPTION:
+nv-codec-headers: nv-codec-headers (FFmpeg version of Nvidia Codec SDK headers)
+nv-codec-headers:
+nv-codec-headers: FFmpeg version of headers required to interface with Nvidia's
+nv-codec-headers: codec APIs. Corresponds to Video Codec SDK version 11.1.5.
+nv-codec-headers:
+nv-codec-headers:
+nv-codec-headers:
+nv-codec-headers: https://github.com/FFmpeg/nv-codec-headers
+nv-codec-headers:
+nv-codec-headers:
+nv-codec-headers:
+

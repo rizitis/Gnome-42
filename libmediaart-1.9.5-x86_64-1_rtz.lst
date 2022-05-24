@@ -1,0 +1,62 @@
+++========================================
+||
+||   Package:  ./libmediaart-1.9.5-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-24 20:01 ./
+drwxr-xr-x root/root         0 2022-05-24 20:01 install/
+-rw-r--r-- root/root       232 2022-05-24 20:01 install/doinst.sh
+-rw-r--r-- root/root       270 2022-05-24 20:01 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/doc/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/doc/libmediaart-1.9.5/
+-rw-r--r-- root/root     18092 2021-05-22 20:23 usr/doc/libmediaart-1.9.5/COPYING
+-rw-r--r-- root/root     26530 2021-05-22 20:23 usr/doc/libmediaart-1.9.5/COPYING.LESSER
+-rw-r--r-- root/root      5513 2021-05-22 20:23 usr/doc/libmediaart-1.9.5/NEWS
+-rw-r--r-- root/root        96 2021-05-22 20:23 usr/doc/libmediaart-1.9.5/README.md
+-rw-r--r-- root/root      4055 2022-05-24 20:01 usr/doc/libmediaart-1.9.5/libmediaart.SlackBuild
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/include/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/include/libmediaart-2.0/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/include/libmediaart-2.0/libmediaart/
+-rw-r--r-- root/root      3003 2021-05-22 20:23 usr/include/libmediaart-2.0/libmediaart/cache.h
+-rw-r--r-- root/root      9995 2021-05-22 20:23 usr/include/libmediaart-2.0/libmediaart/extract.h
+-rw-r--r-- root/root      1958 2021-05-22 20:23 usr/include/libmediaart-2.0/libmediaart/extractgeneric.h
+-rw-r--r-- root/root      1149 2021-05-22 20:23 usr/include/libmediaart-2.0/libmediaart/mediaart-macros.h
+-rw-r--r-- root/root      1060 2021-05-22 20:23 usr/include/libmediaart-2.0/libmediaart/mediaart.h
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      4644 2022-05-24 20:01 usr/lib64/girepository-1.0/MediaArt-2.0.typelib
+-rwxr-xr-x root/root     52568 2022-05-24 20:01 usr/lib64/libmediaart-2.0.so.0.905.0
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       319 2022-05-24 20:01 usr/lib64/pkgconfig/libmediaart-2.0.pc
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/share/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/share/gir-1.0/
+-rw-r--r-- root/root     64321 2022-05-24 20:01 usr/share/gir-1.0/MediaArt-2.0.gir
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/
+-rw-r--r-- root/root     69206 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/MediaArtProcess.html
+-rw-r--r-- root/root      3828 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/annotation-glossary.html
+-rw-r--r-- root/root      9193 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/api-index-full.html
+-rw-r--r-- root/root      2229 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/ch02.html
+-rw-r--r-- root/root       256 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/home.png
+-rw-r--r-- root/root      2396 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/index.html
+-rw-r--r-- root/root       395 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/left-insensitive.png
+-rw-r--r-- root/root       262 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/left.png
+-rw-r--r-- root/root     31724 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/libmediaart-Cache.html
+-rw-r--r-- root/root     12543 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/libmediaart-Plugins.html
+-rw-r--r-- root/root      2441 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/libmediaart-reference.html
+-rw-r--r-- root/root      5939 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/libmediaart.devhelp2
+-rw-r--r-- root/root      2660 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/overview-compiling.html
+-rw-r--r-- root/root      2026 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/overview.html
+-rw-r--r-- root/root       373 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/right-insensitive.png
+-rw-r--r-- root/root       261 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/right.png
+-rw-r--r-- root/root     12017 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/style.css
+-rw-r--r-- root/root       374 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/up-insensitive.png
+-rw-r--r-- root/root       260 2022-05-24 20:01 usr/share/gtk-doc/html/libmediaart/up.png
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/share/vala/
+drwxr-xr-x root/root         0 2022-05-24 20:01 usr/share/vala/vapi/
+-rw-r--r-- root/root         8 2022-05-24 20:01 usr/share/vala/vapi/libmediaart-2.0.deps
+-rw-r--r-- root/root      4286 2022-05-24 20:01 usr/share/vala/vapi/libmediaart-2.0.vapi
+
+
