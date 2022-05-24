@@ -1,0 +1,17 @@
+PACKAGE NAME:  xdg-desktop-portal-gnome-42.1-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  220 K
+PACKAGE SIZE (uncompressed):  880 K
+PACKAGE DESCRIPTION:
+xdg-desktop-portal-gnome: xdg-desktop-portal-gnome
+xdg-desktop-portal-gnome:
+xdg-desktop-portal-gnome: A backend implementation for xdg-desktop-portal for the 
+xdg-desktop-portal-gnome: GNOME desktop environment
+xdg-desktop-portal-gnome: that is using GTK and various pieces of GNOME infrastructure,
+xdg-desktop-portal-gnome: such as the org.gnome.Shell.Screenshot or org.gnome.
+xdg-desktop-portal-gnome: SessionManager D-Bus interfaces.
+xdg-desktop-portal-gnome:
+xdg-desktop-portal-gnome: A backend implementation for xdg-desktop-portal
+xdg-desktop-portal-gnome: https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome
+xdg-desktop-portal-gnome:
+

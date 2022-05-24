@@ -1,0 +1,17 @@
+PACKAGE NAME:  gdm-settings-0.5.3-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  56 K
+PACKAGE SIZE (uncompressed):  280 K
+PACKAGE DESCRIPTION:
+appname: appname (short description of app)
+appname:
+appname: Long description of appname, wrapped at 71 characters *after* the
+appname: colon following "appname" (and the 'handy ruler' should start at
+appname: that colon and be exactly 71 characters long).
+appname: If there is room, there might be a link to the homepage of the
+appname: application on one of these lines, but it's not necessary.
+appname:
+appname: The maximum number of lines prefixed by "appname:" is 11.
+appname: Lines without any other text should *not* have a space after the :
+appname:
+

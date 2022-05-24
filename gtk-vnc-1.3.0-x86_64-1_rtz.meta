@@ -1,0 +1,17 @@
+PACKAGE NAME:  gtk-vnc-1.3.0-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  240 K
+PACKAGE SIZE (uncompressed):  1210 K
+PACKAGE DESCRIPTION:
+gtk-vnc: gtk-vnc (VNC viewer widget for GTK)
+gtk-vnc:
+gtk-vnc: gtk-vnc is a VNC viewer widget for GTK. It is built using
+gtk-vnc: coroutines allowing it to be completely asynchronous while
+gtk-vnc: remaining single threaded. It provides a core C library, and
+gtk-vnc: bindings for Python (PyGTK).
+gtk-vnc:
+gtk-vnc:
+gtk-vnc:
+gtk-vnc:
+gtk-vnc:
+

@@ -1,0 +1,76 @@
+++========================================
+||
+||   Package:  ./clutter-gtk-1.8.4-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 09:32 ./
+drwxr-xr-x root/root         0 2022-05-19 09:32 install/
+-rw-r--r-- root/root       250 2022-05-19 09:32 install/doinst.sh
+-rw-r--r-- root/root      1005 2022-05-19 09:32 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/doc/clutter-gtk-1.8.4/
+-rw-r--r-- root/root     95341 2017-08-09 13:16 usr/doc/clutter-gtk-1.8.4/ABOUT-NLS
+-rw-r--r-- root/root     26430 2016-11-18 22:15 usr/doc/clutter-gtk-1.8.4/COPYING
+-rw-r--r-- root/root     18321 2017-08-09 13:11 usr/doc/clutter-gtk-1.8.4/NEWS
+-rw-r--r-- root/root       710 2016-11-18 22:15 usr/doc/clutter-gtk-1.8.4/README
+-rw-r--r-- root/root      3338 2022-05-19 09:32 usr/doc/clutter-gtk-1.8.4/clutter-gtk.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/include/clutter-gtk-1.0/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/include/clutter-gtk-1.0/clutter-gtk/
+-rw-r--r-- root/root       393 2016-11-18 22:15 usr/include/clutter-gtk-1.0/clutter-gtk/clutter-gtk.h
+-rw-r--r-- root/root      3165 2017-05-26 15:01 usr/include/clutter-gtk-1.0/clutter-gtk/gtk-clutter-actor.h
+-rw-r--r-- root/root      3379 2017-05-26 15:01 usr/include/clutter-gtk-1.0/clutter-gtk/gtk-clutter-embed.h
+-rw-r--r-- root/root      4380 2017-05-26 15:01 usr/include/clutter-gtk-1.0/clutter-gtk/gtk-clutter-texture.h
+-rw-r--r-- root/root      1926 2017-05-26 15:01 usr/include/clutter-gtk-1.0/clutter-gtk/gtk-clutter-util.h
+-rw-r--r-- root/root      3360 2022-05-19 09:32 usr/include/clutter-gtk-1.0/clutter-gtk/gtk-clutter-version.h
+-rw-r--r-- root/root      3172 2017-05-26 15:01 usr/include/clutter-gtk-1.0/clutter-gtk/gtk-clutter-window.h
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      4212 2022-05-19 09:32 usr/lib64/girepository-1.0/GtkClutter-1.0.typelib
+-rwxr-xr-x root/root     59264 2022-05-19 09:32 usr/lib64/libclutter-gtk-1.0.so.0.800.4
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       311 2022-05-19 09:32 usr/lib64/pkgconfig/clutter-gtk-1.0.pc
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/gir-1.0/
+-rw-r--r-- root/root     52673 2022-05-19 09:32 usr/share/gir-1.0/GtkClutter-1.0.gir
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/
+-rw-r--r-- root/root     18623 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/GtkClutterActor.html
+-rw-r--r-- root/root     19428 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/GtkClutterEmbed.html
+-rw-r--r-- root/root     10597 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/GtkClutterWindow.html
+-rw-r--r-- root/root      3501 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/annotation-glossary.html
+-rw-r--r-- root/root      1942 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/ch01.html
+-rw-r--r-- root/root      2203 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/ch02.html
+-rw-r--r-- root/root      1914 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/ch03.html
+-rw-r--r-- root/root     18929 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/clutter-gtk-1.0-Utility-Functions.html
+-rw-r--r-- root/root      4105 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/clutter-gtk-1.0.devhelp2
+-rw-r--r-- root/root      1853 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/cluttergtk-glossary.html
+-rw-r--r-- root/root      3345 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/cluttergtk-object-hierarchy.html
+-rw-r--r-- root/root      2932 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/cluttergtk-object-index.html
+-rw-r--r-- root/root      1958 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/cluttergtk-objects.html
+-rw-r--r-- root/root       256 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/home.png
+-rw-r--r-- root/root      4055 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/index.html
+-rw-r--r-- root/root      5590 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/ix01.html
+-rw-r--r-- root/root      8548 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/ix02.html
+-rw-r--r-- root/root       395 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/left-insensitive.png
+-rw-r--r-- root/root       262 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/left.png
+-rw-r--r-- root/root      2797 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/license.html
+-rw-r--r-- root/root       373 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/right-insensitive.png
+-rw-r--r-- root/root       261 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/right.png
+-rw-r--r-- root/root     12017 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/style.css
+-rw-r--r-- root/root       374 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/up-insensitive.png
+-rw-r--r-- root/root       260 2022-05-19 09:32 usr/share/gtk-doc/html/clutter-gtk-1.0/up.png
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/locale/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/locale/ja/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/locale/ja/LC_MESSAGES/
+-rw-r--r-- root/root       580 2022-05-19 09:32 usr/share/locale/ja/LC_MESSAGES/cluttergtk-1.0.mo
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/locale/pl/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/locale/pl/LC_MESSAGES/
+-rw-r--r-- root/root       660 2022-05-19 09:32 usr/share/locale/pl/LC_MESSAGES/cluttergtk-1.0.mo
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/locale/zh_CN/
+drwxr-xr-x root/root         0 2022-05-19 09:32 usr/share/locale/zh_CN/LC_MESSAGES/
+-rw-r--r-- root/root       525 2022-05-19 09:32 usr/share/locale/zh_CN/LC_MESSAGES/cluttergtk-1.0.mo
+
+

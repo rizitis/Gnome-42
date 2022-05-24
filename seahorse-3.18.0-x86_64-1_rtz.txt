@@ -1,0 +1,11 @@
+seahorse: seahorse (encryption made easy)
+seahorse:
+seahorse: Seahorse is a GNOME application for managing encryption keys. It also
+seahorse: integrates with nautilus, gedit and other places for encryption
+seahorse: operations.
+seahorse:
+seahorse:
+seahorse:
+seahorse:
+seahorse:
+seahorse:

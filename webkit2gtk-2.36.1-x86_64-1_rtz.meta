@@ -1,0 +1,17 @@
+PACKAGE NAME:  webkit2gtk-2.36.1-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  41236 K
+PACKAGE SIZE (uncompressed):  136390 K
+PACKAGE DESCRIPTION:
+webkit2gtk: webkit2gtk (Web content rendering)
+webkit2gtk:
+webkit2gtk: WebKitGTK+ is a full-featured port of the WebKit rendering engine,
+webkit2gtk: suitable for projects requiring any kind of web integration, from
+webkit2gtk: hybrid HTML/CSS applications to full-fledged web browsers.
+webkit2gtk: It offers WebKit's full functionality and is useful in a wide range
+webkit2gtk: of systems from desktop computers to embedded systems like phones,
+webkit2gtk: tablets, and televisions.
+webkit2gtk:
+webkit2gtk: https://www.webkitgtk.org/
+webkit2gtk:
+

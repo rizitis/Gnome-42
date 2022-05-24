@@ -1,0 +1,84 @@
+++========================================
+||
+||   Package:  ./clutter-gst-3.0.27-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 10:41 ./
+drwxr-xr-x root/root         0 2022-05-19 10:41 install/
+-rw-r--r-- root/root       254 2022-05-19 10:41 install/doinst.sh
+-rw-r--r-- root/root       882 2022-05-19 10:41 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/doc/clutter-gst-3.0.27/
+-rw-r--r-- root/root       263 2019-02-06 21:35 usr/doc/clutter-gst-3.0.27/AUTHORS
+-rw-r--r-- root/root     26530 2019-02-06 21:35 usr/doc/clutter-gst-3.0.27/COPYING
+-rw-r--r-- root/root     13982 2019-02-06 21:35 usr/doc/clutter-gst-3.0.27/ChangeLog.pre-git-import
+-rw-r--r-- root/root      9240 2019-02-06 21:35 usr/doc/clutter-gst-3.0.27/INSTALL
+-rw-r--r-- root/root     16103 2019-02-06 22:59 usr/doc/clutter-gst-3.0.27/NEWS
+-rw-r--r-- root/root      1143 2019-02-06 21:35 usr/doc/clutter-gst-3.0.27/README
+-rw-r--r-- root/root      3167 2022-05-19 10:41 usr/doc/clutter-gst-3.0.27/clutter-gst.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/include/clutter-gst-3.0/
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/
+-rw-r--r-- root/root      3106 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-aspectratio.h
+-rw-r--r-- root/root      4375 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-camera-device.h
+-rw-r--r-- root/root      3080 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-camera-manager.h
+-rw-r--r-- root/root     10235 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-camera.h
+-rw-r--r-- root/root      3738 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-content.h
+-rw-r--r-- root/root      2807 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-crop.h
+-rw-r--r-- root/root       736 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-enum-types.h
+-rw-r--r-- root/root      8392 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-playback.h
+-rw-r--r-- root/root      6435 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-player.h
+-rw-r--r-- root/root      4531 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-types.h
+-rw-r--r-- root/root      1900 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-util.h
+-rw-r--r-- root/root      2928 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-version.h
+-rw-r--r-- root/root      4038 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst-video-sink.h
+-rw-r--r-- root/root      1645 2022-05-19 10:41 usr/include/clutter-gst-3.0/clutter-gst/clutter-gst.h
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root     19592 2022-05-19 10:41 usr/lib64/girepository-1.0/ClutterGst-3.0.typelib
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/lib64/gstreamer-1.0/
+-rwxr-xr-x root/root      1466 2022-05-19 10:41 usr/lib64/gstreamer-1.0/libcluttergst3.la
+-rwxr-xr-x root/root     18840 2022-05-19 10:41 usr/lib64/gstreamer-1.0/libcluttergst3.so
+-rwxr-xr-x root/root      1455 2022-05-19 10:41 usr/lib64/libclutter-gst-3.0.la
+-rwxr-xr-x root/root    170112 2022-05-19 10:41 usr/lib64/libclutter-gst-3.0.so.0.27.0
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       395 2022-05-19 10:41 usr/lib64/pkgconfig/clutter-gst-3.0.pc
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/share/gir-1.0/
+-rw-r--r-- root/root    219202 2022-05-19 10:41 usr/share/gir-1.0/ClutterGst-3.0.gir
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/
+-rw-r--r-- root/root      8826 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ClutterGstAspectratio.html
+-rw-r--r-- root/root     72451 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ClutterGstCamera.html
+-rw-r--r-- root/root     21110 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ClutterGstCameraDevice.html
+-rw-r--r-- root/root     13009 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ClutterGstCameraManager.html
+-rw-r--r-- root/root     28969 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ClutterGstContent.html
+-rw-r--r-- root/root     10117 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ClutterGstCrop.html
+-rw-r--r-- root/root     77003 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ClutterGstPlayback.html
+-rw-r--r-- root/root     40581 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ClutterGstPlayer.html
+-rw-r--r-- root/root      3965 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/annotation-glossary.html
+-rw-r--r-- root/root     55479 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/api-index-all.html
+-rw-r--r-- root/root      1756 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ch01.html
+-rw-r--r-- root/root      2358 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ch02.html
+-rw-r--r-- root/root      2635 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ch03.html
+-rw-r--r-- root/root      1907 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ch04.html
+-rw-r--r-- root/root      2173 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/ch05.html
+-rw-r--r-- root/root     31754 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/clutter-gst-3.0.devhelp2
+-rw-r--r-- root/root     19545 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/clutter-gst-Types.html
+-rw-r--r-- root/root     19209 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/clutter-gst-Utilities.html
+-rw-r--r-- root/root      8083 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/clutter-gst-Versioning-Macros.html
+-rw-r--r-- root/root     31613 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/clutter-gst-Video-Sink.html
+-rw-r--r-- root/root       256 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/home.png
+-rw-r--r-- root/root      5411 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/index.html
+-rw-r--r-- root/root       395 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/left-insensitive.png
+-rw-r--r-- root/root       262 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/left.png
+-rw-r--r-- root/root      2825 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/license.html
+-rw-r--r-- root/root       373 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/right-insensitive.png
+-rw-r--r-- root/root       261 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/right.png
+-rw-r--r-- root/root      8852 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/style.css
+-rw-r--r-- root/root       374 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/up-insensitive.png
+-rw-r--r-- root/root       260 2022-05-19 10:41 usr/share/gtk-doc/html/clutter-gst-3.0/up.png
+
+

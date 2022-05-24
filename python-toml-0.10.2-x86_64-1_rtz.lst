@@ -1,0 +1,54 @@
+++========================================
+||
+||   Package:  ./python-toml-0.10.2-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 11:39 ./
+drwxr-xr-x root/root         0 2022-05-19 11:39 install/
+-rw-r--r-- root/root       759 2022-05-19 11:39 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/doc/python-toml-0.10.2/
+-rw-r--r-- root/root      1252 2020-10-31 05:20 usr/doc/python-toml-0.10.2/LICENSE
+-rw-r--r-- root/root      5931 2020-11-01 03:35 usr/doc/python-toml-0.10.2/README.rst
+-rw-r--r-- root/root      3111 2022-05-19 11:39 usr/doc/python-toml-0.10.2/python-toml.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml-0.10.2-py2.7.egg-info/
+-rw-r--r-- root/root      8945 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml-0.10.2-py2.7.egg-info/PKG-INFO
+-rw-r--r-- root/root       466 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml-0.10.2-py2.7.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml-0.10.2-py2.7.egg-info/dependency_links.txt
+-rw-r--r-- root/root         5 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml-0.10.2-py2.7.egg-info/top_level.txt
+-rw-r--r-- root/root       723 2020-11-01 03:37 usr/lib64/python2.7/site-packages/toml/__init__.py
+-rw-r--r-- root/root       798 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml/__init__.pyc
+-rw-r--r-- root/root     38942 2020-10-31 05:20 usr/lib64/python2.7/site-packages/toml/decoder.py
+-rw-r--r-- root/root     27732 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml/decoder.pyc
+-rw-r--r-- root/root      9940 2020-10-31 05:20 usr/lib64/python2.7/site-packages/toml/encoder.py
+-rw-r--r-- root/root     11473 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml/encoder.pyc
+-rw-r--r-- root/root       354 2018-04-01 19:33 usr/lib64/python2.7/site-packages/toml/ordered.py
+-rw-r--r-- root/root      1112 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml/ordered.pyc
+-rw-r--r-- root/root       701 2020-10-31 05:20 usr/lib64/python2.7/site-packages/toml/tz.py
+-rw-r--r-- root/root      1553 2022-05-19 11:39 usr/lib64/python2.7/site-packages/toml/tz.pyc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml-0.10.2-py3.9.egg-info/
+-rw-r--r-- root/root      7164 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml-0.10.2-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       466 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml-0.10.2-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml-0.10.2-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         5 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml-0.10.2-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       723 2020-11-01 03:37 usr/lib64/python3.9/site-packages/toml/__init__.py
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml/__pycache__/
+-rw-r--r-- root/root       674 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     23166 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml/__pycache__/decoder.cpython-39.pyc
+-rw-r--r-- root/root      9349 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml/__pycache__/encoder.cpython-39.pyc
+-rw-r--r-- root/root       913 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml/__pycache__/ordered.cpython-39.pyc
+-rw-r--r-- root/root      1227 2022-05-19 11:39 usr/lib64/python3.9/site-packages/toml/__pycache__/tz.cpython-39.pyc
+-rw-r--r-- root/root     38942 2020-10-31 05:20 usr/lib64/python3.9/site-packages/toml/decoder.py
+-rw-r--r-- root/root      9940 2020-10-31 05:20 usr/lib64/python3.9/site-packages/toml/encoder.py
+-rw-r--r-- root/root       354 2018-04-01 19:33 usr/lib64/python3.9/site-packages/toml/ordered.py
+-rw-r--r-- root/root       701 2020-10-31 05:20 usr/lib64/python3.9/site-packages/toml/tz.py
+
+

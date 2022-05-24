@@ -1,0 +1,11 @@
+libadwaita: libadwaita 
+libadwaita:
+libadwaita: 
+libadwaita: Building blocks for modern GNOME applications.
+libadwaita: Libadwaita is a GTK 4 library implementing the GNOME HIG
+libadwaita: complementing GTK. For GTK 3 this role has increasingly been played 
+libadwaita: by Libhandy, and so Libadwaita is a direct Libhandy successor.
+libadwaita:
+libadwaita: 
+libadwaita: https://gitlab.gnome.org/GNOME/libadwaita 
+libadwaita:

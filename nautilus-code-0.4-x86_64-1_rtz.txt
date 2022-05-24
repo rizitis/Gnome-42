@@ -1,0 +1,11 @@
+nautilus-code: nautilus-code (An extension for Nautilus)
+nautilus-code:
+nautilus-code: An extension for Nautilus (GNOME Files) File Manager
+nautilus-code:  which adds right-click menu options to 
+nautilus-code: open current/selected folder in Code Editors and IDEs
+nautilus-code: like VSCode or GNOME Builder
+nautilus-code: (if they are installed)
+nautilus-code:
+nautilus-code: 
+nautilus-code: https://github.com/realmazharhussain/nautilus-code
+nautilus-code:

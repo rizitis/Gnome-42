@@ -1,0 +1,11 @@
+xdg-dbus-proxy: xdg-dbus-proxy (D-Bus proxy)
+xdg-dbus-proxy:
+xdg-dbus-proxy: xdg-dbus-proxy is a filtering proxy for D-Bus connections.
+xdg-dbus-proxy: It was originally part of the flatpak project, but it has been broken
+xdg-dbus-proxy: out as a standalone module to facilitate using it in other contexts.
+xdg-dbus-proxy:
+xdg-dbus-proxy: homepage: https://github.com/flatpak/xdg-dbus-proxy
+xdg-dbus-proxy:
+xdg-dbus-proxy:
+xdg-dbus-proxy:
+xdg-dbus-proxy:

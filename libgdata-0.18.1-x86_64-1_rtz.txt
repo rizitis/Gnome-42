@@ -1,0 +1,11 @@
+libgdata: libgdata (online services APIs access)
+libgdata:
+libgdata: libgdata is a GLib-based library for accessing online services APIs
+libgdata: using the GData protocol - most notably, Google's services. It
+libgdata: provides APIs to access the common Google services, and has full
+libgdata: assynchronous support.
+libgdata:
+libgdata: https://gitlab.gnome.org/GNOME/libgdata/
+libgdata:
+libgdata:
+libgdata:

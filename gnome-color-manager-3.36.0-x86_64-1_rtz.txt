@@ -1,0 +1,11 @@
+gnome-color-manager: GNOME Color Manager
+gnome-color-manager:
+gnome-color-manager: GNOME Color Manager is a session framework for the GNOME desktop
+gnome-color-manager: environment that makes it easy to manage, install and generate color
+gnome-color-manager: profiles.
+gnome-color-manager:
+gnome-color-manager:
+gnome-color-manager:
+gnome-color-manager:
+gnome-color-manager: https://gitlab.gnome.org/GNOME/gnome-color-manager
+gnome-color-manager:

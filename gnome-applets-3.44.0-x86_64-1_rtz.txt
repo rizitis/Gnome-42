@@ -1,0 +1,11 @@
+gnome-applets: GNOME Applets
+gnome-applets:
+gnome-applets: GNOME Applets is part of the GNOME Flashback project
+gnome-applets: and contains applets for use with
+gnome-applets:
+gnome-applets:
+gnome-applets:
+gnome-applets:
+gnome-applets:
+gnome-applets: https://wiki.gnome.org/Projects/GnomeApplets
+gnome-applets:

@@ -1,0 +1,17 @@
+PACKAGE NAME:  clutter-gtk-1.8.4-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  450 K
+PACKAGE DESCRIPTION:
+clutter-gtk: clutter-gtk (GTK+ Integration library for Clutter)
+clutter-gtk:
+clutter-gtk: Clutter-GTK package is a library providing facilities to integrate
+clutter-gtk: Clutter into GTK+ applications and vice versa.
+clutter-gtk:
+clutter-gtk: Clutter-GTK provides a GTK+ widget, GtkClutterEmbed, for embedding
+clutter-gtk: a Clutter stage into any GtkContainer; and GtkClutterActor, a Clutter
+clutter-gtk: actor for embedding any GtkWidget inside a Clutter stage.
+clutter-gtk:
+clutter-gtk: https://wiki.gnome.org/Projects/Clutter
+clutter-gtk:
+

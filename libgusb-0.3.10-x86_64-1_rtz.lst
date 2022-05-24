@@ -1,0 +1,75 @@
+++========================================
+||
+||   Package:  ./libgusb-0.3.10-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 10:38 ./
+drwxr-xr-x root/root         0 2022-05-19 10:38 install/
+-rw-r--r-- root/root       183 2022-05-19 10:38 install/doinst.sh
+-rw-r--r-- root/root       937 2022-05-19 10:38 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/bin/
+-rwxr-xr-x root/root     22496 2022-05-19 10:38 usr/bin/gusbcmd
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/doc/libgusb-0.3.10/
+-rw-r--r-- root/root        73 2022-01-10 11:57 usr/doc/libgusb-0.3.10/AUTHORS
+-rw-r--r-- root/root     26527 2022-01-10 11:57 usr/doc/libgusb-0.3.10/COPYING
+-rw-r--r-- root/root        37 2022-01-10 11:57 usr/doc/libgusb-0.3.10/MAINTAINERS
+-rw-r--r-- root/root      3434 2022-05-19 10:38 usr/doc/libgusb-0.3.10/libgusb.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/include/gusb-1/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/include/gusb-1/gusb/
+-rw-r--r-- root/root       535 2022-01-10 11:57 usr/include/gusb-1/gusb.h
+-rw-r--r-- root/root       514 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-autocleanups.h
+-rw-r--r-- root/root       588 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-context-private.h
+-rw-r--r-- root/root      3086 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-context.h
+-rw-r--r-- root/root      2016 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-device-list.h
+-rw-r--r-- root/root       508 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-device-private.h
+-rw-r--r-- root/root      9088 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-device.h
+-rw-r--r-- root/root       365 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-endpoint-private.h
+-rw-r--r-- root/root      1043 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-endpoint.h
+-rw-r--r-- root/root       366 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-interface-private.h
+-rw-r--r-- root/root      1119 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-interface.h
+-rw-r--r-- root/root       755 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-source.h
+-rw-r--r-- root/root       290 2022-01-10 11:57 usr/include/gusb-1/gusb/gusb-util.h
+-rw-r--r-- root/root      1312 2022-05-19 10:38 usr/include/gusb-1/gusb/gusb-version.h
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root     15580 2022-05-19 10:38 usr/lib64/girepository-1.0/GUsb-1.0.typelib
+-rwxr-xr-x root/root     71552 2022-05-19 10:38 usr/lib64/libgusb.so.2.0.10
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       260 2022-05-19 10:38 usr/lib64/pkgconfig/gusb.pc
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/share/gir-1.0/
+-rw-r--r-- root/root    143249 2022-05-19 10:38 usr/share/gir-1.0/GUsb-1.0.gir
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/
+-rw-r--r-- root/root      1967 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/faq.html
+-rw-r--r-- root/root     43171 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/gusb-GUsbContext.html
+-rw-r--r-- root/root    130214 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/gusb-GUsbDevice.html
+-rw-r--r-- root/root     17516 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/gusb-GUsbDeviceList.html
+-rw-r--r-- root/root     19953 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/gusb-gusb-endpoint.html
+-rw-r--r-- root/root     21970 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/gusb-gusb-interface.html
+-rw-r--r-- root/root      8253 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/gusb-gusb-source.html
+-rw-r--r-- root/root      5830 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/gusb-gusb-version.html
+-rw-r--r-- root/root     23708 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/gusb.devhelp2
+-rw-r--r-- root/root       256 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/home.png
+-rw-r--r-- root/root      3548 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/index.html
+-rw-r--r-- root/root      2040 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/introduction.html
+-rw-r--r-- root/root       395 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/left-insensitive.png
+-rw-r--r-- root/root       262 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/left.png
+-rw-r--r-- root/root      2001 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/libgusb-helpers.html
+-rw-r--r-- root/root      2799 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/libgusb.html
+-rw-r--r-- root/root       373 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/right-insensitive.png
+-rw-r--r-- root/root       261 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/right.png
+-rw-r--r-- root/root      2065 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/specification.html
+-rw-r--r-- root/root     12017 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/style.css
+-rw-r--r-- root/root       374 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/up-insensitive.png
+-rw-r--r-- root/root       260 2022-05-19 10:38 usr/share/gtk-doc/html/gusb/up.png
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/share/vala/
+drwxr-xr-x root/root         0 2022-05-19 10:38 usr/share/vala/vapi/
+-rw-r--r-- root/root         8 2022-05-19 10:38 usr/share/vala/vapi/gusb.deps
+-rw-r--r-- root/root     12711 2022-05-19 10:38 usr/share/vala/vapi/gusb.vapi
+
+

@@ -1,0 +1,11 @@
+orca: orca (flexible, and extensible screen reader)
+orca:
+orca: Orca works with applications and toolkits that support the assistive 
+orca: technology service provider interface (AT-SPI), which is the
+orca: primary assistive technology infrastructure for the Solaris
+orca: and Linux operating environments.  Applications and toolkits 
+orca: supporting AT-SPI.
+orca:
+orca: See also
+orca: http://wiki.gnome.org/Projects/Orca
+orca:

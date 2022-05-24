@@ -1,0 +1,11 @@
+gitg: gitg
+gitg:
+gitg: Git repository viewer for GNOME.
+gitg: gitg is a graphical user interface for git. It aims at being a small
+gitg: fast and convenient tool to visualize the history of git repositories
+gitg: Besides visualization, gitg also provides several utilities
+gitg: to manage your repository and commit your work.
+gitg:
+gitg:
+gitg: https://gitlab.gnome.org/GNOME/gitg
+gitg:

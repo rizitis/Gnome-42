@@ -1,0 +1,11 @@
+brasero: brasero (CD/DVD burning application)
+brasero:
+brasero: Brasero is an application to burn CD/DVD for the Gnome Desktop. It is
+brasero: designed to be as simple as possible and has some unique features to
+brasero: enable users to create their discs easily and quickly.
+brasero:
+brasero: Homepage: http://projects.gnome.org/brasero
+brasero:
+brasero:
+brasero:
+brasero:

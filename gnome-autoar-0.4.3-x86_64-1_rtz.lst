@@ -1,0 +1,43 @@
+++========================================
+||
+||   Package:  ./gnome-autoar-0.4.3-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 09:19 ./
+drwxr-xr-x root/root         0 2022-05-19 09:19 install/
+-rw-r--r-- root/root       508 2022-05-19 09:19 install/doinst.sh
+-rw-r--r-- root/root      1154 2022-05-19 09:19 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/doc/gnome-autoar-0.4.3/
+-rw-r--r-- root/root     26530 2022-02-11 10:37 usr/doc/gnome-autoar-0.4.3/COPYING
+-rw-r--r-- root/root      3181 2022-02-11 10:37 usr/doc/gnome-autoar-0.4.3/NEWS
+-rw-r--r-- root/root       165 2022-02-11 10:37 usr/doc/gnome-autoar-0.4.3/README.md
+-rw-r--r-- root/root      3516 2022-05-19 09:19 usr/doc/gnome-autoar-0.4.3/gnome-autoar.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/include/gnome-autoar-0/
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/include/gnome-autoar-0/gnome-autoar/
+-rw-r--r-- root/root      4234 2022-02-11 10:37 usr/include/gnome-autoar-0/gnome-autoar/autoar-compressor.h
+-rw-r--r-- root/root       824 2022-05-19 09:19 usr/include/gnome-autoar-0/gnome-autoar/autoar-enum-types.h
+-rw-r--r-- root/root      3724 2022-02-11 10:37 usr/include/gnome-autoar-0/gnome-autoar/autoar-extractor.h
+-rw-r--r-- root/root      6522 2022-02-11 10:37 usr/include/gnome-autoar-0/gnome-autoar/autoar-format-filter.h
+-rw-r--r-- root/root      1883 2022-02-11 10:37 usr/include/gnome-autoar-0/gnome-autoar/autoar-gtk-chooser.h
+-rw-r--r-- root/root      1120 2022-02-11 10:37 usr/include/gnome-autoar-0/gnome-autoar/autoar-gtk.h
+-rw-r--r-- root/root      1189 2022-02-11 10:37 usr/include/gnome-autoar-0/gnome-autoar/autoar-mime-types.h
+-rw-r--r-- root/root      1492 2022-02-11 10:37 usr/include/gnome-autoar-0/gnome-autoar/autoar-misc.h
+-rw-r--r-- root/root      1243 2022-02-11 10:37 usr/include/gnome-autoar-0/gnome-autoar/gnome-autoar.h
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      9064 2022-05-19 09:19 usr/lib64/girepository-1.0/GnomeAutoar-0.1.typelib
+-rw-r--r-- root/root      1028 2022-05-19 09:19 usr/lib64/girepository-1.0/GnomeAutoarGtk-0.1.typelib
+-rwxr-xr-x root/root     98192 2022-05-19 09:19 usr/lib64/libgnome-autoar-0.so.0.1.2
+-rwxr-xr-x root/root     23016 2022-05-19 09:19 usr/lib64/libgnome-autoar-gtk-0.so.0.1.2
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       320 2022-05-19 09:19 usr/lib64/pkgconfig/gnome-autoar-0.pc
+-rw-r--r-- root/root       278 2022-05-19 09:19 usr/lib64/pkgconfig/gnome-autoar-gtk-0.pc
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 09:19 usr/share/gir-1.0/
+-rw-r--r-- root/root     97796 2022-05-19 09:19 usr/share/gir-1.0/GnomeAutoar-0.1.gir
+-rw-r--r-- root/root      7880 2022-05-19 09:19 usr/share/gir-1.0/GnomeAutoarGtk-0.1.gir
+
+

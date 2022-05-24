@@ -1,0 +1,11 @@
+vinagre: vinagre (Remote Desktop Viewer)
+vinagre:
+vinagre: Vinagre is a remote desktop viewer for the GNOME Desktop.
+vinagre: 
+vinagre:
+vinagre:
+vinagre:
+vinagre:
+vinagre:
+vinagre: https://gitlab.gnome.org/GNOME/vinagre 
+vinagre:

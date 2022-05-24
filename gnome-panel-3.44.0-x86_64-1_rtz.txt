@@ -1,0 +1,11 @@
+gnome-panel: gnome-panel (short description of app)
+gnome-panel:
+gnome-panel: Gnome Panel is a component that is part of GnomeFlashback
+gnome-panel: and provides panels and default applets for the desktop. 
+gnome-panel: A panel is a horizontal or vertical bar that can be added to each 
+gnome-panel: side of the screen.By default there is one panel on the top of 
+gnome-panel: the screen and one on the bottom, but this is configurable
+gnome-panel:
+gnome-panel:  Gnome Panel component comes with several default applets 
+gnome-panel: https://wiki.gnome.org/Projects/GnomePanel
+gnome-panel:

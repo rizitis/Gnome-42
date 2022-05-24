@@ -1,0 +1,11 @@
+malcontent: malcontent (short description of app)
+malcontent:
+malcontent: malcontent implements parental controls support which can be 
+malcontent: used by applications to filter or limit the access of child 
+malcontent: accounts to inappropriate content.
+malcontent:
+malcontent:
+malcontent:
+malcontent:
+malcontent: https://gitlab.freedesktop.org/pwithnall/malcontent
+malcontent:

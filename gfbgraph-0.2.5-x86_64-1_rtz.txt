@@ -1,0 +1,5 @@
+gfbgraph: GFBGraph
+gfbgraph:
+gfbgraph: GFBGraph is a GLib/GObject wrapper for the Facebook API.
+gfbgraph:
+gfbgraph: https://gitlab.gnome.org/GNOME/libgfbgraph

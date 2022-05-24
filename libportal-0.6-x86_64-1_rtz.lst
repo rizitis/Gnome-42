@@ -1,0 +1,75 @@
+++========================================
+||
+||   Package:  ./libportal-0.6-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 10:34 ./
+drwxr-xr-x root/root         0 2022-05-19 10:34 install/
+-rw-r--r-- root/root       860 2022-05-19 10:34 install/doinst.sh
+-rw-r--r-- root/root       759 2022-05-19 10:34 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/doc/libportal-0.6/
+-rw-r--r-- root/root      7652 2022-03-21 20:51 usr/doc/libportal-0.6/COPYING
+-rw-r--r-- root/root      1686 2022-03-21 20:51 usr/doc/libportal-0.6/NEWS
+-rw-r--r-- root/root      1731 2022-03-21 20:51 usr/doc/libportal-0.6/README.md
+-rw-r--r-- root/root      3352 2022-05-19 10:34 usr/doc/libportal-0.6/libportal.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/include/libportal/
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/include/libportal-gtk3/
+-rw-r--r-- root/root       993 2022-03-21 20:51 usr/include/libportal-gtk3/portal-gtk3.h
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/include/libportal-gtk4/
+-rw-r--r-- root/root       996 2022-03-21 20:51 usr/include/libportal-gtk4/portal-gtk4.h
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/include/libportal-qt5/
+-rw-r--r-- root/root      2700 2022-03-21 20:51 usr/include/libportal-qt5/portal-qt5.h
+-rw-r--r-- root/root      1742 2022-03-21 20:51 usr/include/libportal/account.h
+-rw-r--r-- root/root      2109 2022-03-21 20:51 usr/include/libportal/background.h
+-rw-r--r-- root/root      1682 2022-03-21 20:51 usr/include/libportal/camera.h
+-rw-r--r-- root/root      4529 2022-03-21 20:51 usr/include/libportal/dynamic-launcher.h
+-rw-r--r-- root/root      1981 2022-03-21 20:51 usr/include/libportal/email.h
+-rw-r--r-- root/root      4747 2022-03-21 20:51 usr/include/libportal/filechooser.h
+-rw-r--r-- root/root      4036 2022-03-21 20:51 usr/include/libportal/inhibit.h
+-rw-r--r-- root/root      2733 2022-03-21 20:51 usr/include/libportal/location.h
+-rw-r--r-- root/root      1832 2022-03-21 20:51 usr/include/libportal/notification.h
+-rw-r--r-- root/root      2601 2022-03-21 20:51 usr/include/libportal/openuri.h
+-rw-r--r-- root/root      1080 2022-03-21 20:51 usr/include/libportal/parent.h
+-rw-r--r-- root/root      5226 2022-05-19 10:34 usr/include/libportal/portal-enums.h
+-rw-r--r-- root/root      1223 2022-03-21 20:51 usr/include/libportal/portal-helpers.h
+-rw-r--r-- root/root      1365 2022-03-21 20:51 usr/include/libportal/portal.h
+-rw-r--r-- root/root      2845 2022-03-21 20:51 usr/include/libportal/print.h
+-rw-r--r-- root/root     10200 2022-03-21 20:51 usr/include/libportal/remote.h
+-rw-r--r-- root/root      2237 2022-03-21 20:51 usr/include/libportal/screenshot.h
+-rw-r--r-- root/root      3195 2022-03-21 20:51 usr/include/libportal/spawn.h
+-rw-r--r-- root/root      1459 2022-03-21 20:51 usr/include/libportal/trash.h
+-rw-r--r-- root/root       879 2022-03-21 20:51 usr/include/libportal/types.h
+-rw-r--r-- root/root      3040 2022-03-21 20:51 usr/include/libportal/updates.h
+-rw-r--r-- root/root      2236 2022-03-21 20:51 usr/include/libportal/wallpaper.h
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root     21824 2022-05-19 10:34 usr/lib64/girepository-1.0/Xdp-1.0.typelib
+-rw-r--r-- root/root       420 2022-05-19 10:34 usr/lib64/girepository-1.0/XdpGtk3-1.0.typelib
+-rw-r--r-- root/root       420 2022-05-19 10:34 usr/lib64/girepository-1.0/XdpGtk4-1.0.typelib
+-rwxr-xr-x root/root     34792 2022-05-19 10:34 usr/lib64/libportal-gtk3.so.1.0.0
+-rwxr-xr-x root/root     34808 2022-05-19 10:34 usr/lib64/libportal-gtk4.so.1.0.0
+-rwxr-xr-x root/root     56184 2022-05-19 10:34 usr/lib64/libportal-qt5.so.1.0.0
+-rwxr-xr-x root/root    138144 2022-05-19 10:34 usr/lib64/libportal.so.1.0.0
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       274 2022-05-19 10:34 usr/lib64/pkgconfig/libportal-gtk3.pc
+-rw-r--r-- root/root       270 2022-05-19 10:34 usr/lib64/pkgconfig/libportal-gtk4.pc
+-rw-r--r-- root/root       305 2022-05-19 10:34 usr/lib64/pkgconfig/libportal-qt5.pc
+-rw-r--r-- root/root       236 2022-05-19 10:34 usr/lib64/pkgconfig/libportal.pc
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/share/gir-1.0/
+-rw-r--r-- root/root    232831 2022-05-19 10:34 usr/share/gir-1.0/Xdp-1.0.gir
+-rw-r--r-- root/root      1678 2022-05-19 10:34 usr/share/gir-1.0/XdpGtk3-1.0.gir
+-rw-r--r-- root/root      1678 2022-05-19 10:34 usr/share/gir-1.0/XdpGtk4-1.0.gir
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/share/vala/
+drwxr-xr-x root/root         0 2022-05-19 10:34 usr/share/vala/vapi/
+-rw-r--r-- root/root        27 2022-05-19 10:34 usr/share/vala/vapi/libportal-gtk3.deps
+-rw-r--r-- root/root       308 2022-05-19 10:34 usr/share/vala/vapi/libportal-gtk3.vapi
+-rw-r--r-- root/root        23 2022-05-19 10:34 usr/share/vala/vapi/libportal-gtk4.deps
+-rw-r--r-- root/root       308 2022-05-19 10:34 usr/share/vala/vapi/libportal-gtk4.vapi
+-rw-r--r-- root/root         8 2022-05-19 10:34 usr/share/vala/vapi/libportal.deps
+-rw-r--r-- root/root     15001 2022-05-19 10:34 usr/share/vala/vapi/libportal.vapi
+
+

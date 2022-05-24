@@ -1,0 +1,11 @@
+colord-gtk: colord-gtk (GTK integration for libcolord)
+colord-gtk:
+colord-gtk: colord-gtk is the GTK+ support library for colord.
+colord-gtk:
+colord-gtk: http://www.freedesktop.org/software/colord/
+colord-gtk:
+colord-gtk:
+colord-gtk:
+colord-gtk:
+colord-gtk:
+colord-gtk:

@@ -1,0 +1,79 @@
+++========================================
+||
+||   Package:  ./libgxps-0.3.2-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 10:30 ./
+drwxr-xr-x root/root         0 2022-05-19 10:30 install/
+-rw-r--r-- root/root       182 2022-05-19 10:30 install/doinst.sh
+-rw-r--r-- root/root       744 2022-05-19 10:30 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/bin/
+-rwxr-xr-x root/root     31424 2022-05-19 10:30 usr/bin/xpstojpeg
+-rwxr-xr-x root/root     27296 2022-05-19 10:30 usr/bin/xpstopdf
+-rwxr-xr-x root/root     31504 2022-05-19 10:30 usr/bin/xpstopng
+-rwxr-xr-x root/root     31440 2022-05-19 10:30 usr/bin/xpstops
+-rwxr-xr-x root/root     27296 2022-05-19 10:30 usr/bin/xpstosvg
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/doc/libgxps-0.3.2/
+-rw-r--r-- root/root        76 2021-02-26 15:39 usr/doc/libgxps-0.3.2/AUTHORS
+-rw-r--r-- root/root     26530 2021-02-26 15:39 usr/doc/libgxps-0.3.2/COPYING
+-rw-r--r-- root/root        65 2021-02-26 15:39 usr/doc/libgxps-0.3.2/MAINTAINERS
+-rw-r--r-- root/root      8335 2021-02-26 15:39 usr/doc/libgxps-0.3.2/NEWS
+-rw-r--r-- root/root       355 2021-02-26 15:39 usr/doc/libgxps-0.3.2/README
+-rw-r--r-- root/root      2724 2021-02-26 15:39 usr/doc/libgxps-0.3.2/RELEASING
+-rw-r--r-- root/root       468 2021-02-26 15:39 usr/doc/libgxps-0.3.2/TODO
+-rw-r--r-- root/root      3563 2022-05-19 10:30 usr/doc/libgxps-0.3.2/libgxps.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/include/libgxps/
+-rw-r--r-- root/root      4270 2021-02-26 15:39 usr/include/libgxps/gxps-core-properties.h
+-rw-r--r-- root/root      3618 2021-02-26 15:39 usr/include/libgxps/gxps-document-structure.h
+-rw-r--r-- root/root      3047 2021-02-26 15:39 usr/include/libgxps/gxps-document.h
+-rw-r--r-- root/root      1722 2021-02-26 15:39 usr/include/libgxps/gxps-error.h
+-rw-r--r-- root/root      3709 2021-02-26 15:39 usr/include/libgxps/gxps-file.h
+-rw-r--r-- root/root      2594 2021-02-26 15:39 usr/include/libgxps/gxps-links.h
+-rw-r--r-- root/root      3512 2021-02-26 15:39 usr/include/libgxps/gxps-page.h
+-rw-r--r-- root/root      3372 2022-05-19 10:30 usr/include/libgxps/gxps-version.h
+-rw-r--r-- root/root      1158 2021-02-26 15:39 usr/include/libgxps/gxps.h
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      7148 2022-05-19 10:30 usr/lib64/girepository-1.0/GXPS-0.1.typelib
+-rwxr-xr-x root/root    144552 2022-05-19 10:30 usr/lib64/libgxps.so.2.2.4
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       268 2022-05-19 10:30 usr/lib64/pkgconfig/libgxps.pc
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/man/
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/man/man1/
+-rw-r--r-- root/root      1178 2022-05-19 10:30 usr/man/man1/xpstojpeg.1.gz
+-rw-r--r-- root/root      1327 2022-05-19 10:30 usr/man/man1/xpstopdf.1.gz
+-rw-r--r-- root/root      1222 2022-05-19 10:30 usr/man/man1/xpstopng.1.gz
+-rw-r--r-- root/root      1640 2022-05-19 10:30 usr/man/man1/xpstops.1.gz
+-rw-r--r-- root/root      1327 2022-05-19 10:30 usr/man/man1/xpstosvg.1.gz
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/share/gir-1.0/
+-rw-r--r-- root/root     82750 2022-05-19 10:30 usr/share/gir-1.0/GXPS-0.1.gir
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/
+-rw-r--r-- root/root     37129 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/GXPSCoreProperties.html
+-rw-r--r-- root/root     20717 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/GXPSDocument.html
+-rw-r--r-- root/root     26590 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/GXPSDocumentStructure.html
+-rw-r--r-- root/root     21321 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/GXPSFile.html
+-rw-r--r-- root/root     21645 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/GXPSPage.html
+-rw-r--r-- root/root      3145 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/annotation-glossary.html
+-rw-r--r-- root/root     21745 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/api-index-full.html
+-rw-r--r-- root/root      2807 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/ch01.html
+-rw-r--r-- root/root       256 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/home.png
+-rw-r--r-- root/root      2535 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/index.html
+-rw-r--r-- root/root       395 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/left-insensitive.png
+-rw-r--r-- root/root       262 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/left.png
+-rw-r--r-- root/root     22875 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/libgxps-GXPS-Links.html
+-rw-r--r-- root/root      4859 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/libgxps-GXPSError.html
+-rw-r--r-- root/root      7096 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/libgxps-Version-Information.html
+-rw-r--r-- root/root     10946 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/libgxps.devhelp2
+-rw-r--r-- root/root       373 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/right-insensitive.png
+-rw-r--r-- root/root       261 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/right.png
+-rw-r--r-- root/root     12017 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/style.css
+-rw-r--r-- root/root       374 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/up-insensitive.png
+-rw-r--r-- root/root       260 2022-05-19 10:30 usr/share/gtk-doc/html/libgxps/up.png
+
+

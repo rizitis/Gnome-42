@@ -1,0 +1,69 @@
+++========================================
+||
+||   Package:  ./colord-gtk-0.3.0-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 10:40 ./
+drwxr-xr-x root/root         0 2022-05-19 10:40 install/
+-rw-r--r-- root/root       666 2022-05-19 10:40 install/doinst.sh
+-rw-r--r-- root/root       761 2022-05-19 10:40 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/bin/
+-rwxr-xr-x root/root     18960 2022-05-19 10:40 usr/bin/cd-convert
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/doc/colord-gtk-0.3.0/
+-rw-r--r-- root/root        37 2022-02-16 17:27 usr/doc/colord-gtk-0.3.0/AUTHORS
+-rw-r--r-- root/root      7651 2022-02-16 17:27 usr/doc/colord-gtk-0.3.0/COPYING
+-rw-r--r-- root/root        37 2022-02-16 17:27 usr/doc/colord-gtk-0.3.0/MAINTAINERS
+-rw-r--r-- root/root      2248 2022-02-16 17:27 usr/doc/colord-gtk-0.3.0/NEWS
+-rw-r--r-- root/root       114 2022-02-16 17:27 usr/doc/colord-gtk-0.3.0/README
+-rw-r--r-- root/root       393 2022-02-16 17:27 usr/doc/colord-gtk-0.3.0/TODO
+-rw-r--r-- root/root      3393 2022-05-19 10:40 usr/doc/colord-gtk-0.3.0/colord-gtk.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/include/colord-1/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/include/colord-1/colord-gtk/
+-rw-r--r-- root/root      1544 2022-02-16 17:27 usr/include/colord-1/colord-gtk.h
+-rw-r--r-- root/root      2303 2022-02-16 17:27 usr/include/colord-1/colord-gtk/cd-sample-widget.h
+-rw-r--r-- root/root      2141 2022-02-16 17:27 usr/include/colord-1/colord-gtk/cd-sample-window.h
+-rw-r--r-- root/root      2143 2022-05-19 10:40 usr/include/colord-1/colord-gtk/cd-version.h
+-rw-r--r-- root/root      1395 2022-02-16 17:27 usr/include/colord-1/colord-gtk/cd-window-sync.h
+-rw-r--r-- root/root      3153 2022-02-16 17:27 usr/include/colord-1/colord-gtk/cd-window.h
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      3544 2022-05-19 10:40 usr/lib64/girepository-1.0/ColordGtk-1.0.typelib
+-rwxr-xr-x root/root     35648 2022-05-19 10:40 usr/lib64/libcolord-gtk.so.1.0.3
+-rwxr-xr-x root/root     22976 2022-05-19 10:40 usr/lib64/libcolord-gtk2.so.1.0.3
+-rwxr-xr-x root/root     31512 2022-05-19 10:40 usr/lib64/libcolord-gtk4.so.1.0.3
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       245 2022-05-19 10:40 usr/lib64/pkgconfig/colord-gtk.pc
+-rw-r--r-- root/root       248 2022-05-19 10:40 usr/lib64/pkgconfig/colord-gtk2.pc
+-rw-r--r-- root/root       245 2022-05-19 10:40 usr/lib64/pkgconfig/colord-gtk4.pc
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/share/gir-1.0/
+-rw-r--r-- root/root     28838 2022-05-19 10:40 usr/share/gir-1.0/ColordGtk-1.0.gir
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/
+-rw-r--r-- root/root      6725 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/colord-gtk-CdSampleWindow.html
+-rw-r--r-- root/root      5176 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/colord-gtk-cd-version.html
+-rw-r--r-- root/root     20754 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/colord-gtk-cd-window.html
+-rw-r--r-- root/root      3890 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/colord-gtk.devhelp2
+-rw-r--r-- root/root       256 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/home.png
+-rw-r--r-- root/root      3714 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/index.html
+-rw-r--r-- root/root      5783 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/ix01.html
+-rw-r--r-- root/root       395 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/left-insensitive.png
+-rw-r--r-- root/root       262 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/left.png
+-rw-r--r-- root/root      2042 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/libcolord-glib-helpers.html
+-rw-r--r-- root/root      2171 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/libcolord-gtk.html
+-rw-r--r-- root/root      9193 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/license.html
+-rw-r--r-- root/root       373 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/right-insensitive.png
+-rw-r--r-- root/root       261 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/right.png
+-rw-r--r-- root/root     12017 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/style.css
+-rw-r--r-- root/root       374 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/up-insensitive.png
+-rw-r--r-- root/root       260 2022-05-19 10:40 usr/share/gtk-doc/html/colord-gtk/up.png
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/share/locale/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/share/locale/en_GB/
+drwxr-xr-x root/root         0 2022-05-19 10:40 usr/share/locale/en_GB/LC_MESSAGES/
+-rw-r--r-- root/root       456 2022-05-19 10:40 usr/share/locale/en_GB/LC_MESSAGES/colord-gtk.mo
+
+

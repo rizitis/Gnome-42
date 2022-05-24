@@ -1,0 +1,11 @@
+libgusb: libgusb (Glib Wrapper)
+libgusb:
+libgusb: GUsb is a GObject wrapper for libusb1 that makes it easy to do
+libgusb: asynchronous control, bulk and interrupt transfers with proper
+libgusb: cancellation and integration into a mainloop.
+libgusb:
+libgusb: This makes it easy to integrate low level USB transfers with your
+libgusb: high-level application or system daemon.
+libgusb:
+libgusb: Project URL: https://github.com/hughsie/libgusb
+libgusb:

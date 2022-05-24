@@ -1,0 +1,25 @@
+Your identification has been saved in /home/all1/.ssh/id_rsa
+Your public key has been saved in /home/all1/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:xIa32OP9S/HgPjnVPM6+PpQO01vtd1rVynlpT4HpniA all1@hp.all1
+The key's randomart image is:
++---[RSA 3072]----+
+|                 |
+|       o         |
+|      . =        |
+|       * .    o .|
+|      . S   oo.+=|
+|       . o ..B.BO|
+|        .E..o+%+B|
+|          .+* oX=|
+|            +*+=*|
++----[SHA256]-----+
+all1@hp:~/Gnome42.SlackBuilds$ cat /home/all1/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDeY1nNspQwLPIdsIobp6lxnYOPClhw3s7fXcEW7aU8352/TVbGlg8wF5dYJ2hc5OuU4NAmYvn4MmYkOL8sQRhmMvCZ+2pTpWKStdoB8Wo7JaQMblg+gQI780MkhLrfw7yNCK+4El2O9cGHNmMTxpJi1ruhScVbb/vsxiDOc9x2tsWIRFIdE0qLTok+bHkgFPkL34nJVSC/95seCkNYqxGUqRSPdCVJcxGUXHCJDFGg9x/p31aAt9Krrp2JFhGd6Lf7jwO3V4UJJuqm2CRPAH8SdntvKpc0Zatm5E0JTYu9bo95+AlaZfmrJLp6J4v3c4jzG4ZXmD/3mXKAHvENyr3ry6SwRoR/0mfx1uUw0GZshTjLAmmIwFc1dnD9lXXVeafXYjS58Sna2D0xIpJkoWsj8bsh4eoE+uZn226rTqwLMhCpbTeiL/TXHU+LplcnSXjE/9Nh+DWc+lUdApWy7M4nl6tBx3C89YJV/42GF5mWM6EPY28Bed9vf5HtgvdgLEs= all1@hp.all1
+
+
+pub   2048R/2CBB9DAB 2022-05-21
+uid                  Anagnostakis Ioannis (rizitis) <elahistos@yahoo.gr>
+sub   2048R/07CBDC6E 2022-05-21
+
+all1@hp:~/.gnupg$ gpg -ab <---------- entoli gia acs files

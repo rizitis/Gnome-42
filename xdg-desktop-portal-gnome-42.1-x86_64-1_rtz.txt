@@ -1,0 +1,11 @@
+xdg-desktop-portal-gnome: xdg-desktop-portal-gnome
+xdg-desktop-portal-gnome:
+xdg-desktop-portal-gnome: A backend implementation for xdg-desktop-portal for the 
+xdg-desktop-portal-gnome: GNOME desktop environment
+xdg-desktop-portal-gnome: that is using GTK and various pieces of GNOME infrastructure,
+xdg-desktop-portal-gnome: such as the org.gnome.Shell.Screenshot or org.gnome.
+xdg-desktop-portal-gnome: SessionManager D-Bus interfaces.
+xdg-desktop-portal-gnome:
+xdg-desktop-portal-gnome: A backend implementation for xdg-desktop-portal
+xdg-desktop-portal-gnome: https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome
+xdg-desktop-portal-gnome:

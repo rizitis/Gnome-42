@@ -1,0 +1,11 @@
+gnome-initial-setup:
+gnome-initial-setup: GNOME Initial System Setup
+gnome-initial-setup:
+gnome-initial-setup: After acquiring or installing a new system there are a few essential
+gnome-initial-setup: things to set up before use. It would be nice if GNOME had a simple,
+gnome-initial-setup: easy, and safe way to prepare a new system.
+gnome-initial-setup:
+gnome-initial-setup:
+gnome-initial-setup:
+gnome-initial-setup: https://wiki.gnome.org/Design/OS/InitialSetup
+gnome-initial-setup:

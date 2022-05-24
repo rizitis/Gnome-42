@@ -1,0 +1,11 @@
+totem-pl-parser: totem-pl-parser (totem playlist parser)
+totem-pl-parser:
+totem-pl-parser: The totem playlist parser is a simple GObject-based library to
+totem-pl-parser: parse a host of playlist formats, as well as save those.
+totem-pl-parser:
+totem-pl-parser:
+totem-pl-parser:
+totem-pl-parser:
+totem-pl-parser:
+totem-pl-parser:
+totem-pl-parser:

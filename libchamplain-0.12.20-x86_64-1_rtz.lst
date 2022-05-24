@@ -1,0 +1,82 @@
+++========================================
+||
+||   Package:  ./libchamplain-0.12.20-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 09:33 ./
+drwxr-xr-x root/root         0 2022-05-19 09:33 install/
+-rw-r--r-- root/root       512 2022-05-19 09:33 install/doinst.sh
+-rw-r--r-- root/root       973 2022-05-19 09:33 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/doc/libchamplain-0.12.20/
+-rw-r--r-- root/root      1733 2019-10-28 23:57 usr/doc/libchamplain-0.12.20/AUTHORS
+-rw-r--r-- root/root     26527 2019-10-28 23:57 usr/doc/libchamplain-0.12.20/COPYING
+-rw-r--r-- root/root     30562 2019-10-28 23:57 usr/doc/libchamplain-0.12.20/NEWS
+-rw-r--r-- root/root      1859 2019-10-28 23:57 usr/doc/libchamplain-0.12.20/README.md
+-rw-r--r-- root/root      3532 2022-05-19 09:33 usr/doc/libchamplain-0.12.20/libchamplain.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/include/champlain-0.12/
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/include/champlain-0.12/champlain/
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/include/champlain-0.12/champlain-gtk/
+-rw-r--r-- root/root      1018 2019-10-28 23:57 usr/include/champlain-0.12/champlain-gtk/champlain-gtk.h
+-rw-r--r-- root/root      2473 2019-10-28 23:57 usr/include/champlain-0.12/champlain-gtk/gtk-champlain-embed.h
+-rw-r--r-- root/root      3653 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-adjustment.h
+-rw-r--r-- root/root      2418 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-bounding-box.h
+-rw-r--r-- root/root      2592 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-coordinate.h
+-rw-r--r-- root/root      2683 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-custom-marker.h
+-rw-r--r-- root/root      1700 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-defines.h
+-rw-r--r-- root/root      1083 2022-05-19 09:32 usr/include/champlain-0.12/champlain/champlain-enum-types.h
+-rw-r--r-- root/root      2975 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-error-tile-renderer.h
+-rw-r--r-- root/root      2509 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-exportable.h
+-rw-r--r-- root/root       109 2022-05-19 09:32 usr/include/champlain-0.12/champlain/champlain-features.h
+-rw-r--r-- root/root      3029 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-file-cache.h
+-rw-r--r-- root/root      3001 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-file-tile-source.h
+-rw-r--r-- root/root      2620 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-image-renderer.h
+-rw-r--r-- root/root      2737 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-kinetic-scroll-view.h
+-rw-r--r-- root/root      4932 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-label.h
+-rw-r--r-- root/root      2539 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-layer.h
+-rw-r--r-- root/root      2875 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-license.h
+-rw-r--r-- root/root      2687 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-location.h
+-rw-r--r-- root/root      2846 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-map-source-chain.h
+-rw-r--r-- root/root      4394 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-map-source-desc.h
+-rw-r--r-- root/root      6479 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-map-source-factory.h
+-rw-r--r-- root/root      5200 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-map-source.h
+-rw-r--r-- root/root      4455 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-marker-layer.h
+-rw-r--r-- root/root      3481 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-marker.h
+-rw-r--r-- root/root      2859 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-memory-cache.h
+-rw-r--r-- root/root      3597 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-network-bbox-tile-source.h
+-rw-r--r-- root/root      4087 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-network-tile-source.h
+-rw-r--r-- root/root      2637 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-null-tile-source.h
+-rw-r--r-- root/root      4423 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-path-layer.h
+-rw-r--r-- root/root      2694 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-point.h
+-rw-r--r-- root/root      2608 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-renderer.h
+-rw-r--r-- root/root      2948 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-scale.h
+-rw-r--r-- root/root      3093 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-tile-cache.h
+-rw-r--r-- root/root      3608 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-tile-source.h
+-rw-r--r-- root/root      4115 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-tile.h
+-rw-r--r-- root/root      2893 2022-05-19 09:32 usr/include/champlain-0.12/champlain/champlain-version.h
+-rw-r--r-- root/root      6587 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-view.h
+-rw-r--r-- root/root      3134 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain-viewport.h
+-rw-r--r-- root/root      2474 2019-10-28 23:57 usr/include/champlain-0.12/champlain/champlain.h
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root     46820 2022-05-19 09:33 usr/lib64/girepository-1.0/Champlain-0.12.typelib
+-rw-r--r-- root/root      1024 2022-05-19 09:33 usr/lib64/girepository-1.0/GtkChamplain-0.12.typelib
+-rwxr-xr-x root/root    297624 2022-05-19 09:33 usr/lib64/libchamplain-0.12.so.0.11.10
+-rwxr-xr-x root/root     18584 2022-05-19 09:33 usr/lib64/libchamplain-gtk-0.12.so.0.11.10
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       407 2022-05-19 09:32 usr/lib64/pkgconfig/champlain-0.12.pc
+-rw-r--r-- root/root       398 2022-05-19 09:32 usr/lib64/pkgconfig/champlain-gtk-0.12.pc
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/share/gir-1.0/
+-rw-r--r-- root/root    603337 2022-05-19 09:33 usr/share/gir-1.0/Champlain-0.12.gir
+-rw-r--r-- root/root      6796 2022-05-19 09:33 usr/share/gir-1.0/GtkChamplain-0.12.gir
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/share/vala/
+drwxr-xr-x root/root         0 2022-05-19 09:33 usr/share/vala/vapi/
+-rw-r--r-- root/root        42 2022-05-19 09:32 usr/share/vala/vapi/champlain-0.12.deps
+-rw-r--r-- root/root     38596 2022-05-19 09:33 usr/share/vala/vapi/champlain-0.12.vapi
+-rw-r--r-- root/root        70 2022-05-19 09:32 usr/share/vala/vapi/champlain-gtk-0.12.deps
+-rw-r--r-- root/root       633 2022-05-19 09:33 usr/share/vala/vapi/champlain-gtk-0.12.vapi
+
+

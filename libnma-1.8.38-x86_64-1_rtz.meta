@@ -1,0 +1,17 @@
+PACKAGE NAME:  libnma-1.8.38-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  320 K
+PACKAGE SIZE (uncompressed):  2430 K
+PACKAGE DESCRIPTION:
+libnma: libnma (NetworkManager GUI client library)
+libnma:
+libnma: The libnma library provides an API used to create dialogs for
+libnma: NetworkManager clients such as network-manager-applet.
+libnma:
+libnma: Homepage: https://wiki.gnome.org/Projects/NetworkManager/
+libnma:
+libnma:
+libnma:
+libnma:
+libnma:
+

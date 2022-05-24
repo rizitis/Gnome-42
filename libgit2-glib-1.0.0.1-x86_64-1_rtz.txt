@@ -1,0 +1,11 @@
+libgit2-glib: libgit2-glib (GLIB Wrapper)
+libgit2-glib:
+libgit2-glib: libgit2-glib is a glib wrapper library around the libgit2 git
+libgit2-glib: access library.
+libgit2-glib:
+libgit2-glib: Project Homepage: http://wiki.gnome.org/Projects/Libgit2-glib
+libgit2-glib:
+libgit2-glib:
+libgit2-glib:
+libgit2-glib:
+libgit2-glib:

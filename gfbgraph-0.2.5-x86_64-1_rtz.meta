@@ -1,0 +1,11 @@
+PACKAGE NAME:  gfbgraph-0.2.5-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  96 K
+PACKAGE SIZE (uncompressed):  580 K
+PACKAGE DESCRIPTION:
+gfbgraph: GFBGraph
+gfbgraph:
+gfbgraph: GFBGraph is a GLib/GObject wrapper for the Facebook API.
+gfbgraph:
+gfbgraph: https://gitlab.gnome.org/GNOME/libgfbgraph
+

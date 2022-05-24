@@ -1,0 +1,7 @@
+baobab: Baobab (Gnome Disk Usage Analyzer)
+baobab:
+baobab: Disk Usage Analyzer is a graphical application to analyse disk usage
+baobab: in any Gnome environment. Disk Usage Analyzer can easily scan device
+baobab: volumes or a specific user-requested directory branch (local or
+baobab: remote).
+baobab:

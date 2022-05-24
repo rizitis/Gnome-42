@@ -1,0 +1,17 @@
+PACKAGE NAME:  gnome-autoar-0.4.3-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  68 K
+PACKAGE SIZE (uncompressed):  320 K
+PACKAGE DESCRIPTION:
+gnome-autoar: gnome-autoar (Automatic archives creating and extracting library)
+gnome-autoar:
+gnome-autoar: Creating and extracting archives is easy, safe, and automatic. One
+gnome-autoar: module is created (gnome-autoar) and three modules are modified
+gnome-autoar: (Epiphany, Evolution, Empathy). The two major steps of this project
+gnome-autoar: are:
+gnome-autoar:   * An wrapper for libarchive, GIO, and GTK+, provides GObject-based
+gnome-autoar:     C API for archives and a few common widgets.
+gnome-autoar:   * Integrate archives into applications. I try to use existing
+gnome-autoar:     widgets in applications to show archive works and user
+gnome-autoar:     preferences settings.
+

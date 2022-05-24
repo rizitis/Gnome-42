@@ -1,0 +1,11 @@
+gi-docgen: gi-docgen (Documentation tool for GObject-based libraries)
+gi-docgen:
+gi-docgen: GI-DocGen is a document generator for GObject-based libraries. 
+gi-docgen: GObject is the base type system of the GNOME
+gi-docgen: project. GI-Docgen reuses the introspection data generated
+gi-docgen: by GObject-based libraries to generate the API 
+gi-docgen: reference of these libraries,as well as other ancillary documentatio.
+gi-docgen:
+gi-docgen: 
+gi-docgen: https://pypi.org/project/gi-docgen/
+gi-docgen:

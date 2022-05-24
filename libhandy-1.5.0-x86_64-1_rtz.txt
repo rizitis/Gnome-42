@@ -1,0 +1,11 @@
+libhandy: libhandy (additional UI components for gtk+3)
+libhandy:
+libhandy: The aim of the Handy library is to help with developing UI for mobile
+libhandy: devices using GTK/GNOME.
+libhandy:
+libhandy:
+libhandy:
+libhandy:
+libhandy:
+libhandy:
+libhandy:

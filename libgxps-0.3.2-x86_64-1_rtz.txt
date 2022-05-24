@@ -1,0 +1,11 @@
+libgxps: libgxps (library for handling and rendering XPS documents)
+libgxps:
+libgxps: libgxps is a GObject based library for handling and rendering
+libgxps: XPS documents.
+libgxps:
+libgxps: More details:
+libgxps: https://wiki.gnome.org/Projects/libgxps
+libgxps:
+libgxps:
+libgxps:
+libgxps:

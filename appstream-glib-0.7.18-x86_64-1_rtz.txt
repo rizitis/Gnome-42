@@ -1,0 +1,11 @@
+appstream-glib: appstream-glib (library for reading and writing AppStream metadata)
+appstream-glib:
+appstream-glib: This library provides GObjects and helper methods to make it
+appstream-glib: easy to read and write AppStream metadata.
+appstream-glib:
+appstream-glib: https://github.com/hughsie/appstream-glib/
+appstream-glib:
+appstream-glib:
+appstream-glib:
+appstream-glib:
+appstream-glib:

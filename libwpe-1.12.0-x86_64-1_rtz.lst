@@ -1,0 +1,37 @@
+++========================================
+||
+||   Package:  ./libwpe-1.12.0-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 09:21 ./
+drwxr-xr-x root/root         0 2022-05-19 09:21 install/
+-rw-r--r-- root/root       200 2022-05-19 09:21 install/doinst.sh
+-rw-r--r-- root/root       975 2022-05-19 09:21 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 09:21 usr/
+drwxr-xr-x root/root         0 2022-05-19 09:21 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 09:21 usr/doc/libwpe-1.12.0/
+-rw-r--r-- root/root      1317 2021-09-30 23:36 usr/doc/libwpe-1.12.0/COPYING
+-rw-r--r-- root/root      3617 2021-09-30 23:36 usr/doc/libwpe-1.12.0/NEWS
+-rw-r--r-- root/root      3210 2022-05-19 09:21 usr/doc/libwpe-1.12.0/libwpe.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 09:21 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 09:21 usr/include/wpe-1.0/
+drwxr-xr-x root/root         0 2022-05-19 09:21 usr/include/wpe-1.0/wpe/
+-rw-r--r-- root/root      2114 2021-09-30 23:36 usr/include/wpe-1.0/wpe/export.h
+-rw-r--r-- root/root      5454 2021-09-30 23:36 usr/include/wpe-1.0/wpe/input.h
+-rw-r--r-- root/root    198358 2021-09-30 23:36 usr/include/wpe-1.0/wpe/keysyms.h
+-rw-r--r-- root/root       311 2021-09-30 23:36 usr/include/wpe-1.0/wpe/libwpe-version.h
+-rw-r--r-- root/root      3001 2021-09-30 23:36 usr/include/wpe-1.0/wpe/loader.h
+-rw-r--r-- root/root      4138 2021-09-30 23:36 usr/include/wpe-1.0/wpe/pasteboard.h
+-rw-r--r-- root/root      6667 2021-09-30 23:36 usr/include/wpe-1.0/wpe/renderer-backend-egl.h
+-rw-r--r-- root/root      2252 2021-09-30 23:36 usr/include/wpe-1.0/wpe/renderer-host.h
+-rw-r--r-- root/root      2968 2021-09-30 23:36 usr/include/wpe-1.0/wpe/version-deprecated.h
+-rw-r--r-- root/root      2608 2021-09-30 23:36 usr/include/wpe-1.0/wpe/version.h
+-rw-r--r-- root/root      9865 2021-09-30 23:36 usr/include/wpe-1.0/wpe/view-backend.h
+-rw-r--r-- root/root      1688 2021-09-30 23:36 usr/include/wpe-1.0/wpe/wpe-egl.h
+-rw-r--r-- root/root      1855 2021-09-30 23:36 usr/include/wpe-1.0/wpe/wpe.h
+drwxr-xr-x root/root         0 2022-05-19 09:21 usr/lib64/
+-rwxr-xr-x root/root     39232 2022-05-19 09:21 usr/lib64/libwpe-1.0.so.1.6.0
+drwxr-xr-x root/root         0 2022-05-19 09:21 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       229 2022-05-19 09:21 usr/lib64/pkgconfig/wpe-1.0.pc
+
+

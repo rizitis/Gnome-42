@@ -1,0 +1,43 @@
+++========================================
+||
+||   Package:  ./yelp-tools-42.0-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 11:28 ./
+drwxr-xr-x root/root         0 2022-05-19 11:28 install/
+-rw-r--r-- root/root       776 2022-05-19 11:28 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/bin/
+-rwxr-xr-x root/root     31734 2022-05-19 11:28 usr/bin/yelp-build
+-rwxr-xr-x root/root     50091 2022-05-19 11:28 usr/bin/yelp-check
+-rwxr-xr-x root/root     12057 2022-05-19 11:28 usr/bin/yelp-new
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/doc/yelp-tools-42.0/
+-rw-r--r-- root/root        33 2022-03-19 17:35 usr/doc/yelp-tools-42.0/AUTHORS
+-rw-r--r-- root/root       978 2022-03-19 17:35 usr/doc/yelp-tools-42.0/COPYING
+-rw-r--r-- root/root     18011 2022-03-19 17:35 usr/doc/yelp-tools-42.0/COPYING.GPL
+-rw-r--r-- root/root        76 2022-03-19 17:35 usr/doc/yelp-tools-42.0/MAINTAINERS
+-rw-r--r-- root/root      6197 2022-03-19 17:35 usr/doc/yelp-tools-42.0/NEWS
+-rw-r--r-- root/root       741 2022-03-19 17:35 usr/doc/yelp-tools-42.0/README
+-rw-r--r-- root/root      3337 2022-05-19 11:28 usr/doc/yelp-tools-42.0/yelp-tools.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/share/aclocal/
+-rw-r--r-- root/root      7919 2022-03-19 17:35 usr/share/aclocal/yelp.m4
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/share/yelp-tools/
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/share/yelp-tools/templates/
+-rw-r--r-- root/root       373 2022-03-19 17:35 usr/share/yelp-tools/templates/concept.duck
+-rw-r--r-- root/root       562 2022-03-19 17:35 usr/share/yelp-tools/templates/concept.page
+-rw-r--r-- root/root       368 2022-03-19 17:35 usr/share/yelp-tools/templates/guide.duck
+-rw-r--r-- root/root       533 2022-03-19 17:35 usr/share/yelp-tools/templates/guide.page
+-rw-r--r-- root/root       777 2022-03-19 17:35 usr/share/yelp-tools/templates/info.ducktype.include
+-rw-r--r-- root/root      1028 2022-03-19 17:35 usr/share/yelp-tools/templates/info.mallard.include
+-rw-r--r-- root/root       766 2022-03-19 17:35 usr/share/yelp-tools/templates/reference.duck
+-rw-r--r-- root/root      1486 2022-03-19 17:35 usr/share/yelp-tools/templates/reference.page
+-rw-r--r-- root/root       731 2022-03-19 17:35 usr/share/yelp-tools/templates/task.duck
+-rw-r--r-- root/root      1101 2022-03-19 17:35 usr/share/yelp-tools/templates/task.page
+drwxr-xr-x root/root         0 2022-05-19 11:28 usr/share/yelp-tools/xslt/
+-rw-r--r-- root/root      3930 2022-05-19 11:28 usr/share/yelp-tools/xslt/mal-ncx.xsl
+-rw-r--r-- root/root      8467 2022-05-19 11:28 usr/share/yelp-tools/xslt/mal-opf.xsl
+-rw-r--r-- root/root      6805 2022-03-19 17:35 usr/share/yelp-tools/xslt/mal-rng.xsl
+
+

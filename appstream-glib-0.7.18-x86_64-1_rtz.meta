@@ -1,0 +1,17 @@
+PACKAGE NAME:  appstream-glib-0.7.18-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  668 K
+PACKAGE SIZE (uncompressed):  3980 K
+PACKAGE DESCRIPTION:
+appstream-glib: appstream-glib (library for reading and writing AppStream metadata)
+appstream-glib:
+appstream-glib: This library provides GObjects and helper methods to make it
+appstream-glib: easy to read and write AppStream metadata.
+appstream-glib:
+appstream-glib: https://github.com/hughsie/appstream-glib/
+appstream-glib:
+appstream-glib:
+appstream-glib:
+appstream-glib:
+appstream-glib:
+

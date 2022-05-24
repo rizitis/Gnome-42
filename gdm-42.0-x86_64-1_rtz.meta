@@ -1,0 +1,12 @@
+PACKAGE NAME:  gdm-42.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  732 K
+PACKAGE SIZE (uncompressed):  5700 K
+PACKAGE DESCRIPTION:
+gdm: gdm (GNOME Display Manager)
+gdm:
+gdm: GDM is a system service that is responsible for providing graphical 
+gdm: logins and managing local and remote displays. 
+gdm:
+gdm: Homepage: https://gitlab.gnome.org/GNOME/gdm
+

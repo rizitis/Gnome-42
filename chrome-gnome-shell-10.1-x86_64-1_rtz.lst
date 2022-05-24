@@ -1,0 +1,54 @@
+++========================================
+||
+||   Package:  ./chrome-gnome-shell-10.1-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 11:39 ./
+drwxr-xr-x root/root         0 2022-05-19 11:39 etc/
+drwxr-xr-x root/root         0 2022-05-19 11:39 etc/chrome/
+drwxr-xr-x root/root         0 2022-05-19 11:39 etc/chrome/native-messaging-hosts/
+-rw-r--r-- root/root       314 2022-05-19 11:39 etc/chrome/native-messaging-hosts/org.gnome.chrome_gnome_shell.json
+drwxr-xr-x root/root         0 2022-05-19 11:39 etc/chromium/
+drwxr-xr-x root/root         0 2022-05-19 11:39 etc/chromium/native-messaging-hosts/
+-rw-r--r-- root/root       314 2022-05-19 11:39 etc/chromium/native-messaging-hosts/org.gnome.chrome_gnome_shell.json
+drwxr-xr-x root/root         0 2022-05-19 11:39 etc/opt/
+drwxr-xr-x root/root         0 2022-05-19 11:39 etc/opt/chrome/
+drwxr-xr-x root/root         0 2022-05-19 11:39 etc/opt/chrome/native-messaging-hosts/
+-rw-r--r-- root/root       314 2022-05-19 11:39 etc/opt/chrome/native-messaging-hosts/org.gnome.chrome_gnome_shell.json
+drwxr-xr-x root/root         0 2022-05-19 11:39 install/
+-rw-r--r-- root/root       867 2022-05-19 11:39 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/bin/
+-rwxr-xr-x root/root     21673 2022-05-19 11:39 usr/bin/chrome-gnome-shell
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/doc/chrome-gnome-shell-10.1/
+-rw-r--r-- root/root     35147 2018-03-21 08:10 usr/doc/chrome-gnome-shell-10.1/LICENSE
+-rw-r--r-- root/root     13156 2018-03-21 08:10 usr/doc/chrome-gnome-shell-10.1/NEWS
+-rw-r--r-- root/root       903 2018-03-21 08:10 usr/doc/chrome-gnome-shell-10.1/README.md
+-rw-r--r-- root/root      3416 2022-05-19 11:39 usr/doc/chrome-gnome-shell-10.1/chrome-gnome-shell.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/mozilla/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/mozilla/native-messaging-hosts/
+-rw-r--r-- root/root       233 2022-05-19 11:39 usr/lib64/mozilla/native-messaging-hosts/org.gnome.chrome_gnome_shell.json
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/
+-rw-r--r-- root/root       325 2022-05-19 11:39 usr/lib64/python3.9/site-packages/chrome_gnome_shell-0.0.0-py3.9.egg-info
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/applications/
+-rw-r--r-- root/root       265 2018-03-21 08:10 usr/share/applications/org.gnome.ChromeGnomeShell.desktop
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/dbus-1/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/dbus-1/services/
+-rw-r--r-- root/root       104 2022-05-19 11:39 usr/share/dbus-1/services/org.gnome.ChromeGnomeShell.service
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/icons/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/icons/gnome/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/icons/gnome/128x128/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/icons/gnome/128x128/apps/
+-rw-r--r-- root/root      2353 2018-03-21 08:10 usr/share/icons/gnome/128x128/apps/org.gnome.ChromeGnomeShell.png
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/icons/gnome/16x16/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/icons/gnome/16x16/apps/
+-rw-r--r-- root/root       389 2018-03-21 08:10 usr/share/icons/gnome/16x16/apps/org.gnome.ChromeGnomeShell.png
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/icons/gnome/48x48/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/share/icons/gnome/48x48/apps/
+-rw-r--r-- root/root      1160 2018-03-21 08:10 usr/share/icons/gnome/48x48/apps/org.gnome.ChromeGnomeShell.png
+
+

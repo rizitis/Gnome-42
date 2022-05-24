@@ -1,0 +1,11 @@
+evolution: evolution (short description of app)
+evolution:
+evolution: Evolution is the integrated mail, calendar and address book suite 
+evolution: from the Evolution Team.
+evolution:
+evolution:
+evolution:
+evolution:
+evolution:
+evolution: https://gitlab.gnome.org/GNOME/evolution
+evolution:

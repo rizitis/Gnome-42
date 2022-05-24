@@ -1,0 +1,17 @@
+PACKAGE NAME:  gitg-41-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  1292 K
+PACKAGE SIZE (uncompressed):  4280 K
+PACKAGE DESCRIPTION:
+gitg: gitg
+gitg:
+gitg: Git repository viewer for GNOME.
+gitg: gitg is a graphical user interface for git. It aims at being a small
+gitg: fast and convenient tool to visualize the history of git repositories
+gitg: Besides visualization, gitg also provides several utilities
+gitg: to manage your repository and commit your work.
+gitg:
+gitg:
+gitg: https://gitlab.gnome.org/GNOME/gitg
+gitg:
+

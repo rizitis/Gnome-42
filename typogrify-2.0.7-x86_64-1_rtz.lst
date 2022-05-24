@@ -1,0 +1,79 @@
+++========================================
+||
+||   Package:  ./typogrify-2.0.7-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 11:39 ./
+drwxr-xr-x root/root         0 2022-05-19 11:39 install/
+-rw-r--r-- root/root      1015 2022-05-19 11:39 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/doc/typogrify-2.0.7/
+-rw-r--r-- root/root      1561 2014-09-19 00:59 usr/doc/typogrify-2.0.7/LICENSE.txt
+-rw-r--r-- root/root        39 2014-09-19 00:59 usr/doc/typogrify-2.0.7/MANIFEST.in
+-rw-r--r-- root/root      4854 2014-09-19 01:13 usr/doc/typogrify-2.0.7/PKG-INFO
+-rw-r--r-- root/root      3047 2014-09-19 00:59 usr/doc/typogrify-2.0.7/README.rst
+-rw-r--r-- root/root      2762 2022-05-19 11:39 usr/doc/typogrify-2.0.7/typogrify.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify-2.0.7-py2.7.egg-info/
+-rw-r--r-- root/root      4854 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify-2.0.7-py2.7.egg-info/PKG-INFO
+-rw-r--r-- root/root       486 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify-2.0.7-py2.7.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify-2.0.7-py2.7.egg-info/dependency_links.txt
+-rw-r--r-- root/root        19 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify-2.0.7-py2.7.egg-info/requires.txt
+-rw-r--r-- root/root        10 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify-2.0.7-py2.7.egg-info/top_level.txt
+-rw-r--r-- root/root        22 2014-09-19 01:10 usr/lib64/python2.7/site-packages/typogrify/__init__.py
+-rw-r--r-- root/root       175 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/__init__.pyc
+-rw-r--r-- root/root     16333 2014-09-19 00:59 usr/lib64/python2.7/site-packages/typogrify/filters.py
+-rw-r--r-- root/root     17537 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/filters.pyc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/packages/
+-rw-r--r-- root/root        22 2014-09-19 00:59 usr/lib64/python2.7/site-packages/typogrify/packages/__init__.py
+-rw-r--r-- root/root       152 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/packages/__init__.pyc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/packages/titlecase/
+-rw-r--r-- root/root      3247 2014-09-19 00:59 usr/lib64/python2.7/site-packages/typogrify/packages/titlecase/__init__.py
+-rw-r--r-- root/root      3630 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/packages/titlecase/__init__.pyc
+-rw-r--r-- root/root      4603 2014-09-19 00:59 usr/lib64/python2.7/site-packages/typogrify/packages/titlecase/tests.py
+-rw-r--r-- root/root      7810 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/packages/titlecase/tests.pyc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/templatetags/
+-rw-r--r-- root/root         0 2014-09-19 00:59 usr/lib64/python2.7/site-packages/typogrify/templatetags/__init__.py
+-rw-r--r-- root/root       156 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/templatetags/__init__.pyc
+-rw-r--r-- root/root      1048 2014-09-19 00:59 usr/lib64/python2.7/site-packages/typogrify/templatetags/jinja_filters.py
+-rw-r--r-- root/root      1694 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/templatetags/jinja_filters.pyc
+-rw-r--r-- root/root      1136 2014-09-19 00:59 usr/lib64/python2.7/site-packages/typogrify/templatetags/typogrify_tags.py
+-rw-r--r-- root/root      1636 2022-05-19 11:39 usr/lib64/python2.7/site-packages/typogrify/templatetags/typogrify_tags.pyc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify-2.0.7-py3.9.egg-info/
+-rw-r--r-- root/root      3773 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify-2.0.7-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       486 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify-2.0.7-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify-2.0.7-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        19 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify-2.0.7-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root        10 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify-2.0.7-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root        22 2014-09-19 01:10 usr/lib64/python3.9/site-packages/typogrify/__init__.py
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/__pycache__/
+-rw-r--r-- root/root       168 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     15609 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/__pycache__/filters.cpython-39.pyc
+-rw-r--r-- root/root     16333 2014-09-19 00:59 usr/lib64/python3.9/site-packages/typogrify/filters.py
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/packages/
+-rw-r--r-- root/root        22 2014-09-19 00:59 usr/lib64/python3.9/site-packages/typogrify/packages/__init__.py
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/packages/__pycache__/
+-rw-r--r-- root/root       156 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/packages/__pycache__/__init__.cpython-39.pyc
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/packages/titlecase/
+-rw-r--r-- root/root      3247 2014-09-19 00:59 usr/lib64/python3.9/site-packages/typogrify/packages/titlecase/__init__.py
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/packages/titlecase/__pycache__/
+-rw-r--r-- root/root      2761 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/packages/titlecase/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      4114 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/packages/titlecase/__pycache__/tests.cpython-39.pyc
+-rw-r--r-- root/root      4603 2014-09-19 00:59 usr/lib64/python3.9/site-packages/typogrify/packages/titlecase/tests.py
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/templatetags/
+-rw-r--r-- root/root         0 2014-09-19 00:59 usr/lib64/python3.9/site-packages/typogrify/templatetags/__init__.py
+drwxr-xr-x root/root         0 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/templatetags/__pycache__/
+-rw-r--r-- root/root       160 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/templatetags/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      1319 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/templatetags/__pycache__/jinja_filters.cpython-39.pyc
+-rw-r--r-- root/root      1290 2022-05-19 11:39 usr/lib64/python3.9/site-packages/typogrify/templatetags/__pycache__/typogrify_tags.cpython-39.pyc
+-rw-r--r-- root/root      1048 2014-09-19 00:59 usr/lib64/python3.9/site-packages/typogrify/templatetags/jinja_filters.py
+-rw-r--r-- root/root      1136 2014-09-19 00:59 usr/lib64/python3.9/site-packages/typogrify/templatetags/typogrify_tags.py
+
+

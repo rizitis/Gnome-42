@@ -1,0 +1,17 @@
+PACKAGE NAME:  libwpe-1.12.0-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+libwpe: libwpe (General-purpose library for WPE WebKit)
+libwpe:
+libwpe: WPE is the reference WebKit port for embedded and low-consumption
+libwpe: computer devices. It has been designed from the ground-up with
+libwpe: performance, small footprint, accelerated content rendering, and
+libwpe: simplicity of deployment in mind, bringing the excellence of the
+libwpe: WebKit engine to countless platforms and target devices.
+libwpe:
+libwpe: Project URL: https://wpewebkit.org/
+libwpe:
+libwpe:
+

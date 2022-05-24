@@ -1,0 +1,17 @@
+PACKAGE NAME:  gsound-1.0.3-x86_64-2_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  190 K
+PACKAGE DESCRIPTION:
+gsound: gsound (small library for playing system sounds)
+gsound:
+gsound: GSound is a small library for playing system sounds. It's designed to 
+gsound: be used via GObject Introspection, and is a thin wrapper around the
+gsound: libcanberra C library.
+gsound:
+gsound: HOMEPAGE: https://wiki.gnome.org/Projects/GSound
+gsound:
+gsound:
+gsound:
+gsound:
+

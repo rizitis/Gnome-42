@@ -1,0 +1,17 @@
+PACKAGE NAME:  gnome-menus-3.36.0-x86_64-2_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  240 K
+PACKAGE SIZE (uncompressed):  1100 K
+PACKAGE DESCRIPTION:
+gnome-menus: gnome-menus (libgnome-menu library)
+gnome-menus:
+gnome-menus: gnome-menus   contains   the   libgnome-menu   library,   the   layout
+gnome-menus: configuration files for the  GNOME menu,  as  well  as a  simple  menu
+gnome-menus: editor.
+gnome-menus:
+gnome-menus: The libgnome-menu library implements the "Desktop Menu Specification"
+gnome-menus: from freedesktop.org.
+gnome-menus:
+gnome-menus: Home page: https://github.com/GNOME/gnome-menus
+gnome-menus:
+

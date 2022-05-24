@@ -1,0 +1,17 @@
+PACKAGE NAME:  ostree-2021.3-x86_64-2_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  696 K
+PACKAGE SIZE (uncompressed):  2520 K
+PACKAGE DESCRIPTION:
+ostree: ostree (tool for immutable filesystem trees)
+ostree:
+ostree: OSTree is a tool that combines a "git-like" model for committing and
+ostree: downloading bootable filesystem trees, along with a layer for
+ostree: deploying them and managing the bootloader configuration.
+ostree:
+ostree:
+ostree:
+ostree:
+ostree:
+ostree:
+

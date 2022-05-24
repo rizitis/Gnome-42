@@ -1,0 +1,7 @@
+libgrss: libgrss ( Library to manipulate RSS and Atom feeds )
+libgrss:
+libgrss: The libgrss package contains a library designed to manipulate RSS and
+libgrss: Atom feeds.
+libgrss:
+libgrss: https://wiki.gnome.org/Projects/Libgrss
+libgrss:

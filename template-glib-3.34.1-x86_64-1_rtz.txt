@@ -1,0 +1,11 @@
+template-glib: template-glib ()
+template-glib:
+template-glib: Template-GLib is a library to help you generate text based on a
+template-glib: template and user defined state.
+template-glib:
+template-glib:
+template-glib:
+template-glib:
+template-glib:
+template-glib: https://gitlab.gnome.org/GNOME/template-glib
+template-glib:

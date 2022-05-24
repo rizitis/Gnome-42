@@ -1,0 +1,7 @@
+tracker-miners: tracker-miners
+tracker-miners:
+tracker-miners: The Tracker-miners package contains a set of data extractors 
+tracker-miners: for Tracker.  
+tracker-miners: 
+tracker-miners: https://gitlab.gnome.org/GNOME/tracker-miners 
+tracker-miners:

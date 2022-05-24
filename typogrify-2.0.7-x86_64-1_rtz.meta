@@ -1,0 +1,17 @@
+PACKAGE NAME:  typogrify-2.0.7-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  190 K
+PACKAGE DESCRIPTION:
+python-typogrify: python-typogrify 
+python-typogrify:
+python-typogrify: Typogrify provides a set of custom filters that automatically 
+python-typogrify: apply various transformations to plain text in order to yield 
+python-typogrify: typographically-improved HTML. While often used in 
+python-typogrify: conjunction with Jinja and Django template systems, the 
+python-typogrify: filters can be used in any environment.
+python-typogrify:
+python-typogrify:
+python-typogrify: https://pypi.org/project/typogrify/
+python-typogrify:
+

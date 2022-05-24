@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./libdaemon-0.14-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 09:22 ./
+drwxr-xr-x root/root         0 2022-05-19 09:22 install/
+-rw-r--r-- root/root       198 2022-05-19 09:22 install/doinst.sh
+-rw-r--r-- root/root       782 2022-05-19 09:22 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 09:22 usr/
+drwxr-xr-x root/root         0 2022-05-19 09:22 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 09:22 usr/doc/libdaemon-0.14/
+-rw-r--r-- root/root     26527 2008-06-18 04:23 usr/doc/libdaemon-0.14/LICENSE
+-rw-r--r-- root/root      7174 2009-10-18 05:36 usr/doc/libdaemon-0.14/README
+-rw-r--r-- root/root      8892 2022-05-19 09:22 usr/doc/libdaemon-0.14/README.html
+-rw-r--r-- root/root      3347 2022-05-19 09:22 usr/doc/libdaemon-0.14/libdaemon.SlackBuild
+-rw-r--r-- root/root       976 2022-05-19 09:22 usr/doc/libdaemon-0.14/style.css
+drwxr-xr-x root/root         0 2022-05-19 09:22 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 09:22 usr/include/libdaemon/
+-rw-r--r-- root/root      1051 2022-05-19 09:22 usr/include/libdaemon/daemon.h
+-rw-r--r-- root/root      2516 2022-05-19 09:22 usr/include/libdaemon/dexec.h
+-rw-r--r-- root/root      5377 2022-05-19 09:22 usr/include/libdaemon/dfork.h
+-rw-r--r-- root/root      3610 2022-05-19 09:22 usr/include/libdaemon/dlog.h
+-rw-r--r-- root/root      1311 2022-05-19 09:22 usr/include/libdaemon/dnonblock.h
+-rw-r--r-- root/root      2940 2022-05-19 09:22 usr/include/libdaemon/dpid.h
+-rw-r--r-- root/root      2375 2022-05-19 09:22 usr/include/libdaemon/dsignal.h
+drwxr-xr-x root/root         0 2022-05-19 09:22 usr/lib64/
+-rwxr-xr-x root/root     31152 2022-05-19 09:22 usr/lib64/libdaemon.so.0.5.0
+drwxr-xr-x root/root         0 2022-05-19 09:22 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       252 2022-05-19 09:22 usr/lib64/pkgconfig/libdaemon.pc
+
+

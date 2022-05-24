@@ -1,0 +1,78 @@
+++========================================
+||
+||   Package:  ./gfbgraph-0.2.5-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 10:25 ./
+drwxr-xr-x root/root         0 2022-05-19 10:25 install/
+-rw-r--r-- root/root       730 2022-05-19 10:25 install/doinst.sh
+-rw-r--r-- root/root       648 2022-05-19 10:25 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/doc/gfbgraph-0.2.5/
+-rw-r--r-- root/root        35 2021-10-30 05:43 usr/doc/gfbgraph-0.2.5/AUTHORS
+-rw-r--r-- root/root     26425 2021-10-30 05:43 usr/doc/gfbgraph-0.2.5/COPYING
+-rw-r--r-- root/root         2 2021-10-30 05:43 usr/doc/gfbgraph-0.2.5/ChangeLog
+-rw-r--r-- root/root     15749 2021-10-30 05:43 usr/doc/gfbgraph-0.2.5/INSTALL
+-rw-r--r-- root/root      2254 2021-10-30 05:43 usr/doc/gfbgraph-0.2.5/NEWS
+-rw-r--r-- root/root       215 2021-10-30 05:43 usr/doc/gfbgraph-0.2.5/README
+-rw-r--r-- root/root      3488 2022-05-19 10:25 usr/doc/gfbgraph-0.2.5/gfbgraph.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/doc/libgfbgraph/
+-rw-r--r-- root/root        35 2022-05-19 10:25 usr/doc/libgfbgraph/AUTHORS
+-rw-r--r-- root/root     26425 2022-05-19 10:25 usr/doc/libgfbgraph/COPYING
+-rw-r--r-- root/root         2 2022-05-19 10:25 usr/doc/libgfbgraph/ChangeLog
+-rw-r--r-- root/root     15749 2022-05-19 10:25 usr/doc/libgfbgraph/INSTALL
+-rw-r--r-- root/root      2254 2022-05-19 10:25 usr/doc/libgfbgraph/NEWS
+-rw-r--r-- root/root       215 2022-05-19 10:25 usr/doc/libgfbgraph/README
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/include/gfbgraph-0.2/
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/
+-rw-r--r-- root/root      2789 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-album.h
+-rw-r--r-- root/root      3332 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-authorizer.h
+-rw-r--r-- root/root      1106 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-common.h
+-rw-r--r-- root/root      2713 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-connectable.h
+-rw-r--r-- root/root      2369 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-goa-authorizer.h
+-rw-r--r-- root/root      4281 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-node.h
+-rw-r--r-- root/root      3340 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-photo.h
+-rw-r--r-- root/root      2442 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-simple-authorizer.h
+-rw-r--r-- root/root      3197 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph-user.h
+-rw-r--r-- root/root      1125 2022-05-19 10:25 usr/include/gfbgraph-0.2/gfbgraph/gfbgraph.h
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      9140 2022-05-19 10:25 usr/lib64/girepository-1.0/GFBGraph-0.2.typelib
+-rwxr-xr-x root/root     64504 2022-05-19 10:25 usr/lib64/libgfbgraph-0.2.so.0.0.0
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       383 2022-05-19 10:25 usr/lib64/pkgconfig/libgfbgraph-0.2.pc
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/share/gir-1.0/
+-rw-r--r-- root/root    102754 2022-05-19 10:25 usr/share/gir-1.0/GFBGraph-0.2.gir
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/
+-rw-r--r-- root/root     18773 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/GFBGraphAlbum.html
+-rw-r--r-- root/root      9781 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/GFBGraphGoaAuthorizer.html
+-rw-r--r-- root/root     35708 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/GFBGraphNode.html
+-rw-r--r-- root/root     26682 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/GFBGraphPhoto.html
+-rw-r--r-- root/root      9762 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/GFBGraphSimpleAuthorizer.html
+-rw-r--r-- root/root     32651 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/GFBGraphUser.html
+-rw-r--r-- root/root      4422 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/annotation-glossary.html
+-rw-r--r-- root/root     24640 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/api-index-full.html
+-rw-r--r-- root/root      2246 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/ch01.html
+-rw-r--r-- root/root      2443 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/ch02.html
+-rw-r--r-- root/root      1789 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/ch03.html
+-rw-r--r-- root/root     12671 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/gfbgraph-0.2.devhelp2
+-rw-r--r-- root/root     13110 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/gfbgraph-GFBGraphAuthorizer.html
+-rw-r--r-- root/root     18032 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/gfbgraph-GFBGraphConnectable.html
+-rw-r--r-- root/root      4607 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/gfbgraph-gfbgraph-common.html
+-rw-r--r-- root/root       256 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/home.png
+-rw-r--r-- root/root      4566 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/index.html
+-rw-r--r-- root/root       395 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/left-insensitive.png
+-rw-r--r-- root/root       262 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/left.png
+-rw-r--r-- root/root      2581 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/object-tree.html
+-rw-r--r-- root/root       373 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/right-insensitive.png
+-rw-r--r-- root/root       261 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/right.png
+-rw-r--r-- root/root     11606 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/style.css
+-rw-r--r-- root/root       374 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/up-insensitive.png
+-rw-r--r-- root/root       260 2022-05-19 10:25 usr/share/gtk-doc/html/gfbgraph-0.2/up.png
+
+

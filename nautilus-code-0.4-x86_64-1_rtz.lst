@@ -1,0 +1,19 @@
+++========================================
+||
+||   Package:  ./nautilus-code-0.4-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-21 23:54 ./
+drwxr-xr-x root/root         0 2022-05-21 23:54 install/
+-rw-r--r-- root/root       954 2022-05-21 23:54 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-21 23:54 usr/
+drwxr-xr-x root/root         0 2022-05-21 23:54 usr/doc/
+drwxr-xr-x root/root         0 2022-05-21 23:54 usr/doc/nautilus-code-0.4/
+-rwxr-xr-x root/root      1461 2022-05-16 13:25 usr/doc/nautilus-code-0.4/README.md
+-rw-r--r-- root/root      3617 2022-05-21 23:54 usr/doc/nautilus-code-0.4/nautilus-code.SlackBuild
+drwxr-xr-x root/root         0 2022-05-21 23:54 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-21 23:54 usr/lib64/nautilus/
+drwxr-xr-x root/root         0 2022-05-21 23:54 usr/lib64/nautilus/extensions-3.0/
+-rwxr-xr-x root/root     14240 2022-05-21 23:54 usr/lib64/nautilus/extensions-3.0/libnautilus-code.so
+
+

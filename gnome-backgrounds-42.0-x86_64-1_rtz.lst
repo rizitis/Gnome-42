@@ -1,0 +1,56 @@
+++========================================
+||
+||   Package:  ./gnome-backgrounds-42.0-x86_64-1_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 10:32 ./
+drwxr-xr-x root/root         0 2022-05-19 10:32 install/
+-rw-r--r-- root/root       811 2022-05-19 10:32 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 10:32 usr/
+drwxr-xr-x root/root         0 2022-05-19 10:32 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 10:32 usr/doc/gnome-backgrounds-42.0/
+-rw-r--r-- root/root       266 2022-03-21 13:48 usr/doc/gnome-backgrounds-42.0/AUTHORS
+-rw-r--r-- root/root       291 2022-03-21 13:48 usr/doc/gnome-backgrounds-42.0/COPYING
+-rw-r--r-- root/root       118 2022-03-21 13:48 usr/doc/gnome-backgrounds-42.0/ChangeLog
+-rw-r--r-- root/root     21538 2022-03-21 13:48 usr/doc/gnome-backgrounds-42.0/NEWS
+-rw-r--r-- root/root      3029 2022-03-21 13:48 usr/doc/gnome-backgrounds-42.0/README.md
+-rw-r--r-- root/root      3366 2022-05-19 10:32 usr/doc/gnome-backgrounds-42.0/gnome-backgrounds.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 10:32 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 10:32 usr/share/backgrounds/
+drwxr-xr-x root/root         0 2022-05-19 10:32 usr/share/backgrounds/gnome/
+-rw-r--r-- root/root    772307 2022-03-21 13:48 usr/share/backgrounds/gnome/adwaita-d.jpg
+-rw-r--r-- root/root   1220626 2022-03-21 13:48 usr/share/backgrounds/gnome/adwaita-l.jpg
+-rw-r--r-- root/root     12626 2022-03-21 13:48 usr/share/backgrounds/gnome/blobs-d.svg
+-rw-r--r-- root/root     12543 2022-03-21 13:48 usr/share/backgrounds/gnome/blobs-l.svg
+-rw-r--r-- root/root    966740 2022-03-21 13:48 usr/share/backgrounds/gnome/brush-strokes-d.jpg
+-rw-r--r-- root/root   1800447 2022-03-21 13:48 usr/share/backgrounds/gnome/brush-strokes-l.jpg
+-rw-r--r-- root/root   6464412 2022-03-21 13:48 usr/share/backgrounds/gnome/disco-d.jpg
+-rw-r--r-- root/root   1935706 2022-03-21 13:48 usr/share/backgrounds/gnome/disco-l.jpg
+-rw-r--r-- root/root      8115 2022-03-21 13:48 usr/share/backgrounds/gnome/drool-d.svg
+-rw-r--r-- root/root      8213 2022-03-21 13:48 usr/share/backgrounds/gnome/drool-l.svg
+-rw-r--r-- root/root    565402 2022-03-21 13:48 usr/share/backgrounds/gnome/libadwaita-d.jpg
+-rw-r--r-- root/root   1324104 2022-03-21 13:48 usr/share/backgrounds/gnome/libadwaita-l.jpg
+-rw-r--r-- root/root   3132236 2022-03-21 13:48 usr/share/backgrounds/gnome/pixels-d.png
+-rw-r--r-- root/root   3480716 2022-03-21 13:48 usr/share/backgrounds/gnome/pixels-l.png
+-rw-r--r-- root/root  12486507 2022-03-21 13:48 usr/share/backgrounds/gnome/symbolics-d.png
+-rw-r--r-- root/root  13876802 2022-03-21 13:48 usr/share/backgrounds/gnome/symbolics-l.png
+-rw-r--r-- root/root   1347436 2022-03-21 13:48 usr/share/backgrounds/gnome/truchet-d.jpg
+-rw-r--r-- root/root    684426 2022-03-21 13:48 usr/share/backgrounds/gnome/truchet-l.jpg
+-rw-r--r-- root/root      4773 2022-03-21 13:48 usr/share/backgrounds/gnome/vnc-d.png
+-rw-r--r-- root/root       580 2022-03-21 13:48 usr/share/backgrounds/gnome/vnc-l.png
+-rw-r--r-- root/root    557807 2022-03-21 13:48 usr/share/backgrounds/gnome/wood-d.jpg
+-rw-r--r-- root/root   1094850 2022-03-21 13:48 usr/share/backgrounds/gnome/wood-l.jpg
+drwxr-xr-x root/root         0 2022-05-19 10:32 usr/share/gnome-background-properties/
+-rw-r--r-- root/root       446 2022-05-19 10:32 usr/share/gnome-background-properties/adwaita.xml
+-rw-r--r-- root/root       429 2022-05-19 10:32 usr/share/gnome-background-properties/blobs.xml
+-rw-r--r-- root/root       453 2022-05-19 10:32 usr/share/gnome-background-properties/brush-strokes.xml
+-rw-r--r-- root/root       429 2022-05-19 10:32 usr/share/gnome-background-properties/disco.xml
+-rw-r--r-- root/root       429 2022-05-19 10:32 usr/share/gnome-background-properties/drool.xml
+-rw-r--r-- root/root       444 2022-05-19 10:32 usr/share/gnome-background-properties/libadwaita.xml
+-rw-r--r-- root/root       432 2022-05-19 10:32 usr/share/gnome-background-properties/pixels.xml
+-rw-r--r-- root/root       441 2022-05-19 10:32 usr/share/gnome-background-properties/symbolics.xml
+-rw-r--r-- root/root       435 2022-05-19 10:32 usr/share/gnome-background-properties/truchet.xml
+-rw-r--r-- root/root       423 2022-05-19 10:32 usr/share/gnome-background-properties/vnc.xml
+-rw-r--r-- root/root       426 2022-05-19 10:32 usr/share/gnome-background-properties/wood.xml
+
+

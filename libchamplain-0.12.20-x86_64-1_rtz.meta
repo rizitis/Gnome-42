@@ -1,0 +1,17 @@
+PACKAGE NAME:  libchamplain-0.12.20-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  216 K
+PACKAGE SIZE (uncompressed):  1240 K
+PACKAGE DESCRIPTION:
+libchamplain: libchamplain (C library providing ClutterActor to display maps)
+libchamplain:
+libchamplain: libchamplain is a C library providing a ClutterActor to display
+libchamplain: maps. It also provides a Gtk+ widget to display maps in Gtk+
+libchamplain: applications. Python and Perl bindings are also available. It
+libchamplain: supports numerous free map sources such as OpenStreetMap,
+libchamplain: OpenCycleMap, OpenAerialMap and Maps for free.
+libchamplain:
+libchamplain:
+libchamplain:
+libchamplain:
+

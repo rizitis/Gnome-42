@@ -1,0 +1,83 @@
+++========================================
+||
+||   Package:  ./rest-0.8.1-x86_64-2_rtz.tgz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-19 09:18 ./
+drwxr-xr-x root/root         0 2022-05-19 09:18 install/
+-rw-r--r-- root/root       462 2022-05-19 09:18 install/doinst.sh
+-rw-r--r-- root/root       674 2022-05-19 09:18 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/doc/
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/doc/rest-0.8.1/
+-rw-r--r-- root/root        70 2014-09-08 12:59 usr/doc/rest-0.8.1/AUTHORS
+-rw-r--r-- root/root     26527 2014-09-08 12:59 usr/doc/rest-0.8.1/COPYING
+-rw-r--r-- root/root      9512 2014-09-08 12:59 usr/doc/rest-0.8.1/INSTALL
+-rw-r--r-- root/root      2385 2014-09-08 12:59 usr/doc/rest-0.8.1/README
+drwxr-xr-x root/root         0 2017-10-17 18:03 usr/doc/rest-0.8.1/html/
+-rw-r--r-- root/root     24771 2017-10-17 18:03 usr/doc/rest-0.8.1/html/FlickrProxy.html
+-rw-r--r-- root/root      5154 2017-10-17 18:03 usr/doc/rest-0.8.1/html/FlickrProxyCall.html
+-rw-r--r-- root/root     19355 2017-10-17 18:03 usr/doc/rest-0.8.1/html/LastfmProxy.html
+-rw-r--r-- root/root      3711 2017-10-17 18:03 usr/doc/rest-0.8.1/html/LastfmProxyCall.html
+-rw-r--r-- root/root     24701 2017-10-17 18:03 usr/doc/rest-0.8.1/html/OAuth2Proxy.html
+-rw-r--r-- root/root      3713 2017-10-17 18:03 usr/doc/rest-0.8.1/html/OAuth2ProxyCall.html
+-rw-r--r-- root/root     62290 2017-10-17 18:03 usr/doc/rest-0.8.1/html/OAuthProxy.html
+-rw-r--r-- root/root      4705 2017-10-17 18:03 usr/doc/rest-0.8.1/html/OAuthProxyCall.html
+-rw-r--r-- root/root     42431 2017-10-17 18:03 usr/doc/rest-0.8.1/html/RestProxy.html
+-rw-r--r-- root/root     67548 2017-10-17 18:03 usr/doc/rest-0.8.1/html/RestProxyCall.html
+-rw-r--r-- root/root     18685 2017-10-17 18:03 usr/doc/rest-0.8.1/html/RestXmlParser.html
+-rw-r--r-- root/root      2221 2017-10-17 18:03 usr/doc/rest-0.8.1/html/ch01.html
+-rw-r--r-- root/root      2119 2017-10-17 18:03 usr/doc/rest-0.8.1/html/ch02.html
+-rw-r--r-- root/root      2154 2017-10-17 18:03 usr/doc/rest-0.8.1/html/ch03.html
+-rw-r--r-- root/root      1757 2017-10-17 18:03 usr/doc/rest-0.8.1/html/ch04.html
+-rw-r--r-- root/root      3892 2017-10-17 18:03 usr/doc/rest-0.8.1/html/ch05.html
+-rw-r--r-- root/root       256 2017-10-17 18:03 usr/doc/rest-0.8.1/html/home.png
+-rw-r--r-- root/root      3367 2017-10-17 18:03 usr/doc/rest-0.8.1/html/index.html
+-rw-r--r-- root/root     40903 2017-10-17 18:03 usr/doc/rest-0.8.1/html/ix01.html
+-rw-r--r-- root/root       395 2017-10-17 18:03 usr/doc/rest-0.8.1/html/left-insensitive.png
+-rw-r--r-- root/root       262 2017-10-17 18:03 usr/doc/rest-0.8.1/html/left.png
+-rw-r--r-- root/root     33636 2017-10-17 18:03 usr/doc/rest-0.8.1/html/rest-RestParam.html
+-rw-r--r-- root/root     23821 2017-10-17 18:03 usr/doc/rest-0.8.1/html/rest-RestParams.html
+-rw-r--r-- root/root     26769 2017-10-17 18:03 usr/doc/rest-0.8.1/html/rest.devhelp2
+-rw-r--r-- root/root       373 2017-10-17 18:03 usr/doc/rest-0.8.1/html/right-insensitive.png
+-rw-r--r-- root/root       261 2017-10-17 18:03 usr/doc/rest-0.8.1/html/right.png
+-rw-r--r-- root/root      8812 2017-10-17 18:03 usr/doc/rest-0.8.1/html/style.css
+-rw-r--r-- root/root       374 2017-10-17 18:03 usr/doc/rest-0.8.1/html/up-insensitive.png
+-rw-r--r-- root/root       260 2017-10-17 18:03 usr/doc/rest-0.8.1/html/up.png
+-rw-r--r-- root/root      3362 2022-05-19 09:18 usr/doc/rest-0.8.1/rest.SlackBuild
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/include/
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/include/rest-0.7/
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/include/rest-0.7/rest/
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/include/rest-0.7/rest-extras/
+-rw-r--r-- root/root      2023 2022-05-19 09:18 usr/include/rest-0.7/rest-extras/flickr-proxy-call.h
+-rw-r--r-- root/root      3115 2022-05-19 09:18 usr/include/rest-0.7/rest-extras/flickr-proxy.h
+-rw-r--r-- root/root      2015 2022-05-19 09:18 usr/include/rest-0.7/rest-extras/lastfm-proxy-call.h
+-rw-r--r-- root/root      2849 2022-05-19 09:18 usr/include/rest-0.7/rest-extras/lastfm-proxy.h
+-rw-r--r-- root/root      3409 2022-05-19 09:18 usr/include/rest-0.7/rest-extras/youtube-proxy.h
+-rw-r--r-- root/root      2195 2022-05-19 09:18 usr/include/rest-0.7/rest/oauth-proxy-call.h
+-rw-r--r-- root/root      6361 2022-05-19 09:18 usr/include/rest-0.7/rest/oauth-proxy.h
+-rw-r--r-- root/root      2085 2022-05-19 09:18 usr/include/rest-0.7/rest/oauth2-proxy-call.h
+-rw-r--r-- root/root      3136 2022-05-19 09:18 usr/include/rest-0.7/rest/oauth2-proxy.h
+-rw-r--r-- root/root       718 2022-05-19 09:18 usr/include/rest-0.7/rest/rest-enum-types.h
+-rw-r--r-- root/root      3050 2022-05-19 09:18 usr/include/rest-0.7/rest/rest-param.h
+-rw-r--r-- root/root      1686 2022-05-19 09:18 usr/include/rest-0.7/rest/rest-params.h
+-rw-r--r-- root/root      2146 2022-05-19 09:18 usr/include/rest-0.7/rest/rest-proxy-auth.h
+-rw-r--r-- root/root      8973 2022-05-19 09:18 usr/include/rest-0.7/rest/rest-proxy-call.h
+-rw-r--r-- root/root      8982 2022-05-19 09:18 usr/include/rest-0.7/rest/rest-proxy.h
+-rw-r--r-- root/root      2515 2022-05-19 09:18 usr/include/rest-0.7/rest/rest-xml-node.h
+-rw-r--r-- root/root      2066 2022-05-19 09:18 usr/include/rest-0.7/rest/rest-xml-parser.h
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root     17396 2022-05-19 09:18 usr/lib64/girepository-1.0/Rest-0.7.typelib
+-rw-r--r-- root/root      4668 2022-05-19 09:18 usr/lib64/girepository-1.0/RestExtras-0.7.typelib
+-rwxr-xr-x root/root     98056 2022-05-19 09:18 usr/lib64/librest-0.7.so.0.0.0
+-rwxr-xr-x root/root     35632 2022-05-19 09:18 usr/lib64/librest-extras-0.7.so.0.0.0
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       290 2022-05-19 09:18 usr/lib64/pkgconfig/rest-0.7.pc
+-rw-r--r-- root/root       297 2022-05-19 09:18 usr/lib64/pkgconfig/rest-extras-0.7.pc
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/share/
+drwxr-xr-x root/root         0 2022-05-19 09:18 usr/share/gir-1.0/
+-rw-r--r-- root/root    196547 2022-05-19 09:18 usr/share/gir-1.0/Rest-0.7.gir
+-rw-r--r-- root/root     42408 2022-05-19 09:18 usr/share/gir-1.0/RestExtras-0.7.gir
+
+

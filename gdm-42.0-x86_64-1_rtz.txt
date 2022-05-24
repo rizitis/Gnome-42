@@ -1,0 +1,6 @@
+gdm: gdm (GNOME Display Manager)
+gdm:
+gdm: GDM is a system service that is responsible for providing graphical 
+gdm: logins and managing local and remote displays. 
+gdm:
+gdm: Homepage: https://gitlab.gnome.org/GNOME/gdm
