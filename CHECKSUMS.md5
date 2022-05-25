@@ -10,13 +10,13 @@ tail +13 CHECKSUMS.md5 | md5sum --check | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-d6ecfda5ff148aa9988e0e2be5616a04  ./FILELIST.TXT
+198a386d53823a668b8cae103c8cf6cb  ./FILELIST.TXT
 fb5721d213c3e0faced645f678538e3e  ./GPG-KEY
 36124de262bec81da3316b9aa8748a9a  ./GnomeGitlab.webm
 a1b97941e8975113dd39048bb9e255be  ./GnomeGitlab.webm.asc
-74323b6df56fae2736625fe1a20a0942  ./MANIFEST.bz2
-8513bd7d71ccb83b20d74030214fea9d  ./PACKAGES.TXT
-b09663725b28f5ce04ff33a1cdeb2c44  ./PACKAGES.TXT.gz
+b9fcb2c3984ba4cbb5309f491fc3d949  ./MANIFEST.bz2
+e7f9fc5570c55a9ebf060df59bb72d4e  ./PACKAGES.TXT
+8a143b82911c01f1d3a7e657c70b1eda  ./PACKAGES.TXT.gz
 e8146180e8b6339699cd5fb9f8a546e1  ./README.md
 52be239a2a331ac0fb5ae543291209ab  ./README.md.asc
 9773003b70dff1c8cfc8f325822db93b  ./Slackware
@@ -242,6 +242,12 @@ d0ea41712af2e775607be9fddb6e2780  ./gnome-console-42.beta-x86_64-1_rtz.meta
 9a4fed2e1bda12a1d2944bd230a668b2  ./gnome-console-42.beta-x86_64-1_rtz.tgz.asc
 09e6f5f9039e65d5cda4ad840e9b5652  ./gnome-console-42.beta-x86_64-1_rtz.tgz.md5
 459d8fa64c4bb216dc66c93dd16231f8  ./gnome-console-42.beta-x86_64-1_rtz.txt
+e050a66b963306c5c349d72cc198ce8d  ./gnome-contacts-42.0-x86_64-1_rtz.lst
+90e9c6dfa7d3a193c92d98a0f257ca61  ./gnome-contacts-42.0-x86_64-1_rtz.meta
+5a50ffef037d27114c50cdf03accae66  ./gnome-contacts-42.0-x86_64-1_rtz.txt
+6b6c58060c97719d8ae05b872a5d0156  ./gnome-contacts-42.0-x86_64-1_rtz.txz
+4c141f28acd3e03b39db749f91c52a11  ./gnome-contacts-42.0-x86_64-1_rtz.txz.asc
+0e4103b12bfff6d26250f202ff0b6ae8  ./gnome-contacts-42.0-x86_64-1_rtz.txz.md5
 51954e4caa880bedcd232089bbf4895a  ./gnome-control-center-42.1-x86_64-1_rtz.lst
 9751c682cf14eddafd3f582facd4ce3d  ./gnome-control-center-42.1-x86_64-1_rtz.meta
 ff69af88a8ac3572a140dcbcb850d410  ./gnome-control-center-42.1-x86_64-1_rtz.tgz
@@ -350,6 +356,12 @@ b059e65bfddcd21e7b2a9d7a2fa537a6  ./gnome-text-editor-42.1-x86_64-1_rtz.meta
 dbbc3af47c8f5f385b73e7e94a1252b1  ./gnome-text-editor-42.1-x86_64-1_rtz.tgz.asc
 8462cc7a42cdb642701d47450f96e559  ./gnome-text-editor-42.1-x86_64-1_rtz.tgz.md5
 37f98569c5ab730e0383f0ddcf016280  ./gnome-text-editor-42.1-x86_64-1_rtz.txt
+1564af8a7581994fd080d5a959dd77a3  ./gnome-tour-42.0-x86_64-1_rtz.lst
+c312440fe20ccf12fa7a85588d9f5f2e  ./gnome-tour-42.0-x86_64-1_rtz.meta
+d7920ecf127acb37404977e51a0c2e3f  ./gnome-tour-42.0-x86_64-1_rtz.txt
+0482a0ad04e172922db4a7f389873de8  ./gnome-tour-42.0-x86_64-1_rtz.txz
+33d4aed68a16bd01a976efdafbcf4712  ./gnome-tour-42.0-x86_64-1_rtz.txz.asc
+0fcc5cd38ad4cdc7a065873e26ea9b42  ./gnome-tour-42.0-x86_64-1_rtz.txz.md5
 ea050d3025b8e90d2f0e7c42d80fd708  ./gnome-tweaks-42.beta-x86_64-1_rtz.lst
 dc2fa9c038462424774c3ffb3cdafda2  ./gnome-tweaks-42.beta-x86_64-1_rtz.meta
 c2ed2a98123a7ebd532ae67ec536e6e4  ./gnome-tweaks-42.beta-x86_64-1_rtz.tgz
@@ -622,6 +634,12 @@ e2ffd686ec5d05c3b9d765eb195f3c8f  ./seahorse-3.18.0-x86_64-1_rtz.tgz
 6181b507b0a961a2ffe18300aefc6e2d  ./seahorse-3.18.0-x86_64-1_rtz.tgz.asc
 6a107e7f6e565d39dc4e0c2921335a92  ./seahorse-3.18.0-x86_64-1_rtz.tgz.md5
 c61f94fd1911aa9fcbb56d19033d6ef7  ./seahorse-3.18.0-x86_64-1_rtz.txt
+02d6223a7bdab15cb3d75b24275c42e8  ./simple-scan-42.0-x86_64-1_rtz.lst
+2f5adaa18ec6ff0f6f69aef6506502b2  ./simple-scan-42.0-x86_64-1_rtz.meta
+e7262a862f5632f3e8821455033adb7c  ./simple-scan-42.0-x86_64-1_rtz.txt
+6ac09e243a2910fd7f721ca27489e42e  ./simple-scan-42.0-x86_64-1_rtz.txz
+9612d27a19191a33894cc76319618ccc  ./simple-scan-42.0-x86_64-1_rtz.txz.asc
+5d5688a62213962217d4bd75ea9e0da9  ./simple-scan-42.0-x86_64-1_rtz.txz.md5
 f2f9eabe68e0116c3f40a823b280278d  ./ssh-keys
 b2a4c323552afd173ea930a69af23291  ./telepathy-glib-0.24.1-x86_64-1_rtz.lst
 321ccf0b2d946c10f9d860108330a4ce  ./telepathy-glib-0.24.1-x86_64-1_rtz.meta

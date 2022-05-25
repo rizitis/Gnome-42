@@ -1,4 +1,4 @@
-PACKAGES.TXT;  Tue May 24 17:14:00 UTC 2022
+PACKAGES.TXT;  Wed May 25 17:46:04 UTC 2022
 
 PACKAGE NAME:  amtk-5.4.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -605,6 +605,23 @@ gnome-console:
 gnome-console: https://gitlab.gnome.org/GNOME/console
 gnome-console:
 
+PACKAGE NAME:  gnome-contacts-42.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  324 K
+PACKAGE SIZE (uncompressed):  1780 K
+PACKAGE DESCRIPTION:
+gnome-contacts:
+gnome-contacts: GNOME Contacts
+gnome-contacts:
+gnome-contacts: GNOME Contacts is GNOME's integrated address book.
+gnome-contacts:
+gnome-contacts:
+gnome-contacts:
+gnome-contacts:
+gnome-contacts:
+gnome-contacts: https://wiki.gnome.org/Apps/Contacts
+gnome-contacts:
+
 PACKAGE NAME:  gnome-control-center-42.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  8416 K
@@ -886,6 +903,23 @@ gnome-text-editor:
 gnome-text-editor: GNOME Text Editor
 gnome-text-editor:https://gitlab.gnome.org/GNOME/gnome-text-editor
 gnome-text-editor:
+
+PACKAGE NAME:  gnome-tour-42.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  552 K
+PACKAGE SIZE (uncompressed):  2140 K
+PACKAGE DESCRIPTION:
+gnome-tour:
+gnome-tour: GNOME Tour
+gnome-tour:
+gnome-tour: GNOME Tour & Greeter.
+gnome-tour:
+gnome-tour:
+gnome-tour:
+gnome-tour:
+gnome-tour:
+gnome-tour: https://gitlab.gnome.org/GNOME/gnome-tour
+gnome-tour:
 
 PACKAGE NAME:  gnome-tweaks-42.beta-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1636,6 +1670,23 @@ seahorse:
 seahorse:
 seahorse:
 seahorse:
+
+PACKAGE NAME:  simple-scan-42.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  928 K
+PACKAGE SIZE (uncompressed):  5340 K
+PACKAGE DESCRIPTION:
+simple-scan:
+simple-scan: simple-scan (Document Scanner)
+simple-scan:
+simple-scan: Simple Scan allows you to capture images using image scanners.
+simple-scan:
+simple-scan:
+simple-scan:
+simple-scan:
+simple-scan:
+simple-scan: https://gitlab.gnome.org/GNOME/simple-scan
+simple-scan:
 
 PACKAGE NAME:  telepathy-glib-0.24.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .

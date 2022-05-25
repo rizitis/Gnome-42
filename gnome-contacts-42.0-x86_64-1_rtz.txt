@@ -1,0 +1,11 @@
+gnome-contacts:
+gnome-contacts: GNOME Contacts
+gnome-contacts:
+gnome-contacts: GNOME Contacts is GNOME's integrated address book.
+gnome-contacts:
+gnome-contacts:
+gnome-contacts:
+gnome-contacts:
+gnome-contacts:
+gnome-contacts: https://wiki.gnome.org/Apps/Contacts
+gnome-contacts:

@@ -1,0 +1,11 @@
+simple-scan:
+simple-scan: simple-scan (Document Scanner)
+simple-scan:
+simple-scan: Simple Scan allows you to capture images using image scanners.
+simple-scan:
+simple-scan:
+simple-scan:
+simple-scan:
+simple-scan:
+simple-scan: https://gitlab.gnome.org/GNOME/simple-scan
+simple-scan:

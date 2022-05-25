@@ -1,0 +1,11 @@
+gnome-tour:
+gnome-tour: GNOME Tour
+gnome-tour:
+gnome-tour: GNOME Tour & Greeter.
+gnome-tour:
+gnome-tour:
+gnome-tour:
+gnome-tour:
+gnome-tour:
+gnome-tour: https://gitlab.gnome.org/GNOME/gnome-tour
+gnome-tour:

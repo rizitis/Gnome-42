@@ -1,4 +1,4 @@
-Tue May 24 17:14:00 UTC 2022
+Wed May 25 17:46:04 UTC 2022
 
 Here is the file list for this directory ,
 maintained by Anagnostakis Ioannis <elahistos@yahoo.gr> .
@@ -6,16 +6,16 @@ If you are using a mirror site and find missing or extra files
 in the subdirectories, please have the archive administrator
 refresh the mirror.
 
-drwxr-xr-x 2 1000 100    45056 2022-05-24 20:14 .
--rw-r--r-- 1 1000 100    49520 2022-05-23 09:05 ./CHECKSUMS.md5
--rw-r--r-- 1 1000 100    17780 2022-05-23 09:05 ./CHECKSUMS.md5.gz
--rw-r--r-- 1 1000 100      276 2022-05-24 20:14 ./FILELIST.TXT
+drwxr-xr-x 2 1000 100    53248 2022-05-25 20:46 .
+-rw-r--r-- 1 1000 100    51417 2022-05-25 20:40 ./CHECKSUMS.md5
+-rw-r--r-- 1 1000 100    18431 2022-05-25 20:40 ./CHECKSUMS.md5.gz
+-rw-r--r-- 1 1000 100      276 2022-05-25 20:46 ./FILELIST.TXT
 -rw-r--r-- 1 1000 100      476 2022-05-21 22:34 ./GPG-KEY
 -rw-r--r-- 1 1000 100 41694315 2022-05-20 16:16 ./GnomeGitlab.webm
 -rw-r--r-- 1 1000 100      455 2022-05-21 22:18 ./GnomeGitlab.webm.asc
--rw-r--r-- 1 1000 100   305081 2022-05-24 20:14 ./MANIFEST.bz2
--rw-r--r-- 1 1000 100    63815 2022-05-24 20:14 ./PACKAGES.TXT
--rw-r--r-- 1 1000 100    14819 2022-05-24 20:14 ./PACKAGES.TXT.gz
+-rw-r--r-- 1 1000 100   311987 2022-05-25 20:46 ./MANIFEST.bz2
+-rw-r--r-- 1 1000 100    65072 2022-05-25 20:46 ./PACKAGES.TXT
+-rw-r--r-- 1 1000 100    15009 2022-05-25 20:46 ./PACKAGES.TXT.gz
 -rw-r--r-- 1 1000 100     3875 2022-05-21 22:51 ./README.md
 -rw-r--r-- 1 1000 100      455 2022-05-21 22:18 ./README.md.asc
 -rw-r--r-- 1 1000 100    59019 2022-05-23 09:05 ./Slackware
@@ -241,6 +241,12 @@ drwxr-xr-x 2 1000 100    45056 2022-05-24 20:14 .
 -rw-r--r-- 1 1000 100      455 2022-05-21 22:11 ./gnome-console-42.beta-x86_64-1_rtz.tgz.asc
 -rw-r--r-- 1 1000 100       73 2022-05-23 09:04 ./gnome-console-42.beta-x86_64-1_rtz.tgz.md5
 -rw-r--r-- 1 1000 100      404 2022-05-23 09:04 ./gnome-console-42.beta-x86_64-1_rtz.txt
+-rw-r--r-- 1 1000 100    21802 2022-05-25 20:46 ./gnome-contacts-42.0-x86_64-1_rtz.lst
+-rw-r--r-- 1 1000 100      445 2022-05-25 20:46 ./gnome-contacts-42.0-x86_64-1_rtz.meta
+-rw-r--r-- 1 1000 100      279 2022-05-25 20:46 ./gnome-contacts-42.0-x86_64-1_rtz.txt
+-rw-r--r-- 1 1000 100   328352 2022-05-24 22:33 ./gnome-contacts-42.0-x86_64-1_rtz.txz
+-rw-r--r-- 1 1000 100      455 2022-05-24 22:36 ./gnome-contacts-42.0-x86_64-1_rtz.txz.asc
+-rw-r--r-- 1 1000 100       71 2022-05-25 20:46 ./gnome-contacts-42.0-x86_64-1_rtz.txz.md5
 -rw-r--r-- 1 1000 100    54186 2022-05-23 09:04 ./gnome-control-center-42.1-x86_64-1_rtz.lst
 -rw-r--r-- 1 1000 100      517 2022-05-23 09:04 ./gnome-control-center-42.1-x86_64-1_rtz.meta
 -rw-r--r-- 1 1000 100  8615098 2022-05-19 18:20 ./gnome-control-center-42.1-x86_64-1_rtz.tgz
@@ -349,6 +355,12 @@ drwxr-xr-x 2 1000 100    45056 2022-05-24 20:14 .
 -rw-r--r-- 1 1000 100      455 2022-05-21 22:09 ./gnome-text-editor-42.1-x86_64-1_rtz.tgz.asc
 -rw-r--r-- 1 1000 100       74 2022-05-23 09:04 ./gnome-text-editor-42.1-x86_64-1_rtz.tgz.md5
 -rw-r--r-- 1 1000 100      523 2022-05-23 09:04 ./gnome-text-editor-42.1-x86_64-1_rtz.txt
+-rw-r--r-- 1 1000 100    13599 2022-05-25 20:46 ./gnome-tour-42.0-x86_64-1_rtz.lst
+-rw-r--r-- 1 1000 100      369 2022-05-25 20:46 ./gnome-tour-42.0-x86_64-1_rtz.meta
+-rw-r--r-- 1 1000 100      207 2022-05-25 20:46 ./gnome-tour-42.0-x86_64-1_rtz.txt
+-rw-r--r-- 1 1000 100   563616 2022-05-25 20:21 ./gnome-tour-42.0-x86_64-1_rtz.txz
+-rw-r--r-- 1 1000 100      455 2022-05-25 20:23 ./gnome-tour-42.0-x86_64-1_rtz.txz.asc
+-rw-r--r-- 1 1000 100       67 2022-05-25 20:46 ./gnome-tour-42.0-x86_64-1_rtz.txz.md5
 -rw-r--r-- 1 1000 100    24839 2022-05-23 09:04 ./gnome-tweaks-42.beta-x86_64-1_rtz.lst
 -rw-r--r-- 1 1000 100      441 2022-05-23 09:04 ./gnome-tweaks-42.beta-x86_64-1_rtz.meta
 -rw-r--r-- 1 1000 100   355196 2022-05-19 11:30 ./gnome-tweaks-42.beta-x86_64-1_rtz.tgz
@@ -621,6 +633,12 @@ drwxr-xr-x 2 1000 100    45056 2022-05-24 20:14 .
 -rw-r--r-- 1 1000 100      455 2022-05-21 21:59 ./seahorse-3.18.0-x86_64-1_rtz.tgz.asc
 -rw-r--r-- 1 1000 100       67 2022-05-23 09:04 ./seahorse-3.18.0-x86_64-1_rtz.tgz.md5
 -rw-r--r-- 1 1000 100      288 2022-05-23 09:04 ./seahorse-3.18.0-x86_64-1_rtz.txt
+-rw-r--r-- 1 1000 100    82649 2022-05-25 20:46 ./simple-scan-42.0-x86_64-1_rtz.lst
+-rw-r--r-- 1 1000 100      443 2022-05-25 20:46 ./simple-scan-42.0-x86_64-1_rtz.meta
+-rw-r--r-- 1 1000 100      280 2022-05-25 20:46 ./simple-scan-42.0-x86_64-1_rtz.txt
+-rw-r--r-- 1 1000 100   947220 2022-05-25 20:38 ./simple-scan-42.0-x86_64-1_rtz.txz
+-rw-r--r-- 1 1000 100      455 2022-05-25 20:38 ./simple-scan-42.0-x86_64-1_rtz.txz.asc
+-rw-r--r-- 1 1000 100       68 2022-05-25 20:46 ./simple-scan-42.0-x86_64-1_rtz.txz.md5
 -rw-r--r-- 1 1000 100     1287 2022-05-23 09:01 ./ssh-keys
 -rw-r--r-- 1 1000 100    42343 2022-05-23 09:04 ./telepathy-glib-0.24.1-x86_64-1_rtz.lst
 -rw-r--r-- 1 1000 100      737 2022-05-23 09:04 ./telepathy-glib-0.24.1-x86_64-1_rtz.meta
