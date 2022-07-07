@@ -40,7 +40,7 @@ groupadd -g 214 avahi
 
 # STEP 2
 
-open a terminal to edit `/etc/rc.d/rc.4`
+open a terminal to edit /etc/rc.d/rc.4
 ```
 nano /etc/rc.d/rc.4
 ```
@@ -54,7 +54,7 @@ fi
 
 # STEP 3
 
-edit `/etc/rc.d/rc.local` and add these lines
+edit /etc/rc.d/rc.local and add these lines
 
 ```
 # Start avahidaemon
@@ -68,7 +68,7 @@ fi
 ```
 # STEP 4 
 
-edit `/etc/rc.d/rc.local_shutdown` (if you dont have  rc.local_shutdown on your system then create one)
+edit /etc/rc.d/rc.local_shutdown (if you dont have  rc.local_shutdown on your system then create one)
 
 Add these lines in this file if exist:
 
@@ -127,13 +127,13 @@ upgradepkg --install-new --reinstall *.t?z
 
 # STEP 7 
 
-edit `/etc/inittab` to runlevel 4
+edit inittab to runlevel 4
 ```
 nano /etc/inittab
 
 ```
 Default runlevel. (Do not set to 0 or 6)
-`id:4:initdefault:`
+id:4:initdefault:
 
 # STEP 8 
 
@@ -144,18 +144,14 @@ reboot
 
 ## Notes and tips
 If everything goes ok , you should have gdm on your boot screen, maybe with a delay some times if you have potato pc like me...
+
 Now you should enable pipewire using Pat`s  Slackbuild script that you have on your system.
 ```
 pipewire-enable.sh
 reboot
 
 ```
-IF everything is ok you will have an error message about xdg-desktop-portal-kde
-That is not a problem, but if you dont like or you dont use KDE , then you can remove it.
-```
-slackpkg remove xdg-desktop-portal-kde
 
-```
 
 ## IF everything didn`t goes ok!!!! and you are on "Gnome white screen of death" then the safe and best choice I THINK is to hit
 
@@ -167,7 +163,7 @@ login as root and cd to the gnome-slackware-current folder which include all the
 Then command 
 
 ```
-removepkg *.t?z 
+removepkg *.* 
 
 ```
 

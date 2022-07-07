@@ -1,0 +1,46 @@
+++========================================
+||
+||   Package:  ./wpebackend-fdo-1.12.0-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-07 08:10 ./
+drwxr-xr-x root/root         0 2022-07-07 08:10 install/
+-rw-r--r-- root/root       266 2022-07-07 08:10 install/doinst.sh
+-rw-r--r-- root/root      1116 2022-07-07 08:10 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/doc/
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/doc/wpebackend-fdo-1.12.0/
+-rw-r--r-- root/root      1303 2021-10-19 01:13 usr/doc/wpebackend-fdo-1.12.0/COPYING
+-rw-r--r-- root/root      3316 2021-10-19 01:13 usr/doc/wpebackend-fdo-1.12.0/NEWS
+-rw-r--r-- root/root      3508 2022-07-07 08:10 usr/doc/wpebackend-fdo-1.12.0/wpebackend-fdo.SlackBuild
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/include/
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/include/wpe-fdo-1.0/
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/include/wpe-fdo-1.0/wpe/
+-rw-r--r-- root/root      2056 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/exported-buffer-shm.h
+-rw-r--r-- root/root      2003 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/exported-image-egl.h
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/include/wpe-fdo-1.0/wpe/extensions/
+-rw-r--r-- root/root      3592 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/extensions/audio.h
+-rw-r--r-- root/root      4168 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/extensions/video-plane-display-dmabuf.h
+-rw-r--r-- root/root      1798 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/fdo-egl.h
+-rw-r--r-- root/root      1731 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/fdo.h
+-rw-r--r-- root/root      1754 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/initialize-egl.h
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/include/wpe-fdo-1.0/wpe/unstable/
+-rw-r--r-- root/root      2180 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/dmabuf-pool-entry.h
+-rw-r--r-- root/root      1687 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/fdo-dmabuf.h
+-rw-r--r-- root/root      1762 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/fdo-eglstream.h
+-rw-r--r-- root/root      1709 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/fdo-shm.h
+-rw-r--r-- root/root      1641 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/initialize-dmabuf.h
+-rw-r--r-- root/root      1781 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/initialize-eglstream.h
+-rw-r--r-- root/root      1712 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/initialize-shm.h
+-rw-r--r-- root/root      2639 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/view-backend-dmabuf-pool-fdo.h
+-rw-r--r-- root/root      2304 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/unstable/view-backend-exportable-eglstream.h
+-rw-r--r-- root/root      3076 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/version.h
+-rw-r--r-- root/root      2836 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/view-backend-exportable-egl.h
+-rw-r--r-- root/root      3238 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/view-backend-exportable.h
+-rw-r--r-- root/root      1551 2021-10-19 01:13 usr/include/wpe-fdo-1.0/wpe/wpebackend-fdo-version.h
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/lib64/
+-rwxr-xr-x root/root     89448 2022-07-07 08:10 usr/lib64/libWPEBackend-fdo-1.0.so.1.8.0
+drwxr-xr-x root/root         0 2022-07-07 08:10 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       248 2022-07-07 08:10 usr/lib64/pkgconfig/wpebackend-fdo-1.0.pc
+
+

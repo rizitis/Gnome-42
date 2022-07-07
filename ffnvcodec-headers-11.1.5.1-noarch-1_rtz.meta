@@ -1,0 +1,13 @@
+PACKAGE NAME:  ffnvcodec-headers-11.1.5.1-noarch-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  390 K
+PACKAGE DESCRIPTION:
+ffnvcodec-headers:
+ffnvcodec-headers:
+ffnvcodec-headers: FFmpeg version of headers required to interface with  
+ffnvcodec-headers: Nvidia codec APIs. 
+ffnvcodec-headers:
+ffnvcodec-headers: https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git
+ffnvcodec-headers:
+

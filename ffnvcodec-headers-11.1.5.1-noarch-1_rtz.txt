@@ -1,0 +1,7 @@
+ffnvcodec-headers:
+ffnvcodec-headers:
+ffnvcodec-headers: FFmpeg version of headers required to interface with  
+ffnvcodec-headers: Nvidia codec APIs. 
+ffnvcodec-headers:
+ffnvcodec-headers: https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git
+ffnvcodec-headers:

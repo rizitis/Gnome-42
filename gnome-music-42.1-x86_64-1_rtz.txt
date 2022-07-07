@@ -1,0 +1,10 @@
+gnome-music: GNOME Music
+gnome-music:
+gnome-music: Music is the new GNOME music playing application.
+gnome-music:
+gnome-music:
+gnome-music:
+gnome-music:
+gnome-music:
+gnome-music: https://wiki.gnome.org/Apps/Music
+gnome-music:

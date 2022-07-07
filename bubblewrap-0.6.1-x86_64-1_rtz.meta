@@ -1,0 +1,17 @@
+PACKAGE NAME:  bubblewrap-0.6.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  130 K
+PACKAGE DESCRIPTION:
+bubblewrap: bubblewrap (unprivileged sandboxing tool)
+bubblewrap:
+bubblewrap: Many container runtimes focus on providing infrastructure for
+bubblewrap: system administrators and orchestration tools to run containers.
+bubblewrap:
+bubblewrap: Bubblewrap provides container runtime for unprivileged users, which
+bubblewrap: reduces the surface area for privilege escalation.
+bubblewrap:
+bubblewrap:
+bubblewrap:
+bubblewrap:
+

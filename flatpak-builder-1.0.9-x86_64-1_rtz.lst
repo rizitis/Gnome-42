@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./flatpak-builder-1.0.9-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-07 11:01 ./
+drwxr-xr-x root/root         0 2022-07-07 11:01 install/
+-rw-r--r-- root/root       858 2022-07-07 11:01 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-07 11:01 usr/
+drwxr-xr-x root/root         0 2022-07-07 11:01 usr/bin/
+-rwxr-xr-x root/root    359368 2022-07-07 11:01 usr/bin/flatpak-builder
+drwxr-xr-x root/root         0 2022-07-07 11:01 usr/doc/
+drwxr-xr-x root/root         0 2022-07-07 11:01 usr/doc/flatpak-builder-1.0.9/
+-rw-r--r-- root/root     93787 2017-08-29 17:47 usr/doc/flatpak-builder-1.0.9/ABOUT-NLS
+-rw-r--r-- root/root     26530 2017-08-24 16:19 usr/doc/flatpak-builder-1.0.9/COPYING
+-rw-r--r-- root/root      9725 2019-09-13 16:49 usr/doc/flatpak-builder-1.0.9/NEWS
+-rw-r--r-- root/root      1825 2022-07-07 11:01 usr/doc/flatpak-builder-1.0.9/README.SBo
+-rw-r--r-- root/root       722 2018-02-16 09:14 usr/doc/flatpak-builder-1.0.9/README.md
+-rw-r--r-- root/root       969 2022-07-07 11:01 usr/doc/flatpak-builder-1.0.9/docbook.css
+-rw-r--r-- root/root     72661 2022-07-07 11:01 usr/doc/flatpak-builder-1.0.9/flatpak-builder-docs.html
+-rw-r--r-- root/root      3483 2022-07-07 11:01 usr/doc/flatpak-builder-1.0.9/flatpak-builder.SlackBuild
+drwxr-xr-x root/root         0 2022-07-07 11:01 usr/man/
+drwxr-xr-x root/root         0 2022-07-07 11:01 usr/man/man1/
+-rw-r--r-- root/root      5552 2022-07-07 11:01 usr/man/man1/flatpak-builder.1.gz
+drwxr-xr-x root/root         0 2022-07-07 11:01 usr/man/man5/
+-rw-r--r-- root/root      8335 2022-07-07 11:01 usr/man/man5/flatpak-manifest.5.gz
+
+

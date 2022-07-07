@@ -1,0 +1,17 @@
+PACKAGE NAME:  gnome-desktop-42.2-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  316 K
+PACKAGE SIZE (uncompressed):  2640 K
+PACKAGE DESCRIPTION:
+gnome-desktop: gnome-desktop (libgnome-desktop library)
+gnome-desktop:
+gnome-desktop: gnome-desktop contains the libgnome-desktop library as well as a data
+gnome-desktop: file that exports the "GNOME" version to the Settings Details panel.
+gnome-desktop:
+gnome-desktop: The libgnome-desktop library provides API shared by several
+gnome-desktop: applications on the desktop.
+gnome-desktop:
+gnome-desktop:
+gnome-desktop: https://gitlab.gnome.org/GNOME/gnome-desktop/
+gnome-desktop:
+

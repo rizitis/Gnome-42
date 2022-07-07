@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./xdg-dbus-proxy-0.1.3-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-07 08:07 ./
+drwxr-xr-x root/root         0 2022-07-07 08:07 install/
+-rw-r--r-- root/root       950 2022-07-07 08:07 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-07 08:07 usr/
+drwxr-xr-x root/root         0 2022-07-07 08:07 usr/bin/
+-rwxr-xr-x root/root     52424 2022-07-07 08:07 usr/bin/xdg-dbus-proxy
+drwxr-xr-x root/root         0 2022-07-07 08:07 usr/doc/
+drwxr-xr-x root/root         0 2022-07-07 08:07 usr/doc/xdg-dbus-proxy-0.1.3/
+-rw-r--r-- root/root     26530 2019-01-15 20:02 usr/doc/xdg-dbus-proxy-0.1.3/COPYING
+-rw-r--r-- root/root       235 2022-02-11 13:53 usr/doc/xdg-dbus-proxy-0.1.3/NEWS
+-rw-r--r-- root/root      3655 2022-07-07 08:07 usr/doc/xdg-dbus-proxy-0.1.3/xdg-dbus-proxy.SlackBuild
+drwxr-xr-x root/root         0 2022-07-07 08:07 usr/man/
+drwxr-xr-x root/root         0 2022-07-07 08:07 usr/man/man1/
+-rw-r--r-- root/root      2828 2022-07-07 08:07 usr/man/man1/xdg-dbus-proxy.1.gz
+
+
