@@ -186,7 +186,11 @@ slackpkg update
 slackpkg upgrade-all
 ```
 after that you can reboot , probably your system is back...
-If not I m sorry but I wrote on the top "DO NOT INSTALL THEM".
+
+
+
+ps. we have a small working team of slackers for Gnome buildings. We work together for fun and we have separate repos for our projects. 
+If you want to help or ask, follow that link https://discord.gg/sMzwUS8GxB
 
 
 
