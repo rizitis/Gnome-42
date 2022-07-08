@@ -1,0 +1,10 @@
+gnome-games: GNOME Games
+gnome-games:
+gnome-games: The GNOME games applications package.
+gnome-games:
+gnome-games:
+gnome-games:
+gnome-games:
+gnome-games:
+gnome-games: https://wiki.gnome.org/Apps/Games
+gnome-games:

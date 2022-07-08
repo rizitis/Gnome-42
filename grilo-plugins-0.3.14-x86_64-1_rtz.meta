@@ -1,0 +1,13 @@
+PACKAGE NAME:  grilo-plugins-0.3.14-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  920 K
+PACKAGE SIZE (uncompressed):  2660 K
+PACKAGE DESCRIPTION:
+grilo-plugins: grilo-plugins ( Collection of Grilo plugins ) 
+grilo-plugins:
+grilo-plugins: It is a collection of plugins for Grilo implementing Grilo's API for
+grilo-plugins: various multimedia content providers.
+grilo-plugins:
+grilo-plugins: https://gitlab.gnome.org/GNOME/grilo-plugins
+grilo-plugins:
+

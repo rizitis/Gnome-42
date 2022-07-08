@@ -1,4 +1,4 @@
-PACKAGES.TXT;  Thu Jul  7 12:44:35 UTC 2022
+PACKAGES.TXT;  Fri Jul  8 19:51:46 UTC 2022
 
 PACKAGE NAME:  amtk-5.4.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -250,6 +250,33 @@ eog:
 eog: https://wiki.gnome.org/Apps/EyeOfGnome
 eog:
 
+PACKAGE NAME:  epiphany-42.2-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  5544 K
+PACKAGE SIZE (uncompressed):  14350 K
+PACKAGE DESCRIPTION:
+epiphany: Epiphany
+epiphany:
+epiphany: Epiphany is the WebKit based web browser for GNOME. It offers a
+epiphany: simple, clean, beautiful view of the Web.
+epiphany:
+
+PACKAGE NAME:  evince-42.3-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  2768 K
+PACKAGE SIZE (uncompressed):  23240 K
+PACKAGE DESCRIPTION:
+evince: Evince
+evince:
+evince: Evince is a document viewer for multiple document formats. The goal
+evince: of evince is to replace the multiple document viewers that exist on
+evince: the GNOME Desktop with a single simple application.
+evince:
+evince:
+evince:
+evince: https://wiki.gnome.org/Apps/Evince
+evince:
+
 PACKAGE NAME:  evolution-3.44.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  23516 K
@@ -325,6 +352,19 @@ file-roller:
 file-roller:
 file-roller: https://wiki.gnome.org/Apps/FileRoller
 file-roller:
+
+PACKAGE NAME:  five-or-more-3.32.3-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  1200 K
+PACKAGE SIZE (uncompressed):  2960 K
+PACKAGE DESCRIPTION:
+five-or-more: five-or-more ( Remove colored balls from the board by forming lines )
+five-or-more:
+five-or-more:
+five-or-more:
+five-or-more:
+five-or-more: "https://wiki.gnome.org/Apps/Five%20or%20more
+five-or-more:
 
 PACKAGE NAME:  flatpak-1.12.7-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -673,6 +713,23 @@ gnome-desktop:
 gnome-desktop: https://gitlab.gnome.org/GNOME/gnome-desktop/
 gnome-desktop:
 
+PACKAGE NAME:  gnome-dictionary-master-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  604 K
+PACKAGE SIZE (uncompressed):  3420 K
+PACKAGE DESCRIPTION:
+gnome-dictionary: GNOME Dictionary (application to look up words inonline dictionaries)
+gnome-dictionary:
+gnome-dictionary: GNOME Dictionary is a simple, clean, elegant application 
+gnome-dictionary: to look up words in online dictionaries using the DICT protocol.
+gnome-dictionary: 
+gnome-dictionary: 
+gnome-dictionary: 
+gnome-dictionary:
+gnome-dictionary: GNOME Dictionary
+gnome-dictionary: https://gitlab.gnome.org/GNOME/gnome-dictionary
+gnome-dictionary:
+
 PACKAGE NAME:  gnome-disk-utility-42.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  2164 K
@@ -689,6 +746,22 @@ gnome-disk-utility:
 gnome-disk-utility:
 gnome-disk-utility: https://gitlab.gnome.org/GNOME/gnome-disk-utility/
 gnome-disk-utility:
+
+PACKAGE NAME:  gnome-games-40.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  724 K
+PACKAGE SIZE (uncompressed):  4250 K
+PACKAGE DESCRIPTION:
+gnome-games: GNOME Games
+gnome-games:
+gnome-games: The GNOME games applications package.
+gnome-games:
+gnome-games:
+gnome-games:
+gnome-games:
+gnome-games:
+gnome-games: https://wiki.gnome.org/Apps/Games
+gnome-games:
 
 PACKAGE NAME:  gnome-initial-setup-42.2-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
@@ -738,6 +811,19 @@ gnome-menus: from freedesktop.org.
 gnome-menus:
 gnome-menus: Home page: https://github.com/GNOME/gnome-menus
 gnome-menus:
+
+PACKAGE NAME:  gnome-mines-40.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  212 K
+PACKAGE SIZE (uncompressed):  1690 K
+PACKAGE DESCRIPTION:
+gnome-mines: gnome-mines ( Clear hidden mines from a minefield )
+gnome-mines:
+gnome-mines:
+gnome-mines:
+gnome-mines:
+gnome-mines: https://wiki.gnome.org/Apps/Mines
+gnome-mines:
 
 PACKAGE NAME:  gnome-music-42.1-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
@@ -805,6 +891,23 @@ gnome-panel:
 gnome-panel:  Gnome Panel component comes with several default applets 
 gnome-panel: https://wiki.gnome.org/Projects/GnomePanel
 gnome-panel:
+
+PACKAGE NAME:  gnome-photos-42.0-x86_64-1_rtz.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  904 K
+PACKAGE SIZE (uncompressed):  4020 K
+PACKAGE DESCRIPTION:
+gnome-photos:
+gnome-photos: GNOME Photos
+gnome-photos:
+gnome-photos: GNOME Photos is an application to access, organize and share your
+gnome-photos: photos with GNOME.
+gnome-photos:
+gnome-photos:
+gnome-photos:
+gnome-photos:
+gnome-photos: https://wiki.gnome.org/Apps/Photos
+gnome-photos:
 
 PACKAGE NAME:  gnome-photos-42.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1026,6 +1129,19 @@ grilo: Grilo is a framework for browsing and searching media content from
 grilo: various sources using a single API.
 grilo:
 grilo: https://gitlab.gnome.org/GNOME/grilo
+
+PACKAGE NAME:  grilo-plugins-0.3.14-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  920 K
+PACKAGE SIZE (uncompressed):  2660 K
+PACKAGE DESCRIPTION:
+grilo-plugins: grilo-plugins ( Collection of Grilo plugins ) 
+grilo-plugins:
+grilo-plugins: It is a collection of plugins for Grilo implementing Grilo's API for
+grilo-plugins: various multimedia content providers.
+grilo-plugins:
+grilo-plugins: https://gitlab.gnome.org/GNOME/grilo-plugins
+grilo-plugins:
 
 PACKAGE NAME:  gsound-1.0.3-x86_64-2_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1282,6 +1398,19 @@ libgit2-glib:
 libgit2-glib:
 libgit2-glib:
 
+PACKAGE NAME:  libgnome-games-support-1.8.2-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  350 K
+PACKAGE DESCRIPTION:
+libgnome-games-support: libgnome-games-support ( Code shared between GNOME games )
+libgnome-games-support:
+libgnome-games-support:
+libgnome-games-support:
+libgnome-games-support:
+libgnome-games-support: https://gitlab.gnome.org/GNOME/libgnome-games-support
+libgnome-games-support:
+
 PACKAGE NAME:  libgrss-0.7.0-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  120 K
@@ -1447,6 +1576,19 @@ libportal:
 libportal:
 libportal:
 libportal:
+
+PACKAGE NAME:  libstemmer-20140325-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  64 K
+PACKAGE SIZE (uncompressed):  490 K
+PACKAGE DESCRIPTION:
+libstemmer: libstemmer
+libstemmer:
+libstemmer: All you need to include the snowball stemming algorithms into a
+libstemmer: C project.
+libstemmer:
+libstemmer:
+libstemmer:
 
 PACKAGE NAME:  libwnck4-40.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .

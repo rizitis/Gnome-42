@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./libstemmer-20140325-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-08 22:37 ./
+drwxr-xr-x root/root         0 2022-07-08 22:37 install/
+-rw-r--r-- root/root       208 2022-07-08 22:37 install/doinst.sh
+-rw-r--r-- root/root       661 2022-07-08 22:37 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-08 22:37 usr/
+drwxr-xr-x root/root         0 2022-07-08 22:37 usr/doc/
+drwxr-xr-x root/root         0 2022-07-08 22:37 usr/doc/libstemmer-20140325/
+-rw-r--r-- root/root      2017 2014-03-26 00:34 usr/doc/libstemmer-20140325/MANIFEST
+-rw-r--r-- root/root      5117 2007-03-26 15:57 usr/doc/libstemmer-20140325/README
+-rw-r--r-- root/root      3088 2022-07-08 22:37 usr/doc/libstemmer-20140325/libstemmer.SlackBuild
+drwxr-sr-x root/root         0 2014-03-26 00:34 usr/include/
+-rw-r--r-- root/root      2916 2005-08-24 12:40 usr/include/libstemmer.h
+drwxr-xr-x root/root         0 2022-07-08 22:37 usr/lib64/
+-rwxr-xr-x root/root    477600 2022-07-08 22:37 usr/lib64/libstemmer.so.0d.0.0
+
+

@@ -1,0 +1,7 @@
+five-or-more: five-or-more ( Remove colored balls from the board by forming lines )
+five-or-more:
+five-or-more:
+five-or-more:
+five-or-more:
+five-or-more: "https://wiki.gnome.org/Apps/Five%20or%20more
+five-or-more:

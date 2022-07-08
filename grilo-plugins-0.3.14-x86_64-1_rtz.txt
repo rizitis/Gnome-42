@@ -1,0 +1,7 @@
+grilo-plugins: grilo-plugins ( Collection of Grilo plugins ) 
+grilo-plugins:
+grilo-plugins: It is a collection of plugins for Grilo implementing Grilo's API for
+grilo-plugins: various multimedia content providers.
+grilo-plugins:
+grilo-plugins: https://gitlab.gnome.org/GNOME/grilo-plugins
+grilo-plugins:

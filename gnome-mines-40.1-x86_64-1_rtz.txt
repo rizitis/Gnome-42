@@ -1,0 +1,7 @@
+gnome-mines: gnome-mines ( Clear hidden mines from a minefield )
+gnome-mines:
+gnome-mines:
+gnome-mines:
+gnome-mines:
+gnome-mines: https://wiki.gnome.org/Apps/Mines
+gnome-mines:

@@ -1,0 +1,7 @@
+libgnome-games-support: libgnome-games-support ( Code shared between GNOME games )
+libgnome-games-support:
+libgnome-games-support:
+libgnome-games-support:
+libgnome-games-support:
+libgnome-games-support: https://gitlab.gnome.org/GNOME/libgnome-games-support
+libgnome-games-support:

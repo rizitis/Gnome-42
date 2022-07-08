@@ -1,0 +1,7 @@
+libstemmer: libstemmer
+libstemmer:
+libstemmer: All you need to include the snowball stemming algorithms into a
+libstemmer: C project.
+libstemmer:
+libstemmer:
+libstemmer:

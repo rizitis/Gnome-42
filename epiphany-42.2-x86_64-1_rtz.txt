@@ -1,0 +1,5 @@
+epiphany: Epiphany
+epiphany:
+epiphany: Epiphany is the WebKit based web browser for GNOME. It offers a
+epiphany: simple, clean, beautiful view of the Web.
+epiphany:
