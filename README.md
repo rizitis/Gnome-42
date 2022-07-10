@@ -192,6 +192,9 @@ after that you can reboot , probably your system is back...
 ps. we have a small working team of slackers for Gnome buildings. We work together for fun and we have separate repos for our projects. 
 If you want to help or ask, follow that link https://discord.gg/sMzwUS8GxB
 
+ps2. If you want some Slackware Dark-Light wallpapers follow that link https://github.com/rizitis/Dark-Light-Wallpapers-
+Enjoy!
+
 
 
 
