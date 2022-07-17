@@ -122,7 +122,7 @@ at the end of the file add this
 ```
 wget https://github.com/rizitis/Gnome-42/archive/refs/heads/main.zip
 unzip Gnome-42-main.zip
-cd gnome-slackware-current
+cd Gnome-42-main.zip
 upgradepkg --install-new --reinstall *.t?z 
 ```
 
