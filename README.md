@@ -120,7 +120,8 @@ at the end of the file add this
 
 # STEP 6
 ```
-git clone git@gitlab.gnome.org:rizitis/gnome-slackware-current.git
+wget https://github.com/rizitis/Gnome-42/archive/refs/heads/main.zip
+unzip Gnome-42-main.zip
 cd gnome-slackware-current
 upgradepkg --install-new --reinstall *.t?z 
 ```
