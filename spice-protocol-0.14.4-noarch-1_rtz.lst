@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./spice-protocol-0.14.4-noarch-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:12 ./
+drwxr-xr-x root/root         0 2022-07-18 13:12 install/
+-rw-r--r-- root/root       991 2022-07-18 13:12 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/doc/spice-protocol-0.14.4/
+-rw-r--r-- root/root      7800 2022-02-10 11:13 usr/doc/spice-protocol-0.14.4/CHANGELOG.md
+-rw-r--r-- root/root      1470 2022-02-10 11:13 usr/doc/spice-protocol-0.14.4/COPYING
+-rw-r--r-- root/root      1354 2022-02-10 11:13 usr/doc/spice-protocol-0.14.4/README.md
+-rw-r--r-- root/root      2896 2022-07-18 13:12 usr/doc/spice-protocol-0.14.4/spice-protocol.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/include/spice-1/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/include/spice-1/spice/
+-rw-r--r-- root/root      1975 2022-02-10 11:13 usr/include/spice-1/spice/barrier.h
+-rw-r--r-- root/root      1823 2022-02-10 11:13 usr/include/spice-1/spice/end-packed.h
+-rw-r--r-- root/root     17230 2022-02-10 11:13 usr/include/spice-1/spice/enums.h
+-rw-r--r-- root/root      5415 2022-02-10 11:13 usr/include/spice-1/spice/ipc_ring.h
+-rw-r--r-- root/root     11509 2022-02-10 11:13 usr/include/spice-1/spice/macros.h
+-rw-r--r-- root/root      5063 2022-02-10 11:13 usr/include/spice-1/spice/protocol.h
+-rw-r--r-- root/root     19869 2022-02-10 11:13 usr/include/spice-1/spice/qxl_dev.h
+-rw-r--r-- root/root       398 2022-02-10 11:13 usr/include/spice-1/spice/qxl_windows.h
+-rw-r--r-- root/root      2356 2022-02-10 11:13 usr/include/spice-1/spice/start-packed.h
+-rw-r--r-- root/root      2669 2022-02-10 11:13 usr/include/spice-1/spice/stats.h
+-rw-r--r-- root/root      9150 2022-02-10 11:13 usr/include/spice-1/spice/stream-device.h
+-rw-r--r-- root/root      1899 2022-02-10 11:13 usr/include/spice-1/spice/types.h
+-rw-r--r-- root/root     13428 2022-02-10 11:13 usr/include/spice-1/spice/vd_agent.h
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/share/pkgconfig/
+-rw-r--r-- root/root       172 2022-07-18 13:12 usr/share/pkgconfig/spice-protocol.pc
+
+

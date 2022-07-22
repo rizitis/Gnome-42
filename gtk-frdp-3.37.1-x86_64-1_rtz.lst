@@ -1,0 +1,34 @@
+++========================================
+||
+||   Package:  ./gtk-frdp-3.37.1-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 15:33 ./
+drwxr-xr-x root/root         0 2022-07-18 15:33 install/
+-rw-r--r-- root/root       667 2022-07-18 15:33 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/doc/gtk-frdp-3.37.1/
+-rw-r--r-- root/root      7652 2022-07-17 15:31 usr/doc/gtk-frdp-3.37.1/COPYING
+-rw-r--r-- root/root      3331 2022-07-18 15:33 usr/doc/gtk-frdp-3.37.1/gtk-frdp.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/include/gtk-frdp/
+-rw-r--r-- root/root      1997 2022-07-17 15:31 usr/include/gtk-frdp/frdp-display.h
+-rw-r--r-- root/root      3447 2022-07-17 15:31 usr/include/gtk-frdp/frdp-session.h
+-rw-r--r-- root/root      2761 2022-07-18 15:33 usr/include/gtk-frdp/gtk-frdp-version.h
+-rw-r--r-- root/root       989 2022-07-17 15:31 usr/include/gtk-frdp/gtk-frdp.h
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      4520 2022-07-18 15:33 usr/lib64/girepository-1.0/GtkFrdp-0.1.typelib
+-rwxr-xr-x root/root     35472 2022-07-18 15:33 usr/lib64/libgtk-frdp-0.1.so
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       224 2022-07-18 15:33 usr/lib64/pkgconfig/gtk-frdp-0.1.pc
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/share/gir-1.0/
+-rw-r--r-- root/root     23574 2022-07-18 15:33 usr/share/gir-1.0/GtkFrdp-0.1.gir
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/share/vala/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/share/vala/vapi/
+-rw-r--r-- root/root        17 2022-07-18 15:33 usr/share/vala/vapi/gtk-frdp-0.1.deps
+-rw-r--r-- root/root      2796 2022-07-18 15:33 usr/share/vala/vapi/gtk-frdp-0.1.vapi
+
+

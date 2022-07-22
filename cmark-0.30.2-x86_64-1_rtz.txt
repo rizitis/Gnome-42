@@ -1,0 +1,11 @@
+cmark: cmark (C Reference libraries)
+cmark:
+cmark: cmark is the C reference implementation of CommonMark, a rationalized
+cmark: version of Markdown syntax with a spec. (For the JavaScript reference
+cmark: implementation, see commonmark.js.)
+cmark:
+cmark: Homepage: https://github.com/commonmark/cmark
+cmark:
+cmark:
+cmark:
+cmark:

@@ -1,0 +1,78 @@
+++========================================
+||
+||   Package:  ./geoclue2-2.6.0-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 08:48 ./
+drwxr-xr-x root/root         0 2022-07-18 08:48 etc/
+drwxr-xr-x root/root         0 2022-07-18 08:48 etc/dbus-1/
+drwxr-xr-x root/root         0 2022-07-18 08:48 etc/dbus-1/system.d/
+-rw-r--r-- root/root       708 2022-07-18 08:48 etc/dbus-1/system.d/org.freedesktop.GeoClue2.Agent.conf
+-rw-r--r-- root/root      1402 2022-07-18 08:48 etc/dbus-1/system.d/org.freedesktop.GeoClue2.conf
+drwxr-xr-x root/root         0 2022-07-18 08:48 etc/geoclue/
+-rw-r--r-- root/root      3813 2022-07-18 08:48 etc/geoclue/geoclue.conf.new
+drwxr-xr-x root/root         0 2022-07-18 08:48 etc/xdg/
+drwxr-xr-x root/root         0 2022-07-18 08:48 etc/xdg/autostart/
+-rw-r--r-- root/root       227 2022-07-18 08:48 etc/xdg/autostart/geoclue-demo-agent.desktop
+drwxr-xr-x root/root         0 2022-07-18 08:48 install/
+-rw-r--r-- root/root       726 2022-07-18 08:48 install/doinst.sh
+-rw-r--r-- root/root       776 2022-07-18 08:48 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/doc/geoclue2-2.6.0/
+-rw-r--r-- root/root     43737 2022-02-10 20:03 usr/doc/geoclue2-2.6.0/COPYING
+-rw-r--r-- root/root     26513 2022-02-10 20:03 usr/doc/geoclue2-2.6.0/COPYING.LIB
+-rw-r--r-- root/root      2122 2022-02-10 20:03 usr/doc/geoclue2-2.6.0/HACKING.md
+-rw-r--r-- root/root     23306 2022-02-10 20:03 usr/doc/geoclue2-2.6.0/NEWS
+-rw-r--r-- root/root      2953 2022-02-10 20:03 usr/doc/geoclue2-2.6.0/README.md
+-rw-r--r-- root/root      3847 2022-07-18 08:48 usr/doc/geoclue2-2.6.0/geoclue2.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/include/libgeoclue-2.0/
+-rw-r--r-- root/root      7860 2022-07-18 08:48 usr/include/libgeoclue-2.0/gclue-client.h
+-rw-r--r-- root/root       701 2022-07-18 08:48 usr/include/libgeoclue-2.0/gclue-enum-types.h
+-rw-r--r-- root/root      2313 2022-02-10 20:03 usr/include/libgeoclue-2.0/gclue-enums.h
+-rw-r--r-- root/root      3241 2022-02-10 20:03 usr/include/libgeoclue-2.0/gclue-helpers.h
+-rw-r--r-- root/root      6914 2022-07-18 08:48 usr/include/libgeoclue-2.0/gclue-location.h
+-rw-r--r-- root/root      8402 2022-07-18 08:48 usr/include/libgeoclue-2.0/gclue-manager.h
+-rw-r--r-- root/root      4395 2022-02-10 20:03 usr/include/libgeoclue-2.0/gclue-simple.h
+-rw-r--r-- root/root      1137 2022-02-10 20:03 usr/include/libgeoclue-2.0/geoclue.h
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root     16232 2022-07-18 08:48 usr/lib64/girepository-1.0/Geoclue-2.0.typelib
+-rwxr-xr-x root/root    126688 2022-07-18 08:48 usr/lib64/libgeoclue-2.so.0.0.0
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       309 2022-07-18 08:48 usr/lib64/pkgconfig/geoclue-2.0.pc
+-rw-r--r-- root/root       339 2022-07-18 08:48 usr/lib64/pkgconfig/libgeoclue-2.0.pc
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/libexec/
+-rwxr-xr-x root/root    325288 2022-07-18 08:48 usr/libexec/geoclue
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/libexec/geoclue-2.0/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/libexec/geoclue-2.0/demos/
+-rwxr-xr-x root/root     44552 2022-07-18 08:48 usr/libexec/geoclue-2.0/demos/agent
+-rwxr-xr-x root/root    118632 2022-07-18 08:48 usr/libexec/geoclue-2.0/demos/where-am-i
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/man/man5/
+-rw-r--r-- root/root      3474 2022-07-18 08:48 usr/man/man5/geoclue.5
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/applications/
+-rw-r--r-- root/root       227 2022-07-18 08:48 usr/share/applications/geoclue-demo-agent.desktop
+-rw-r--r-- root/root       323 2022-07-18 08:48 usr/share/applications/geoclue-where-am-i.desktop
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/dbus-1/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/dbus-1/interfaces/
+-rw-r--r-- root/root      1961 2022-02-10 20:03 usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.Agent.xml
+-rw-r--r-- root/root      4455 2022-02-10 20:03 usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.Client.xml
+-rw-r--r-- root/root      2646 2022-02-10 20:03 usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.Location.xml
+-rw-r--r-- root/root      3058 2022-02-10 20:03 usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.Manager.xml
+-rw-r--r-- root/root      2053 2022-07-18 08:48 usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.xml
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/dbus-1/system-services/
+-rw-r--r-- root/root       113 2022-07-18 08:48 usr/share/dbus-1/system-services/org.freedesktop.GeoClue2.service
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/gir-1.0/
+-rw-r--r-- root/root    293546 2022-07-18 08:48 usr/share/gir-1.0/Geoclue-2.0.gir
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/polkit-1/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/polkit-1/rules.d/
+-rw-r--r-- root/root       284 2022-07-18 08:48 usr/share/polkit-1/rules.d/org.freedesktop.GeoClue2.rules
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/vala/
+drwxr-xr-x root/root         0 2022-07-18 08:48 usr/share/vala/vapi/
+-rw-r--r-- root/root        30 2022-07-18 08:48 usr/share/vala/vapi/libgeoclue-2.0.deps
+-rw-r--r-- root/root     12899 2022-07-18 08:48 usr/share/vala/vapi/libgeoclue-2.0.vapi
+
+

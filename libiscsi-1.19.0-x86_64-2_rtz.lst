@@ -1,0 +1,41 @@
+++========================================
+||
+||   Package:  ./libiscsi-1.19.0-x86_64-2_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 14:04 ./
+drwxr-xr-x root/root         0 2022-07-18 14:04 install/
+-rw-r--r-- root/root       192 2022-07-18 14:04 install/doinst.sh
+-rw-r--r-- root/root       757 2022-07-18 14:04 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/bin/
+-rwxr-xr-x root/root     19008 2022-07-18 14:04 usr/bin/iscsi-inq
+-rwxr-xr-x root/root     22944 2022-07-18 14:04 usr/bin/iscsi-ls
+-rwxr-xr-x root/root     23264 2022-07-18 14:04 usr/bin/iscsi-perf
+-rwxr-xr-x root/root     14880 2022-07-18 14:04 usr/bin/iscsi-readcapacity16
+-rwxr-xr-x root/root     14848 2022-07-18 14:04 usr/bin/iscsi-swp
+-rwxr-xr-x root/root    194352 2022-07-18 14:04 usr/bin/ld_iscsi.so
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/doc/libiscsi-1.19.0/
+-rw-r--r-- root/root      1694 2019-07-14 01:04 usr/doc/libiscsi-1.19.0/COPYING
+-rw-r--r-- root/root     18092 2019-07-14 01:04 usr/doc/libiscsi-1.19.0/LICENCE-GPL-2.txt
+-rw-r--r-- root/root     26530 2019-07-14 01:04 usr/doc/libiscsi-1.19.0/LICENCE-LGPL-2.1.txt
+-rw-r--r-- root/root     10155 2019-07-14 01:04 usr/doc/libiscsi-1.19.0/README
+-rw-r--r-- root/root       584 2019-07-14 01:04 usr/doc/libiscsi-1.19.0/TODO
+-rw-r--r-- root/root      3371 2022-07-18 14:04 usr/doc/libiscsi-1.19.0/libiscsi.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/include/iscsi/
+-rw-r--r-- root/root     60940 2022-07-18 14:04 usr/include/iscsi/iscsi.h
+-rw-r--r-- root/root     37978 2022-07-18 14:04 usr/include/iscsi/scsi-lowlevel.h
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/lib64/
+-rwxr-xr-x root/root    169136 2022-07-18 14:04 usr/lib64/libiscsi.so.9.0.0
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       215 2022-07-18 14:04 usr/lib64/pkgconfig/libiscsi.pc
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 14:04 usr/man/man1/
+-rw-r--r-- root/root      1648 2022-07-18 14:04 usr/man/man1/iscsi-inq.1.gz
+-rw-r--r-- root/root      1440 2022-07-18 14:04 usr/man/man1/iscsi-ls.1.gz
+-rw-r--r-- root/root      1472 2022-07-18 14:04 usr/man/man1/iscsi-swp.1.gz
+-rw-r--r-- root/root      2865 2022-07-18 14:04 usr/man/man1/iscsi-test-cu.1.gz
+
+

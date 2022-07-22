@@ -1,0 +1,17 @@
+PACKAGE NAME:  power-profiles-daemon-0.12-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  150 K
+PACKAGE DESCRIPTION:
+power-profiles-daemon: power-profiles-daemon
+power-profiles-daemon:
+power-profiles-daemon: power-profiles-daemon offers to modify system behaviour based upon 
+power-profiles-daemon: user-selected power profiles. There are 3 different 
+power-profiles-daemon: power profiles, a "balanced" default mode. The first 2 of those
+power-profiles-daemon: are available on every system.The "performance"mode is only available
+power-profiles-daemon: on select systems and is implemented by
+power-profiles-daemon:
+power-profiles-daemon: different "drivers" based on the system or systems it targets.
+power-profiles-daemon: https://gitlab.freedesktop.org/hadess/power-profiles-daemon
+power-profiles-daemon:
+

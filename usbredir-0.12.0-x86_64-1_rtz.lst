@@ -1,0 +1,38 @@
+++========================================
+||
+||   Package:  ./usbredir-0.12.0-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 14:00 ./
+drwxr-xr-x root/root         0 2022-07-18 14:00 install/
+-rw-r--r-- root/root       472 2022-07-18 14:00 install/doinst.sh
+-rw-r--r-- root/root       904 2022-07-18 14:00 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/bin/
+-rwxr-xr-x root/root     23176 2022-07-18 14:00 usr/bin/usbredirect
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/doc/usbredir-0.12.0/
+-rw-r--r-- root/root     18092 2021-11-12 12:45 usr/doc/usbredir-0.12.0/COPYING
+-rw-r--r-- root/root     26521 2021-11-12 12:45 usr/doc/usbredir-0.12.0/COPYING.LIB
+-rw-r--r-- root/root      1412 2021-11-12 12:45 usr/doc/usbredir-0.12.0/README.md
+-rw-r--r-- root/root       454 2021-11-12 12:45 usr/doc/usbredir-0.12.0/TODO
+-rw-r--r-- root/root      3509 2022-07-18 14:00 usr/doc/usbredir-0.12.0/usbredir.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/include/
+-rw-r--r-- root/root      5617 2021-11-12 12:45 usr/include/usbredirfilter.h
+-rw-r--r-- root/root      7938 2021-11-12 12:45 usr/include/usbredirhost.h
+-rw-r--r-- root/root     19428 2021-11-12 12:45 usr/include/usbredirparser.h
+-rw-r--r-- root/root      7733 2021-11-12 12:45 usr/include/usbredirproto.h
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/lib64/
+-rwxr-xr-x root/root     43512 2022-07-18 14:00 usr/lib64/libusbredirhost.so.1.0.3
+-rwxr-xr-x root/root     39088 2022-07-18 14:00 usr/lib64/libusbredirparser.so.1.2.0
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       271 2022-07-18 14:00 usr/lib64/pkgconfig/libusbredirhost.pc
+-rw-r--r-- root/root       227 2022-07-18 14:00 usr/lib64/pkgconfig/libusbredirparser-0.5.pc
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/man/man1/
+-rw-r--r-- root/root       750 2021-11-12 12:45 usr/man/man1/usbredirect.1.gz
+-rw-r--r-- root/root       957 2021-11-12 12:45 usr/man/man1/usbredirserver.1.gz
+drwxr-xr-x root/root         0 2022-07-18 14:00 usr/sbin/
+-rwxr-xr-x root/root     23000 2022-07-18 14:00 usr/sbin/usbredirserver
+
+

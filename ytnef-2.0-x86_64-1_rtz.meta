@@ -1,0 +1,17 @@
+PACKAGE NAME:  ytnef-2.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  52 K
+PACKAGE SIZE (uncompressed):  250 K
+PACKAGE DESCRIPTION:
+ytnef: ytnef (Yerase's TNEF Stream Reader)
+ytnef:
+ytnef: Yerase's TNEF Stream Reader allows you to decode application/ms-tnef 
+ytnef: e-mail attachments, which are usually entitled "winmail.dat" and are
+ytnef: generally a file container format that is only readable by Microsoft
+ytnef: Outlook. Some TNEF streams also include RTF-formatted data.
+ytnef:
+ytnef: https://github.com/Yeraze/ytnef
+ytnef:
+ytnef:
+ytnef:
+

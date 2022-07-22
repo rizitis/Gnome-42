@@ -1,0 +1,11 @@
+PACKAGE NAME:  python3-dbusmock-0.28.3-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  440 K
+PACKAGE DESCRIPTION:
+python3-dbusmock: python3-dbusmock
+python3-dbusmock:
+python3-dbusmock: dbusmock is a Python library useful for writing tests for software
+python3-dbusmock: which talks to D-Bus services.
+python3-dbusmock:
+

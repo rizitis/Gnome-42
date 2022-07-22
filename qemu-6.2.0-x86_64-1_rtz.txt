@@ -1,0 +1,11 @@
+qemu: qemu (open source processor emulator)
+qemu:
+qemu: QEMU is a generic and open source processor emulator which achieves
+qemu: a good emulation speed by using dynamic translation.
+qemu:
+qemu:
+qemu:
+qemu:
+qemu:
+qemu:
+qemu:

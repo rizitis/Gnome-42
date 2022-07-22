@@ -1,0 +1,17 @@
+PACKAGE NAME:  usbredir-0.12.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  56 K
+PACKAGE SIZE (uncompressed):  240 K
+PACKAGE DESCRIPTION:
+usbredir: usbredir (usb redirection protocol)
+usbredir:
+usbredir: usbredir is a protocol for redirection USB traffic from a single USB
+usbredir: device, to a different (virtual) machine then the one to which the
+usbredir: USB device is attached.
+usbredir: This package contains usbredirparser, usbredirhost and usbredirserver.
+usbredir:
+usbredir: homepage: https://www.spice-space.org
+usbredir:
+usbredir:
+usbredir:
+

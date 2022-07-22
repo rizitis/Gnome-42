@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./liboauth-1.0.3-x86_64-5_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 15:40 ./
+drwxr-xr-x root/root         0 2022-07-18 15:40 install/
+-rw-r--r-- root/root       192 2022-07-18 15:40 install/doinst.sh
+-rw-r--r-- root/root      1152 2022-07-18 15:40 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/doc/liboauth-1.0.3/
+-rw-r--r-- root/root      1452 2010-09-13 15:12 usr/doc/liboauth-1.0.3/AUTHORS
+-rw-r--r-- root/root      7194 2014-04-17 22:20 usr/doc/liboauth-1.0.3/ChangeLog
+-rw-r--r-- root/root      6968 2010-05-20 18:27 usr/doc/liboauth-1.0.3/LICENSE.OpenSSL
+-rw-r--r-- root/root      2390 2010-05-22 18:31 usr/doc/liboauth-1.0.3/README
+-rw-r--r-- root/root      3499 2022-07-18 15:40 usr/doc/liboauth-1.0.3/liboauth.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/include/
+-rw-r--r-- root/root     28386 2022-07-18 15:40 usr/include/oauth.h
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/
+-rwxr-xr-x root/root     39600 2022-07-18 15:40 usr/lib64/liboauth.so.0.8.7
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       298 2022-07-18 15:40 usr/lib64/pkgconfig/oauth.pc
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/man/man3/
+-rw-r--r-- root/root      7014 2022-07-18 15:40 usr/man/man3/oauth.3.gz
+
+

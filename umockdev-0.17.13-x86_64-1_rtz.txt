@@ -1,0 +1,7 @@
+umockdev: umockdev ( hardware devices for bug reports and regression tests )
+umockdev:
+umockdev: Record/mock hardware devices for bug reports and regression tests
+umockdev:
+umockdev:
+umockdev: https://github.com/martinpitt/umockdev
+umockdev:

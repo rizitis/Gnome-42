@@ -1,0 +1,35 @@
+++========================================
+||
+||   Package:  ./spice-0.15.0-x86_64-2_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:14 ./
+drwxr-xr-x root/root         0 2022-07-18 13:14 install/
+-rw-r--r-- root/root       236 2022-07-18 13:14 install/doinst.sh
+-rw-r--r-- root/root      1030 2022-07-18 13:14 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:14 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:14 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:14 usr/doc/spice-0.15.0/
+-rw-r--r-- root/root      3146 2021-04-17 09:49 usr/doc/spice-0.15.0/AUTHORS
+-rw-r--r-- root/root     20932 2021-04-17 09:49 usr/doc/spice-0.15.0/CHANGELOG.md
+-rw-r--r-- root/root     26530 2021-04-17 09:49 usr/doc/spice-0.15.0/COPYING
+-rw-r--r-- root/root      2371 2021-04-17 09:49 usr/doc/spice-0.15.0/README
+-rw-r--r-- root/root      3486 2022-07-18 13:14 usr/doc/spice-0.15.0/spice.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:14 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 13:14 usr/include/spice-server/
+-rw-r--r-- root/root      3669 2022-07-18 13:14 usr/include/spice-server/spice-audio.h
+-rw-r--r-- root/root      3336 2022-07-18 13:14 usr/include/spice-server/spice-char.h
+-rw-r--r-- root/root      3391 2022-07-18 13:14 usr/include/spice-server/spice-core.h
+-rw-r--r-- root/root      2980 2022-07-18 13:14 usr/include/spice-server/spice-input.h
+-rw-r--r-- root/root      2331 2022-07-18 13:14 usr/include/spice-server/spice-migration.h
+-rw-r--r-- root/root      9977 2022-07-18 13:14 usr/include/spice-server/spice-qxl.h
+-rw-r--r-- root/root      1467 2022-07-18 13:14 usr/include/spice-server/spice-replay.h
+-rw-r--r-- root/root      6808 2022-07-18 13:14 usr/include/spice-server/spice-server.h
+-rw-r--r-- root/root       971 2022-07-18 13:14 usr/include/spice-server/spice-version.h
+-rw-r--r-- root/root      1065 2022-07-18 13:14 usr/include/spice-server/spice.h
+drwxr-xr-x root/root         0 2022-07-18 13:14 usr/lib64/
+-rwxr-xr-x root/root   1243224 2022-07-18 13:14 usr/lib64/libspice-server.so.1.14.1
+drwxr-xr-x root/root         0 2022-07-18 13:14 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       372 2022-07-18 13:14 usr/lib64/pkgconfig/spice-server.pc
+
+

@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./gnome-common-3.18.0-noarch-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:12 ./
+drwxr-xr-x root/root         0 2022-07-18 13:12 install/
+-rw-r--r-- root/root       752 2022-07-18 13:12 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/bin/
+-rwxr-xr-x root/root     12093 2022-07-18 13:12 usr/bin/gnome-autogen.sh
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/doc/gnome-common-3.18.0/
+-rw-r--r-- root/root     18092 2013-06-13 20:44 usr/doc/gnome-common-3.18.0/COPYING
+-rw-r--r-- root/root    496855 2015-09-21 23:39 usr/doc/gnome-common-3.18.0/ChangeLog
+-rw-r--r-- root/root     27662 2013-06-13 20:44 usr/doc/gnome-common-3.18.0/ChangeLog.pre-git
+-rw-r--r-- root/root      1100 2015-01-05 13:52 usr/doc/gnome-common-3.18.0/README
+-rw-r--r-- root/root      2484 2022-07-18 13:12 usr/doc/gnome-common-3.18.0/gnome-common.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/share/aclocal/
+-rw-r--r-- root/root      4502 2022-07-18 13:12 usr/share/aclocal/ax_check_enable_debug.m4
+-rw-r--r-- root/root      7126 2022-07-18 13:12 usr/share/aclocal/ax_code_coverage.m4
+-rw-r--r-- root/root      1792 2022-07-18 13:12 usr/share/aclocal/gnome-code-coverage.m4
+-rw-r--r-- root/root      1008 2022-07-18 13:12 usr/share/aclocal/gnome-common.m4
+-rw-r--r-- root/root      5979 2022-07-18 13:12 usr/share/aclocal/gnome-compiler-flags.m4
+
+

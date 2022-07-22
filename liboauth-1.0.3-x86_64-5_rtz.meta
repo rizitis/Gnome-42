@@ -1,0 +1,17 @@
+PACKAGE NAME:  liboauth-1.0.3-x86_64-5_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+liboauth: liboauth (C library implementing OAuth Core RFC 5849)
+liboauth:
+liboauth: liboauth is a collection of POSIX-c functions implementing the OAuth
+liboauth: Core RFC 5849 standard.
+liboauth: liboauth provides functions to escape and encode parameters according
+liboauth: to OAuth specification and offers high-level functionality to sign
+liboauth: requests or verify OAuth signatures as well as perform HTTP requests.
+liboauth:
+liboauth: liboauth depends on either on the OpenSSL library or on NSS
+liboauth: (Mozilla's Network Security Services), which are used for generating
+liboauth: the hash/signature, and optionally libcurl for issuing HTTP requests.
+

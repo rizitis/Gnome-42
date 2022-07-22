@@ -1,0 +1,17 @@
+PACKAGE NAME:  osinfo-db-20220516-noarch-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  120 K
+PACKAGE SIZE (uncompressed):  3690 K
+PACKAGE DESCRIPTION:
+osinfo-db: osinfo-db (operating systems database)
+osinfo-db:
+osinfo-db: The osinfo database provides information about operating systems and
+osinfo-db: hypervisor platforms to facilitate the automated configuration and
+osinfo-db: provisioning of new virtual machines.
+osinfo-db:
+osinfo-db: homepage: http://libosinfo.org
+osinfo-db:
+osinfo-db:
+osinfo-db:
+osinfo-db:
+

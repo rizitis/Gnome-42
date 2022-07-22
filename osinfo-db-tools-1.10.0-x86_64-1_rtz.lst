@@ -1,0 +1,79 @@
+++========================================
+||
+||   Package:  ./osinfo-db-tools-1.10.0-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 12:17 ./
+drwxr-xr-x root/root         0 2022-07-18 12:17 install/
+-rw-r--r-- root/root       893 2022-07-18 12:17 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/bin/
+-rwxr-xr-x root/root     27376 2022-07-18 12:17 usr/bin/osinfo-db-export
+-rwxr-xr-x root/root     35584 2022-07-18 12:17 usr/bin/osinfo-db-import
+-rwxr-xr-x root/root     14712 2022-07-18 12:17 usr/bin/osinfo-db-path
+-rwxr-xr-x root/root     23096 2022-07-18 12:17 usr/bin/osinfo-db-validate
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/doc/osinfo-db-tools-1.10.0/
+-rw-r--r-- root/root       993 2022-02-14 21:08 usr/doc/osinfo-db-tools-1.10.0/CONTRIBUTING.md
+-rw-r--r-- root/root     17987 2022-02-14 21:08 usr/doc/osinfo-db-tools-1.10.0/COPYING
+-rw-r--r-- root/root      1477 2022-02-14 21:08 usr/doc/osinfo-db-tools-1.10.0/NEWS
+-rw-r--r-- root/root      1491 2022-02-14 21:08 usr/doc/osinfo-db-tools-1.10.0/README
+-rw-r--r-- root/root      3506 2022-07-18 12:17 usr/doc/osinfo-db-tools-1.10.0/osinfo-db-tools.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/man/man1/
+-rw-r--r-- root/root      3045 2022-07-18 12:17 usr/man/man1/osinfo-db-export.1.gz
+-rw-r--r-- root/root      3027 2022-07-18 12:17 usr/man/man1/osinfo-db-import.1.gz
+-rw-r--r-- root/root      2731 2022-07-18 12:17 usr/man/man1/osinfo-db-path.1.gz
+-rw-r--r-- root/root      3029 2022-07-18 12:17 usr/man/man1/osinfo-db-validate.1.gz
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/ca/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/ca/LC_MESSAGES/
+-rw-r--r-- root/root      1707 2022-07-18 12:17 usr/share/locale/ca/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/cs/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/cs/LC_MESSAGES/
+-rw-r--r-- root/root      4105 2022-07-18 12:17 usr/share/locale/cs/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/de/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/de/LC_MESSAGES/
+-rw-r--r-- root/root      2451 2022-07-18 12:17 usr/share/locale/de/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/es/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/es/LC_MESSAGES/
+-rw-r--r-- root/root      1477 2022-07-18 12:17 usr/share/locale/es/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/fi/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/fi/LC_MESSAGES/
+-rw-r--r-- root/root      4553 2022-07-18 12:17 usr/share/locale/fi/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/fr/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/fr/LC_MESSAGES/
+-rw-r--r-- root/root      4868 2022-07-18 12:17 usr/share/locale/fr/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/id/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/id/LC_MESSAGES/
+-rw-r--r-- root/root      4473 2022-07-18 12:17 usr/share/locale/id/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/ja/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/ja/LC_MESSAGES/
+-rw-r--r-- root/root      1574 2022-07-18 12:17 usr/share/locale/ja/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/ko/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/ko/LC_MESSAGES/
+-rw-r--r-- root/root      5076 2022-07-18 12:17 usr/share/locale/ko/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/pl/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/pl/LC_MESSAGES/
+-rw-r--r-- root/root      4860 2022-07-18 12:17 usr/share/locale/pl/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/pt_BR/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/pt_BR/LC_MESSAGES/
+-rw-r--r-- root/root      4730 2022-07-18 12:17 usr/share/locale/pt_BR/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/pt_PT/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/pt_PT/LC_MESSAGES/
+-rw-r--r-- root/root      1681 2022-07-18 12:17 usr/share/locale/pt_PT/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/ru/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/ru/LC_MESSAGES/
+-rw-r--r-- root/root       321 2022-07-18 12:17 usr/share/locale/ru/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/si/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/si/LC_MESSAGES/
+-rw-r--r-- root/root       546 2022-07-18 12:17 usr/share/locale/si/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/tr/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/tr/LC_MESSAGES/
+-rw-r--r-- root/root      4590 2022-07-18 12:17 usr/share/locale/tr/LC_MESSAGES/osinfo-db-tools.mo
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/uk/
+drwxr-xr-x root/root         0 2022-07-18 12:17 usr/share/locale/uk/LC_MESSAGES/
+-rw-r--r-- root/root      6121 2022-07-18 12:17 usr/share/locale/uk/LC_MESSAGES/osinfo-db-tools.mo
+
+

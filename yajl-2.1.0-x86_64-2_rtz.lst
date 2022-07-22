@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./yajl-2.1.0-x86_64-2_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:49 ./
+drwxr-xr-x root/root         0 2022-07-18 13:49 install/
+-rw-r--r-- root/root       182 2022-07-18 13:49 install/doinst.sh
+-rw-r--r-- root/root       764 2022-07-18 13:49 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/bin/
+-rwxr-xr-x root/root     43344 2022-07-18 13:49 usr/bin/json_reformat
+-rwxr-xr-x root/root     30920 2022-07-18 13:49 usr/bin/json_verify
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/doc/yajl-2.1.0/
+-rw-r--r-- root/root       480 2014-03-19 06:58 usr/doc/yajl-2.1.0/BUILDING
+-rw-r--r-- root/root       751 2014-03-19 06:58 usr/doc/yajl-2.1.0/COPYING
+-rw-r--r-- root/root      7662 2014-03-19 06:58 usr/doc/yajl-2.1.0/ChangeLog
+-rw-r--r-- root/root      2801 2014-03-19 06:58 usr/doc/yajl-2.1.0/README
+-rw-r--r-- root/root       332 2014-03-19 06:58 usr/doc/yajl-2.1.0/TODO
+-rw-r--r-- root/root      3402 2022-07-18 13:49 usr/doc/yajl-2.1.0/yajl.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/include/yajl/
+-rw-r--r-- root/root      2572 2014-03-19 06:58 usr/include/yajl/yajl_common.h
+-rw-r--r-- root/root      7060 2014-03-19 06:58 usr/include/yajl/yajl_gen.h
+-rw-r--r-- root/root      9821 2014-03-19 06:58 usr/include/yajl/yajl_parse.h
+-rw-r--r-- root/root      7171 2014-03-19 06:58 usr/include/yajl/yajl_tree.h
+-rw-r--r-- root/root       363 2022-07-18 13:49 usr/include/yajl/yajl_version.h
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/
+-rwxr-xr-x root/root     43168 2022-07-18 13:49 usr/lib64/libyajl.so.2.1.0
+-rw-r--r-- root/root     67952 2022-07-18 13:49 usr/lib64/libyajl_s.a
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/pkgconfig/
+-rw-r--r-- root/root       238 2022-07-18 13:49 usr/share/pkgconfig/yajl.pc
+
+

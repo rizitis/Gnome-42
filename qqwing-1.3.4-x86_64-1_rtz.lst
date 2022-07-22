@@ -1,0 +1,29 @@
+++========================================
+||
+||   Package:  ./qqwing-1.3.4-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 15:38 ./
+drwxr-xr-x root/root         0 2022-07-18 15:38 install/
+-rw-r--r-- root/root       810 2022-07-18 15:38 install/doinst.sh
+-rw-r--r-- root/root       605 2022-07-18 15:38 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/bin/
+-rwxr-xr-x root/root     35376 2022-07-18 15:38 usr/bin/qqwing
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/doc/qqwing-1.3.4/
+-rw-r--r-- root/root        71 2015-04-18 03:55 usr/doc/qqwing-1.3.4/AUTHORS
+-rw-r--r-- root/root     18092 2015-04-18 03:55 usr/doc/qqwing-1.3.4/COPYING
+-rw-r--r-- root/root      1859 2015-04-18 03:55 usr/doc/qqwing-1.3.4/README
+-rw-r--r-- root/root      3284 2022-07-18 15:38 usr/doc/qqwing-1.3.4/qqwing.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/include/
+-rw-r--r-- root/root      7009 2022-07-18 15:38 usr/include/qqwing.hpp
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/lib64/
+-rwxr-xr-x root/root     43624 2022-07-18 15:38 usr/lib64/libqqwing.so.2.1.0
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       213 2022-07-18 15:38 usr/lib64/pkgconfig/qqwing.pc
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 15:38 usr/man/man1/
+-rw-r--r-- root/root      1035 2022-07-18 15:38 usr/man/man1/qqwing.1.gz
+
+

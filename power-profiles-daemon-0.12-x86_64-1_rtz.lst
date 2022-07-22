@@ -1,0 +1,34 @@
+++========================================
+||
+||   Package:  ./power-profiles-daemon-0.12-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:49 ./
+drwxr-xr-x root/root         0 2022-07-18 13:49 install/
+-rw-r--r-- root/root      1198 2022-07-18 13:49 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/bin/
+-rwxr-xr-x root/root      8823 2022-07-18 13:49 usr/bin/powerprofilesctl
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/doc/power-profiles-daemon-0.12/
+-rw-r--r-- root/root     35147 2022-06-28 16:58 usr/doc/power-profiles-daemon-0.12/COPYING
+-rw-r--r-- root/root      2693 2022-06-28 16:58 usr/doc/power-profiles-daemon-0.12/NEWS
+-rw-r--r-- root/root     11474 2022-06-28 16:58 usr/doc/power-profiles-daemon-0.12/README.md
+-rw-r--r-- root/root      3762 2022-07-18 13:49 usr/doc/power-profiles-daemon-0.12/power-profiles-daemon.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib/systemd/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib/systemd/system/
+-rw-r--r-- root/root       709 2022-07-18 13:49 usr/lib/systemd/system/power-profiles-daemon.service
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/libexec/
+-rwxr-xr-x root/root     69024 2022-07-18 13:49 usr/libexec/power-profiles-daemon
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/dbus-1/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/dbus-1/system-services/
+-rw-r--r-- root/root       349 2022-06-28 16:58 usr/share/dbus-1/system-services/net.hadess.PowerProfiles.service
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/dbus-1/system.d/
+-rw-r--r-- root/root       860 2022-07-18 13:49 usr/share/dbus-1/system.d/net.hadess.PowerProfiles.conf
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/polkit-1/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/polkit-1/actions/
+-rw-r--r-- root/root      1035 2022-06-28 16:58 usr/share/polkit-1/actions/net.hadess.PowerProfiles.policy
+
+

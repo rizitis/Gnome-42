@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./device-tree-compiler-1.6.1-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 14:02 ./
+drwxr-xr-x root/root         0 2022-07-18 14:02 install/
+-rw-r--r-- root/root       176 2022-07-18 14:02 install/doinst.sh
+-rw-r--r-- root/root      1052 2022-07-18 14:02 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/bin/
+-rwxr-xr-x root/root     35248 2022-07-18 14:02 usr/bin/convert-dtsv0
+-rwxr-xr-x root/root    132104 2022-07-18 14:02 usr/bin/dtc
+-rwxr-xr-x root/root       680 2022-07-18 14:02 usr/bin/dtdiff
+-rwxr-xr-x root/root     22880 2022-07-18 14:02 usr/bin/fdtdump
+-rwxr-xr-x root/root     18840 2022-07-18 14:02 usr/bin/fdtget
+-rwxr-xr-x root/root     18808 2022-07-18 14:02 usr/bin/fdtoverlay
+-rwxr-xr-x root/root     27064 2022-07-18 14:02 usr/bin/fdtput
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/doc/device-tree-compiler-1.6.1/
+-rw-r--r-- root/root     18092 2021-06-08 10:00 usr/doc/device-tree-compiler-1.6.1/GPL
+-rw-r--r-- root/root      2768 2021-06-08 10:00 usr/doc/device-tree-compiler-1.6.1/README
+-rw-r--r-- root/root      2903 2021-06-08 10:00 usr/doc/device-tree-compiler-1.6.1/README.license
+-rw-r--r-- root/root       260 2021-06-08 10:00 usr/doc/device-tree-compiler-1.6.1/TODO
+-rw-r--r-- root/root      3352 2022-07-18 14:02 usr/doc/device-tree-compiler-1.6.1/device-tree-compiler.SlackBuild
+-rw-r--r-- root/root     26797 2021-06-08 10:00 usr/doc/device-tree-compiler-1.6.1/manual.txt
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/include/
+-rw-r--r-- root/root      1761 2022-07-18 14:02 usr/include/fdt.h
+-rw-r--r-- root/root     75652 2022-07-18 14:02 usr/include/libfdt.h
+-rw-r--r-- root/root      2753 2022-07-18 14:02 usr/include/libfdt_env.h
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/lib64/
+-rwxr-xr-x root/root     39456 2022-07-18 14:02 usr/lib64/libfdt-1.6.1.so
+-rw-r--r-- root/root     55100 2022-07-18 14:02 usr/lib64/libfdt.a
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/lib64/python3.9/site-packages/__pycache__/
+-rw-r--r-- root/root     52211 2022-07-18 14:02 usr/lib64/python3.9/site-packages/__pycache__/libfdt.cpython-39.pyc
+-rwxr-xr-x root/root    179520 2022-07-18 14:02 usr/lib64/python3.9/site-packages/_libfdt.cpython-39-x86_64-linux-gnu.so
+-rw-r--r-- root/root       221 2022-07-18 14:02 usr/lib64/python3.9/site-packages/libfdt-1.6.1-py3.9.egg-info
+-rw-r--r-- root/root     45937 2022-07-18 14:02 usr/lib64/python3.9/site-packages/libfdt.py
+
+

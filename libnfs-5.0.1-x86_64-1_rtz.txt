@@ -1,0 +1,11 @@
+libnfs: libnfs (NFS client library)
+libnfs:
+libnfs: LIBNFS is a client library for accessing NFS shares over a network.
+libnfs:
+libnfs: Homepage: https://github.com/sahlberg/libnfs
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+libnfs:

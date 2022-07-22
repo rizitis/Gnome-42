@@ -1,0 +1,11 @@
+usbredir: usbredir (usb redirection protocol)
+usbredir:
+usbredir: usbredir is a protocol for redirection USB traffic from a single USB
+usbredir: device, to a different (virtual) machine then the one to which the
+usbredir: USB device is attached.
+usbredir: This package contains usbredirparser, usbredirhost and usbredirserver.
+usbredir:
+usbredir: homepage: https://www.spice-space.org
+usbredir:
+usbredir:
+usbredir:

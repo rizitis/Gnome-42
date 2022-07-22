@@ -1,0 +1,11 @@
+evolution:
+evolution: Evolution
+evolution:
+evolution: Evolution is a personal information management application that
+evolution: provides integrated mail, calendaring and address book functionality.
+evolution:
+evolution:
+evolution:
+evolution:
+evolution: https://wiki.gnome.org/Apps/Evolution
+evolution:

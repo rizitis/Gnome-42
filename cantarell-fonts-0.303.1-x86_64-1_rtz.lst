@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./cantarell-fonts-0.303.1-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 08:19 ./
+drwxr-xr-x root/root         0 2022-07-18 08:19 install/
+-rw-r--r-- root/root        60 2022-07-18 08:19 install/doinst.sh
+-rw-r--r-- root/root      1120 2022-07-18 08:19 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 08:19 usr/
+drwxr-xr-x root/root         0 2022-07-18 08:19 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 08:19 usr/doc/cantarell-fonts-0.303.1/
+-rw-r--r-- root/root      5084 2021-09-13 23:43 usr/doc/cantarell-fonts-0.303.1/COPYING
+-rw-r--r-- root/root     10971 2021-09-13 23:43 usr/doc/cantarell-fonts-0.303.1/NEWS
+-rw-r--r-- root/root      6414 2021-09-13 23:43 usr/doc/cantarell-fonts-0.303.1/README.md
+-rw-r--r-- root/root      3352 2022-07-18 08:19 usr/doc/cantarell-fonts-0.303.1/cantarell-fonts.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 08:19 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 08:19 usr/share/fonts/
+drwxr-xr-x root/root         0 2022-07-18 08:19 usr/share/fonts/TTF/
+drwxr-xr-x root/root         0 2022-07-18 08:19 usr/share/fonts/TTF/cantarell/
+-rw-r--r-- root/root    170588 2021-12-09 23:29 usr/share/fonts/TTF/cantarell/Cantarell-VF.otf
+drwxr-xr-x root/root         0 2022-07-18 08:19 usr/share/metainfo/
+-rw-r--r-- root/root     18537 2022-07-18 08:19 usr/share/metainfo/org.gnome.cantarell.metainfo.xml
+
+

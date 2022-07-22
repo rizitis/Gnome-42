@@ -1,0 +1,7 @@
+gnome-sudoku: gnome-sudoku 
+gnome-sudoku:
+gnome-sudoku: Test your logic skills in this number grid puzzle 
+gnome-sudoku:
+gnome-sudoku:
+gnome-sudoku: https://wiki.gnome.org/Apps/Sudoku
+gnome-sudoku:

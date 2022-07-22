@@ -1,0 +1,5 @@
+python3-dbusmock: python3-dbusmock
+python3-dbusmock:
+python3-dbusmock: dbusmock is a Python library useful for writing tests for software
+python3-dbusmock: which talks to D-Bus services.
+python3-dbusmock:

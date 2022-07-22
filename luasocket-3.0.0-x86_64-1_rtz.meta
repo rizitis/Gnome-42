@@ -1,0 +1,17 @@
+PACKAGE NAME:  luasocket-3.0.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  148 K
+PACKAGE SIZE (uncompressed):  470 K
+PACKAGE DESCRIPTION:
+luasocket: luasocket (Network support for the Lua language)
+luasocket:
+luasocket: LuaSocket is a Lua extension library that is composed by two parts: a
+luasocket: C core that provides support for the TCP and UDP transport layers,
+luasocket: and a set of Lua modules that add support for functionality commonly
+luasocket: needed by applications that deal with the Internet.
+luasocket:
+luasocket: The library is available under the same terms and conditions as the
+luasocket: Lua language, the MIT license. The idea is that if you can use Lua in
+luasocket: a project, you should also be able to use LuaSocket.
+luasocket:
+

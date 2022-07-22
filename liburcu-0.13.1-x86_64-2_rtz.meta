@@ -1,0 +1,17 @@
+PACKAGE NAME:  liburcu-0.13.1-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  132 K
+PACKAGE SIZE (uncompressed):  1050 K
+PACKAGE DESCRIPTION:
+liburcu: liburcu (RCU Library)
+liburcu:
+liburcu: liburcu is a LGPLv2.1 userspace RCU (read-copy-update) library.
+liburcu: This data synchronization library provides read-side access which
+liburcu: scales linearly with the number of cores.
+liburcu:
+liburcu:
+liburcu:
+liburcu: Project URL: http://liburcu.org/
+liburcu:
+liburcu:
+

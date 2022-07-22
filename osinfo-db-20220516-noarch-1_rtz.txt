@@ -1,0 +1,11 @@
+osinfo-db: osinfo-db (operating systems database)
+osinfo-db:
+osinfo-db: The osinfo database provides information about operating systems and
+osinfo-db: hypervisor platforms to facilitate the automated configuration and
+osinfo-db: provisioning of new virtual machines.
+osinfo-db:
+osinfo-db: homepage: http://libosinfo.org
+osinfo-db:
+osinfo-db:
+osinfo-db:
+osinfo-db:

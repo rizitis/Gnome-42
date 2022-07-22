@@ -1,0 +1,7 @@
+evolution-data-server: Evolution Data Server
+evolution-data-server:
+evolution-data-server: The Evolution Data Server package provides a unified backend for
+evolution-data-server: programs that work with contacts, tasks, and calendar information. It
+evolution-data-server: was originally developed for Evolution (hence the name), but is now
+evolution-data-server: used by other packages as well.
+evolution-data-server:

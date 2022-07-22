@@ -1,0 +1,41 @@
+++========================================
+||
+||   Package:  ./umockdev-0.17.13-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:49 ./
+drwxr-xr-x root/root         0 2022-07-18 13:49 install/
+-rw-r--r-- root/root       460 2022-07-18 13:49 install/doinst.sh
+-rw-r--r-- root/root       730 2022-07-18 13:49 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/bin/
+-rwxr-xr-x root/root    126792 2022-07-18 13:49 usr/bin/umockdev-record
+-rwxr-xr-x root/root     23080 2022-07-18 13:49 usr/bin/umockdev-run
+-rwxr-xr-x root/root       228 2022-05-30 13:16 usr/bin/umockdev-wrapper
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/doc/umockdev-0.17.13/
+-rw-r--r-- root/root     26530 2022-05-30 13:16 usr/doc/umockdev-0.17.13/COPYING
+-rw-r--r-- root/root     24578 2022-05-30 13:16 usr/doc/umockdev-0.17.13/NEWS
+-rw-r--r-- root/root     17669 2022-05-30 13:16 usr/doc/umockdev-0.17.13/README.md
+drwxr-xr-x root/root         0 2022-05-30 13:16 usr/doc/umockdev-0.17.13/examples/
+-rw-r--r-- root/root      3497 2022-05-30 13:16 usr/doc/umockdev-0.17.13/examples/battery.c
+-rw-r--r-- root/root      2696 2022-05-30 13:16 usr/doc/umockdev-0.17.13/examples/battery.py
+-rw-r--r-- root/root      3310 2022-07-18 13:49 usr/doc/umockdev-0.17.13/umockdev.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/include/umockdev-1.0/
+-rw-r--r-- root/root     14621 2022-07-18 13:49 usr/include/umockdev-1.0/umockdev.h
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      7452 2022-07-18 13:49 usr/lib64/girepository-1.0/UMockdev-1.0.typelib
+-rwxr-xr-x root/root     88560 2022-07-18 13:49 usr/lib64/libumockdev-preload.so.0.0.0
+-rwxr-xr-x root/root    209440 2022-07-18 13:49 usr/lib64/libumockdev.so.0.3.0
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       254 2022-07-18 13:49 usr/lib64/pkgconfig/umockdev-1.0.pc
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/gir-1.0/
+-rw-r--r-- root/root     35586 2022-07-18 13:49 usr/share/gir-1.0/UMockdev-1.0.gir
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/vala/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/share/vala/vapi/
+-rw-r--r-- root/root      4124 2022-07-18 13:49 usr/share/vala/vapi/umockdev-1.0.vapi
+
+

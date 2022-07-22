@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./bubblewrap-0.6.2-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 08:46 ./
+drwxr-xr-x root/root         0 2022-07-18 08:46 install/
+-rw-r--r-- root/root       911 2022-07-18 08:46 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/bin/
+-rwxr-xr-x root/root     68784 2022-07-18 08:46 usr/bin/bwrap
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/doc/bubblewrap-0.6.2/
+-rw-r--r-- root/root     25383 2016-06-09 10:21 usr/doc/bubblewrap-0.6.2/COPYING
+-rw-r--r-- root/root      3706 2022-07-18 08:46 usr/doc/bubblewrap-0.6.2/bubblewrap.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/man/man1/
+-rw-r--r-- root/root      4666 2022-07-18 08:46 usr/man/man1/bwrap.1.gz
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/share/bash-completion/
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/share/bash-completion/completions/
+-rw-r--r-- root/root      1094 2022-04-21 12:02 usr/share/bash-completion/completions/bwrap
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/share/zsh/
+drwxr-xr-x root/root         0 2022-07-18 08:46 usr/share/zsh/site-functions/
+-rw-r--r-- root/root      6327 2022-04-21 12:02 usr/share/zsh/site-functions/_bwrap
+
+

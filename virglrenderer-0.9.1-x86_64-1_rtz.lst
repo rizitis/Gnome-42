@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./virglrenderer-0.9.1-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 14:02 ./
+drwxr-xr-x root/root         0 2022-07-18 14:02 install/
+-rw-r--r-- root/root       236 2022-07-18 14:02 install/doinst.sh
+-rw-r--r-- root/root       784 2022-07-18 14:02 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/bin/
+-rwxr-xr-x root/root     48320 2022-07-18 14:02 usr/bin/virgl_test_server
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/doc/virglrenderer-0.9.1/
+-rw-r--r-- root/root      1098 2021-04-20 01:49 usr/doc/virglrenderer-0.9.1/COPYING
+-rw-r--r-- root/root      3360 2022-07-18 14:02 usr/doc/virglrenderer-0.9.1/virglrenderer.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/include/virgl/
+-rw-r--r-- root/root     12819 2021-04-20 01:49 usr/include/virgl/virglrenderer.h
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/lib64/
+-rwxr-xr-x root/root    492752 2022-07-18 14:02 usr/lib64/libvirglrenderer.so.1.5.4
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       233 2022-07-18 14:02 usr/lib64/pkgconfig/virglrenderer.pc
+
+

@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./libvirt-python-8.1.0-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:54 ./
+drwxr-xr-x root/root         0 2022-07-18 13:54 install/
+-rw-r--r-- root/root       824 2022-07-18 13:54 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:54 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:54 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:54 usr/doc/libvirt-python-8.1.0/
+-rw-r--r-- root/root      3814 2022-03-01 11:15 usr/doc/libvirt-python-8.1.0/AUTHORS
+-rw-r--r-- root/root     18092 2022-01-14 16:17 usr/doc/libvirt-python-8.1.0/COPYING
+-rw-r--r-- root/root     26530 2022-01-14 16:17 usr/doc/libvirt-python-8.1.0/COPYING.LESSER
+-rw-r--r-- root/root    372316 2022-03-01 11:15 usr/doc/libvirt-python-8.1.0/ChangeLog
+-rw-r--r-- root/root      1080 2022-03-01 11:15 usr/doc/libvirt-python-8.1.0/PKG-INFO
+-rw-r--r-- root/root      1384 2022-01-14 16:17 usr/doc/libvirt-python-8.1.0/README
+-rw-r--r-- root/root      2972 2022-07-18 13:54 usr/doc/libvirt-python-8.1.0/libvirt-python.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:54 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 13:54 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-18 13:54 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-18 13:54 usr/lib64/python3.9/site-packages/__pycache__/
+-rw-r--r-- root/root    371168 2022-07-18 13:54 usr/lib64/python3.9/site-packages/__pycache__/libvirt.cpython-39.pyc
+-rw-r--r-- root/root      1389 2022-07-18 13:54 usr/lib64/python3.9/site-packages/__pycache__/libvirt_lxc.cpython-39.pyc
+-rw-r--r-- root/root      4468 2022-07-18 13:54 usr/lib64/python3.9/site-packages/__pycache__/libvirt_qemu.cpython-39.pyc
+-rw-r--r-- root/root     16472 2022-07-18 13:54 usr/lib64/python3.9/site-packages/__pycache__/libvirtaio.cpython-39.pyc
+-rw-r--r-- root/root    372090 2022-07-18 13:54 usr/lib64/python3.9/site-packages/libvirt.py
+-rw-r--r-- root/root      1693 2022-07-18 13:54 usr/lib64/python3.9/site-packages/libvirt_lxc.py
+-rw-r--r-- root/root      1031 2022-07-18 13:54 usr/lib64/python3.9/site-packages/libvirt_python-8.1.0-py3.9.egg-info
+-rw-r--r-- root/root      5186 2022-07-18 13:54 usr/lib64/python3.9/site-packages/libvirt_qemu.py
+-rw-r--r-- root/root     16734 2022-07-18 13:54 usr/lib64/python3.9/site-packages/libvirtaio.py
+-rwxr-xr-x root/root    313296 2022-07-18 13:54 usr/lib64/python3.9/site-packages/libvirtmod.cpython-39-x86_64-linux-gnu.so
+-rwxr-xr-x root/root     27344 2022-07-18 13:54 usr/lib64/python3.9/site-packages/libvirtmod_lxc.cpython-39-x86_64-linux-gnu.so
+-rwxr-xr-x root/root     35728 2022-07-18 13:54 usr/lib64/python3.9/site-packages/libvirtmod_qemu.cpython-39-x86_64-linux-gnu.so
+
+

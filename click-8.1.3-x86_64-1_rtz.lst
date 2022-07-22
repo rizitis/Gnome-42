@@ -1,0 +1,84 @@
+++========================================
+||
+||   Package:  ./click-8.1.3-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 15:43 ./
+drwxr-xr-x root/root         0 2022-07-18 15:43 install/
+-rw-r--r-- root/root       904 2022-07-18 15:43 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/doc/click-8.1.3/
+-rw-r--r-- root/root     44355 2022-04-28 20:35 usr/doc/click-8.1.3/CHANGES.rst
+-rw-r--r-- root/root      1475 2021-03-04 02:26 usr/doc/click-8.1.3/LICENSE.rst
+-rw-r--r-- root/root      2071 2022-02-22 16:27 usr/doc/click-8.1.3/README.rst
+-rw-r--r-- root/root     17514 2022-02-22 16:27 usr/doc/click-8.1.3/advanced.rst
+-rw-r--r-- root/root      2828 2022-03-18 00:17 usr/doc/click-8.1.3/api.rst
+-rw-r--r-- root/root      8659 2021-10-08 19:57 usr/doc/click-8.1.3/arguments.rst
+-rw-r--r-- root/root        45 2022-02-22 16:27 usr/doc/click-8.1.3/changes.rst
+-rw-r--r-- root/root      3186 2022-07-18 15:43 usr/doc/click-8.1.3/click.SlackBuild
+-rw-r--r-- root/root     18928 2022-02-22 16:27 usr/doc/click-8.1.3/commands.rst
+-rw-r--r-- root/root      7828 2020-08-13 03:50 usr/doc/click-8.1.3/complex.rst
+-rw-r--r-- root/root      1193 2019-09-07 16:32 usr/doc/click-8.1.3/contrib.rst
+-rw-r--r-- root/root      5876 2021-10-08 19:57 usr/doc/click-8.1.3/documentation.rst
+-rw-r--r-- root/root      2924 2019-09-07 16:32 usr/doc/click-8.1.3/exceptions.rst
+-rw-r--r-- root/root      2271 2022-02-22 16:27 usr/doc/click-8.1.3/index.rst
+-rw-r--r-- root/root        71 2021-03-04 02:26 usr/doc/click-8.1.3/license.rst
+-rw-r--r-- root/root     26719 2022-03-18 00:17 usr/doc/click-8.1.3/options.rst
+-rw-r--r-- root/root      4875 2022-02-22 16:27 usr/doc/click-8.1.3/parameters.rst
+-rw-r--r-- root/root      1651 2019-09-07 16:32 usr/doc/click-8.1.3/prompts.rst
+-rw-r--r-- root/root      9347 2022-04-28 16:42 usr/doc/click-8.1.3/quickstart.rst
+-rw-r--r-- root/root      4392 2021-10-08 19:57 usr/doc/click-8.1.3/setuptools.rst
+-rw-r--r-- root/root      9508 2022-03-28 16:47 usr/doc/click-8.1.3/shell-completion.rst
+-rw-r--r-- root/root      4379 2022-02-22 16:27 usr/doc/click-8.1.3/testing.rst
+-rw-r--r-- root/root      4421 2021-10-08 19:57 usr/doc/click-8.1.3/unicode-support.rst
+-rw-r--r-- root/root      4705 2022-02-22 16:27 usr/doc/click-8.1.3/upgrading.rst
+-rw-r--r-- root/root     12792 2022-02-22 16:27 usr/doc/click-8.1.3/utils.rst
+-rw-r--r-- root/root      7164 2022-02-22 16:27 usr/doc/click-8.1.3/why.rst
+-rw-r--r-- root/root      3159 2021-10-08 19:57 usr/doc/click-8.1.3/wincmd.rst
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click-8.1.3-py3.9.egg-info/
+-rw-r--r-- root/root      3133 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click-8.1.3-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      2859 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click-8.1.3-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click-8.1.3-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        88 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click-8.1.3-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         6 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click-8.1.3-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root      3138 2022-04-28 20:35 usr/lib64/python3.9/site-packages/click/__init__.py
+drwxr-xr-x root/root         0 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/
+-rw-r--r-- root/root      2587 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     16026 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/_compat.cpython-39.pyc
+-rw-r--r-- root/root     15973 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/_termui_impl.cpython-39.pyc
+-rw-r--r-- root/root      1503 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/_textwrap.cpython-39.pyc
+-rw-r--r-- root/root      7754 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/_winconsole.cpython-39.pyc
+-rw-r--r-- root/root     89629 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/core.cpython-39.pyc
+-rw-r--r-- root/root     15541 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/decorators.cpython-39.pyc
+-rw-r--r-- root/root     10102 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/exceptions.cpython-39.pyc
+-rw-r--r-- root/root      9382 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/formatting.cpython-39.pyc
+-rw-r--r-- root/root      2394 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/globals.cpython-39.pyc
+-rw-r--r-- root/root     13537 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/parser.cpython-39.pyc
+-rw-r--r-- root/root     16698 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/shell_completion.cpython-39.pyc
+-rw-r--r-- root/root     25916 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/termui.cpython-39.pyc
+-rw-r--r-- root/root     15108 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/testing.cpython-39.pyc
+-rw-r--r-- root/root     32925 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/types.cpython-39.pyc
+-rw-r--r-- root/root     17544 2022-07-18 15:43 usr/lib64/python3.9/site-packages/click/__pycache__/utils.cpython-39.pyc
+-rw-r--r-- root/root     18810 2022-02-22 16:27 usr/lib64/python3.9/site-packages/click/_compat.py
+-rw-r--r-- root/root     23451 2022-02-22 16:27 usr/lib64/python3.9/site-packages/click/_termui_impl.py
+-rw-r--r-- root/root      1353 2022-02-22 16:27 usr/lib64/python3.9/site-packages/click/_textwrap.py
+-rw-r--r-- root/root      7860 2022-02-22 16:27 usr/lib64/python3.9/site-packages/click/_winconsole.py
+-rw-r--r-- root/root    112782 2022-04-28 20:25 usr/lib64/python3.9/site-packages/click/core.py
+-rw-r--r-- root/root     16350 2022-04-28 16:42 usr/lib64/python3.9/site-packages/click/decorators.py
+-rw-r--r-- root/root      9167 2022-03-26 00:09 usr/lib64/python3.9/site-packages/click/exceptions.py
+-rw-r--r-- root/root      9706 2022-02-22 16:27 usr/lib64/python3.9/site-packages/click/formatting.py
+-rw-r--r-- root/root      1961 2022-02-22 16:27 usr/lib64/python3.9/site-packages/click/globals.py
+-rw-r--r-- root/root     19044 2022-03-28 18:04 usr/lib64/python3.9/site-packages/click/parser.py
+-rw-r--r-- root/root         0 2022-02-22 16:27 usr/lib64/python3.9/site-packages/click/py.typed
+-rw-r--r-- root/root     18018 2022-03-28 18:10 usr/lib64/python3.9/site-packages/click/shell_completion.py
+-rw-r--r-- root/root     28355 2022-03-19 20:11 usr/lib64/python3.9/site-packages/click/termui.py
+-rw-r--r-- root/root     16063 2022-03-26 00:09 usr/lib64/python3.9/site-packages/click/testing.py
+-rw-r--r-- root/root     35805 2022-03-31 23:53 usr/lib64/python3.9/site-packages/click/types.py
+-rw-r--r-- root/root     18682 2022-03-26 00:08 usr/lib64/python3.9/site-packages/click/utils.py
+
+

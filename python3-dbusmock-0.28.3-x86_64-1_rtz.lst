@@ -1,0 +1,72 @@
+++========================================
+||
+||   Package:  ./python3-dbusmock-0.28.3-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:49 ./
+drwxr-xr-x root/root         0 2022-07-18 13:49 install/
+-rw-r--r-- root/root       702 2022-07-18 13:49 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/doc/python3-dbusmock-0.28.3/
+-rw-r--r-- root/root      7651 2022-07-17 14:33 usr/doc/python3-dbusmock-0.28.3/COPYING
+-rw-r--r-- root/root        49 2022-07-17 14:33 usr/doc/python3-dbusmock-0.28.3/MANIFEST.in
+-rw-r--r-- root/root     21019 2022-07-17 14:33 usr/doc/python3-dbusmock-0.28.3/NEWS
+-rw-r--r-- root/root     14608 2022-07-17 14:33 usr/doc/python3-dbusmock-0.28.3/PKG-INFO
+-rw-r--r-- root/root     11456 2022-07-17 14:33 usr/doc/python3-dbusmock-0.28.3/README.md
+-rw-r--r-- root/root      2719 2022-07-18 13:49 usr/doc/python3-dbusmock-0.28.3/python3-dbusmock.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/
+-rw-r--r-- root/root       796 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/__init__.py
+-rw-r--r-- root/root      5058 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/__main__.py
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/__pycache__/
+-rw-r--r-- root/root       560 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3459 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/__pycache__/__main__.cpython-39.pyc
+-rw-r--r-- root/root     28097 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/__pycache__/mockobject.cpython-39.pyc
+-rw-r--r-- root/root     11187 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/__pycache__/testcase.cpython-39.pyc
+-rw-r--r-- root/root     35147 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/mockobject.py
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/
+-rw-r--r-- root/root       382 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/__init__.py
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/
+-rw-r--r-- root/root       208 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      7963 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/bluez5-obex.cpython-39.pyc
+-rw-r--r-- root/root     13949 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/bluez5.cpython-39.pyc
+-rw-r--r-- root/root       971 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/gnome_screensaver.cpython-39.pyc
+-rw-r--r-- root/root      5752 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/iio-sensors-proxy.cpython-39.pyc
+-rw-r--r-- root/root      7352 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/logind.cpython-39.pyc
+-rw-r--r-- root/root      1048 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/low_memory_monitor.cpython-39.pyc
+-rw-r--r-- root/root     23925 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/networkmanager.cpython-39.pyc
+-rw-r--r-- root/root      1332 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/notification_daemon.cpython-39.pyc
+-rw-r--r-- root/root      9309 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/ofono.cpython-39.pyc
+-rw-r--r-- root/root      3377 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/polkitd.cpython-39.pyc
+-rw-r--r-- root/root      2007 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/power_profiles_daemon.cpython-39.pyc
+-rw-r--r-- root/root      2997 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/systemd.cpython-39.pyc
+-rw-r--r-- root/root      1280 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/timedated.cpython-39.pyc
+-rw-r--r-- root/root      6167 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/upower.cpython-39.pyc
+-rw-r--r-- root/root      2464 2022-07-18 13:49 usr/lib64/python3.9/site-packages/dbusmock/templates/__pycache__/urfkill.cpython-39.pyc
+-rw-r--r-- root/root     10701 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/bluez5-obex.py
+-rw-r--r-- root/root     23903 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/bluez5.py
+-rw-r--r-- root/root      1195 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/gnome_screensaver.py
+-rw-r--r-- root/root      6782 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/iio-sensors-proxy.py
+-rw-r--r-- root/root     11620 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/logind.py
+-rw-r--r-- root/root      1084 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/low_memory_monitor.py
+-rw-r--r-- root/root     36219 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/networkmanager.py
+-rw-r--r-- root/root      1714 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/notification_daemon.py
+-rw-r--r-- root/root     18055 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/ofono.py
+-rw-r--r-- root/root      3633 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/polkitd.py
+-rw-r--r-- root/root      2656 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/power_profiles_daemon.py
+-rw-r--r-- root/root      3106 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/systemd.py
+-rw-r--r-- root/root      1728 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/timedated.py
+-rw-r--r-- root/root      9585 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/upower.py
+-rw-r--r-- root/root      3642 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/templates/urfkill.py
+-rw-r--r-- root/root     13247 2022-07-17 14:33 usr/lib64/python3.9/site-packages/dbusmock/testcase.py
+drwxr-xr-x root/root         0 2022-07-18 13:49 usr/lib64/python3.9/site-packages/python_dbusmock-0.28.3-py3.9.egg-info/
+-rw-r--r-- root/root     12443 2022-07-18 13:49 usr/lib64/python3.9/site-packages/python_dbusmock-0.28.3-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      1336 2022-07-18 13:49 usr/lib64/python3.9/site-packages/python_dbusmock-0.28.3-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-18 13:49 usr/lib64/python3.9/site-packages/python_dbusmock-0.28.3-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        12 2022-07-18 13:49 usr/lib64/python3.9/site-packages/python_dbusmock-0.28.3-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         9 2022-07-18 13:49 usr/lib64/python3.9/site-packages/python_dbusmock-0.28.3-py3.9.egg-info/top_level.txt
+
+

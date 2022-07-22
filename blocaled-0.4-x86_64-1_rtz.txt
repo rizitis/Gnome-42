@@ -1,0 +1,11 @@
+blocaled: blocaled (locale settings D-Bus service)
+blocaled:
+blocaled: The blocaled daemon implements the standard localed (i.e. 
+blocaled: org.freedesktop.locale1) D-Bus interface as a stand-alone daemon.
+blocaled:
+blocaled:
+blocaled:
+blocaled:
+blocaled:
+blocaled: https://github.com/lfs-book/blocaled
+blocaled:

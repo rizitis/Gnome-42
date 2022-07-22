@@ -1,0 +1,10 @@
+gnome-boxes: GNOME Boxes
+gnome-boxes:
+gnome-boxes: An application to view, access, and manage remote and virtual
+gnome-boxes: systems.
+gnome-boxes:
+gnome-boxes:
+gnome-boxes:
+gnome-boxes:
+gnome-boxes: https://wiki.gnome.org/Apps/Boxes
+gnome-boxes:

@@ -1,0 +1,17 @@
+PACKAGE NAME:  snappy-1.1.8-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+snappy: snappy (A fast compressor/decompressor)
+snappy:
+snappy: Snappy is a compression/decompression library. It does not aim for
+snappy: maximum compression, or compatibility with any other compression
+snappy: library; instead, it aims for very high speeds and reasonable
+snappy: compression. For instance, compared to the fastest mode of zlib,
+snappy: Snappy is an order of magnitude faster for most inputs, but the
+snappy: resulting compressed files are anywhere from 20% to 100% bigger.
+snappy:
+snappy:
+snappy:
+

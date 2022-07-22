@@ -1,0 +1,11 @@
+libvirt-python: libvirt-python (python bindings for libvirt)
+libvirt-python:
+libvirt-python: This package provides a python binding to the libvirt.so,
+libvirt-python: libvirt-qemu.so, and libvirt-lxc.so library APIs.
+libvirt-python:
+libvirt-python:
+libvirt-python:
+libvirt-python:
+libvirt-python:
+libvirt-python:
+libvirt-python:

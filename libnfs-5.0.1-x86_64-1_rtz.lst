@@ -1,0 +1,47 @@
+++========================================
+||
+||   Package:  ./libnfs-5.0.1-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 14:03 ./
+drwxr-xr-x root/root         0 2022-07-18 14:03 install/
+-rw-r--r-- root/root       184 2022-07-18 14:03 install/doinst.sh
+-rw-r--r-- root/root       716 2022-07-18 14:03 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/bin/
+-rwxr-xr-x root/root     14528 2022-07-18 14:03 usr/bin/nfs-cat
+-rwxr-xr-x root/root     14600 2022-07-18 14:03 usr/bin/nfs-cp
+-rwxr-xr-x root/root     14584 2022-07-18 14:03 usr/bin/nfs-ls
+-rwxr-xr-x root/root     14568 2022-07-18 14:03 usr/bin/nfs-stat
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/doc/libnfs-5.0.1/
+-rw-r--r-- root/root      2489 2022-01-31 19:31 usr/doc/libnfs-5.0.1/CHANGELOG
+-rw-r--r-- root/root      1601 2022-01-31 19:31 usr/doc/libnfs-5.0.1/COPYING
+-rw-r--r-- root/root      1457 2022-01-31 19:31 usr/doc/libnfs-5.0.1/LICENCE-BSD.txt
+-rw-r--r-- root/root     35147 2022-01-31 19:31 usr/doc/libnfs-5.0.1/LICENCE-GPL-3.txt
+-rw-r--r-- root/root     26530 2022-01-31 19:31 usr/doc/libnfs-5.0.1/LICENCE-LGPL-2.1.txt
+-rw-r--r-- root/root      7891 2022-01-31 19:31 usr/doc/libnfs-5.0.1/README
+-rw-r--r-- root/root      4314 2022-07-18 14:03 usr/doc/libnfs-5.0.1/libnfs.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/include/nfsc/
+-rw-r--r-- root/root      8240 2022-07-18 14:03 usr/include/nfsc/libnfs-raw-mount.h
+-rw-r--r-- root/root     54110 2022-07-18 14:03 usr/include/nfsc/libnfs-raw-nfs.h
+-rw-r--r-- root/root     76401 2022-07-18 14:03 usr/include/nfsc/libnfs-raw-nfs4.h
+-rw-r--r-- root/root     10534 2022-07-18 14:03 usr/include/nfsc/libnfs-raw-nlm.h
+-rw-r--r-- root/root      6442 2022-07-18 14:03 usr/include/nfsc/libnfs-raw-nsm.h
+-rw-r--r-- root/root     11652 2022-07-18 14:03 usr/include/nfsc/libnfs-raw-portmap.h
+-rw-r--r-- root/root      5589 2022-07-18 14:03 usr/include/nfsc/libnfs-raw-rquota.h
+-rw-r--r-- root/root     89806 2022-07-18 14:03 usr/include/nfsc/libnfs-raw.h
+-rw-r--r-- root/root      6770 2022-07-18 14:03 usr/include/nfsc/libnfs-zdr.h
+-rw-r--r-- root/root     57782 2022-07-18 14:03 usr/include/nfsc/libnfs.h
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/lib64/
+-rwxr-xr-x root/root    368248 2022-07-18 14:03 usr/lib64/libnfs.so.14.0.0
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       286 2022-07-18 14:03 usr/lib64/pkgconfig/libnfs.pc
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 14:03 usr/man/man1/
+-rw-r--r-- root/root       706 2022-07-18 14:03 usr/man/man1/nfs-cat.1.gz
+-rw-r--r-- root/root       718 2022-07-18 14:03 usr/man/man1/nfs-cp.1.gz
+-rw-r--r-- root/root      1133 2022-07-18 14:03 usr/man/man1/nfs-ls.1.gz
+
+

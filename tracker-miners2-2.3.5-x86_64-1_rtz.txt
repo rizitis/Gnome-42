@@ -1,0 +1,10 @@
+tracker-miners2: tracker-miners2 ( Collection of data extractors for Tracker/Nepomuk )
+tracker-miners2:
+tracker-miners2: The Tracker-miners package contains a set of data extractors for
+tracker-miners2: Tracker.
+tracker-miners2:
+tracker-miners2:
+tracker-miners2:
+tracker-miners2:
+tracker-miners2: https://gitlab.gnome.org/GNOME/tracker-miners
+tracker-miners2:

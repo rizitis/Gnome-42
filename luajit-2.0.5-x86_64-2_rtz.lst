@@ -1,0 +1,71 @@
+++========================================
+||
+||   Package:  ./luajit-2.0.5-x86_64-2_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 12:49 ./
+drwxr-xr-x root/root         0 2022-07-18 12:49 install/
+-rw-r--r-- root/root       297 2022-07-18 12:49 install/doinst.sh
+-rw-r--r-- root/root       725 2022-07-18 12:49 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/bin/
+-rwxr-xr-x root/root    473928 2022-07-18 12:49 usr/bin/luajit-2.0.5
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/doc/luajit-2.0.5/
+-rw-r--r-- root/root      2932 2017-05-01 21:11 usr/doc/luajit-2.0.5/COPYRIGHT
+-rw-r--r-- root/root       441 2017-05-01 21:11 usr/doc/luajit-2.0.5/README
+-rw-r--r-- root/root      2514 2017-05-01 21:11 usr/doc/luajit-2.0.5/bluequad-print.css
+-rw-r--r-- root/root      5575 2017-05-01 21:11 usr/doc/luajit-2.0.5/bluequad.css
+-rw-r--r-- root/root     48265 2017-05-01 21:11 usr/doc/luajit-2.0.5/changes.html
+-rw-r--r-- root/root      2938 2017-05-01 21:11 usr/doc/luajit-2.0.5/contact.html
+-rw-r--r-- root/root      5991 2017-05-01 21:11 usr/doc/luajit-2.0.5/ext_c_api.html
+-rw-r--r-- root/root     10285 2017-05-01 21:11 usr/doc/luajit-2.0.5/ext_ffi.html
+-rw-r--r-- root/root     21296 2017-05-01 21:11 usr/doc/luajit-2.0.5/ext_ffi_api.html
+-rw-r--r-- root/root     53100 2017-05-01 21:11 usr/doc/luajit-2.0.5/ext_ffi_semantics.html
+-rw-r--r-- root/root     22506 2017-05-01 21:11 usr/doc/luajit-2.0.5/ext_ffi_tutorial.html
+-rw-r--r-- root/root      5844 2017-05-01 21:11 usr/doc/luajit-2.0.5/ext_jit.html
+-rw-r--r-- root/root     15247 2017-05-01 21:11 usr/doc/luajit-2.0.5/extensions.html
+-rw-r--r-- root/root      7634 2017-05-01 21:11 usr/doc/luajit-2.0.5/faq.html
+drwxr-xr-x root/root         0 2017-05-01 21:11 usr/doc/luajit-2.0.5/img/
+-rw-r--r-- root/root      1340 2017-05-01 21:11 usr/doc/luajit-2.0.5/img/contact.png
+-rw-r--r-- root/root     23195 2017-05-01 21:11 usr/doc/luajit-2.0.5/install.html
+-rw-r--r-- root/root      3413 2022-07-18 12:49 usr/doc/luajit-2.0.5/luajit.SlackBuild
+-rw-r--r-- root/root      8011 2017-05-01 21:11 usr/doc/luajit-2.0.5/luajit.html
+-rw-r--r-- root/root     13567 2017-05-01 21:11 usr/doc/luajit-2.0.5/running.html
+-rw-r--r-- root/root      3283 2017-05-01 21:11 usr/doc/luajit-2.0.5/status.html
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/include/luajit-2.0/
+-rw-r--r-- root/root      6006 2022-07-18 12:49 usr/include/luajit-2.0/lauxlib.h
+-rw-r--r-- root/root     11964 2022-07-18 12:49 usr/include/luajit-2.0/lua.h
+-rw-r--r-- root/root       135 2022-07-18 12:49 usr/include/luajit-2.0/lua.hpp
+-rw-r--r-- root/root      4762 2022-07-18 12:49 usr/include/luajit-2.0/luaconf.h
+-rw-r--r-- root/root      2573 2022-07-18 12:49 usr/include/luajit-2.0/luajit.h
+-rw-r--r-- root/root      1113 2022-07-18 12:49 usr/include/luajit-2.0/lualib.h
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/lib64/
+-rw-r--r-- root/root    817420 2022-07-18 12:49 usr/lib64/libluajit-5.1.a
+-rwxr-xr-x root/root    486776 2022-07-18 12:49 usr/lib64/libluajit-5.1.so.2.0.5
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/lib64/lua/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/lib64/lua/5.1/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       588 2022-07-18 12:49 usr/lib64/pkgconfig/luajit.pc
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/man/man1/
+-rw-r--r-- root/root      1210 2022-07-18 12:49 usr/man/man1/luajit.1.gz
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/share/lua/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/share/lua/5.1/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/share/luajit-2.0.5/
+drwxr-xr-x root/root         0 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/
+-rw-r--r-- root/root      5606 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/bc.lua
+-rw-r--r-- root/root     18146 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/bcsave.lua
+-rw-r--r-- root/root     19345 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/dis_arm.lua
+-rw-r--r-- root/root     13186 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/dis_mips.lua
+-rw-r--r-- root/root       710 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/dis_mipsel.lua
+-rw-r--r-- root/root     20302 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/dis_ppc.lua
+-rw-r--r-- root/root       707 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/dis_x64.lua
+-rw-r--r-- root/root     29330 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/dis_x86.lua
+-rw-r--r-- root/root     19588 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/dump.lua
+-rw-r--r-- root/root      5614 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/v.lua
+-rw-r--r-- root/root      6676 2022-07-18 12:49 usr/share/luajit-2.0.5/jit/vmdef.lua
+
+

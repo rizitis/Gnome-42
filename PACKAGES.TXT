@@ -1,4 +1,21 @@
-PACKAGES.TXT;  Fri Jul  8 19:51:46 UTC 2022
+PACKAGES.TXT;  Thu Jul 21 15:22:12 UTC 2022
+
+PACKAGE NAME:  acpica-20211217-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  776 K
+PACKAGE SIZE (uncompressed):  3010 K
+PACKAGE DESCRIPTION:
+acpica: acpica (ACPI Source Language [ASL] Utils)
+acpica:
+acpica: ACPI CA includes:
+acpica: - iasl, an ASL compiler/decompiler
+acpica: - acpisrc, a source code conversion tool
+acpica: - acpiexec, a user-space AML interpreter
+acpica: - acpixtract, convert ascii ACPI tables to binary
+acpica:
+acpica: Homepage: http://acpica.org
+acpica:
+acpica:
 
 PACKAGE NAME:  amtk-5.4.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -64,6 +81,40 @@ baobab: volumes or a specific user-requested directory branch (local or
 baobab: remote).
 baobab:
 
+PACKAGE NAME:  bash-completion-2.11-noarch-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  172 K
+PACKAGE SIZE (uncompressed):  1330 K
+PACKAGE DESCRIPTION:
+bash-completion: bash-completion (programmable completion for the bash shell)
+bash-completion:
+bash-completion: Adds programmable completion to the bash shell. A new file called
+bash-completion: /etc/profile.d/bash_completion.sh will be sourced for interactive
+bash-completion: bash shells adding all sorts of enhanced command completion features.
+bash-completion: Once installed, you may get a list of all commands that have
+bash-completion: associated completions with 'complete -p', and examine the code for
+bash-completion: the shell functions with 'declare -f'.
+bash-completion:
+bash-completion: Homepage: https://github.com/scop/bash-completion
+bash-completion:
+
+PACKAGE NAME:  blocaled-0.4-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  150 K
+PACKAGE DESCRIPTION:
+blocaled: blocaled (locale settings D-Bus service)
+blocaled:
+blocaled: The blocaled daemon implements the standard localed (i.e. 
+blocaled: org.freedesktop.locale1) D-Bus interface as a stand-alone daemon.
+blocaled:
+blocaled:
+blocaled:
+blocaled:
+blocaled:
+blocaled: https://github.com/lfs-book/blocaled
+blocaled:
+
 PACKAGE NAME:  brasero-3.12.3-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  4512 K
@@ -81,7 +132,7 @@ brasero:
 brasero:
 brasero:
 
-PACKAGE NAME:  bubblewrap-0.6.1-x86_64-1_rtz.txz
+PACKAGE NAME:  bubblewrap-0.6.2-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  40 K
 PACKAGE SIZE (uncompressed):  130 K
@@ -97,6 +148,23 @@ bubblewrap:
 bubblewrap:
 bubblewrap:
 bubblewrap:
+
+PACKAGE NAME:  cantarell-fonts-0.303.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  108 K
+PACKAGE SIZE (uncompressed):  230 K
+PACKAGE DESCRIPTION:
+cantarell-fonts: cantarell-fonts (The Cantarell typeface family)
+cantarell-fonts:
+cantarell-fonts: The Cantarell typeface family  is a contemporary Humanist sans serif,
+cantarell-fonts: and is used by the GNOME project for its user interface and the
+cantarell-fonts: Fedora project.)
+cantarell-fonts:
+cantarell-fonts: Cantarell was originally designed by Dave Crossland as part of his
+cantarell-fonts: coursework for the MA Typeface Design programme at the Department
+cantarell-fonts: of Typography in the University of Reading, England.
+cantarell-fonts:
+cantarell-fonts: Home page: https://github.com/GNOME/cantarell-fonts
 
 PACKAGE NAME:  cheese-41.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -132,6 +200,23 @@ chrome-gnome-shell:
 chrome-gnome-shell: https://gitlab.gnome.org/GNOME/chrome-gnome-shell
 chrome-gnome-shell:
 
+PACKAGE NAME:  click-8.1.3-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  192 K
+PACKAGE SIZE (uncompressed):  890 K
+PACKAGE DESCRIPTION:
+click: click (Python composable command line utility)
+click:
+click: Click is a Python package for creating beautiful command line
+click: interfaces in a composable way with as little code as necessary.
+click: It's the "Command Line Interface Creation Kit". It's highly
+click: configurable but comes with sensible defaults out of the box.
+click:
+click: Homepage: https://github.com/mitsuhiko/click
+click:
+click:
+click:
+
 PACKAGE NAME:  clutter-1.26.4-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  3092 K
@@ -152,18 +237,13 @@ clutter:
 PACKAGE NAME:  clutter-gst-3.0.27-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  124 K
-PACKAGE SIZE (uncompressed):  1070 K
+PACKAGE SIZE (uncompressed):  1060 K
 PACKAGE DESCRIPTION:
-clutter-gst: clutter-gst (Clutter GStreamer Library)
-clutter-gst:
-clutter-gst: The Clutter Gst package contains an integration library for using 
-clutter-gst: GStreamer with Clutter. Its purpose is to implement the 
-clutter-gst: ClutterMedia interface using GStreamer.  
+clutter-gst: clutter-gst ( GStreamer bindings for clutter )
 clutter-gst:
 clutter-gst:
 clutter-gst:
-clutter-gst:
-clutter-gst: https://gitlab.gnome.org/Archive/clutter-gst
+clutter-gst: https://gitlab.gnome.org/GNOME/clutter-gst
 clutter-gst:
 
 PACKAGE NAME:  clutter-gtk-1.8.4-x86_64-1_rtz.tgz
@@ -182,6 +262,23 @@ clutter-gtk: actor for embedding any GtkWidget inside a Clutter stage.
 clutter-gtk:
 clutter-gtk: https://wiki.gnome.org/Projects/Clutter
 clutter-gtk:
+
+PACKAGE NAME:  cmark-0.30.2-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  124 K
+PACKAGE SIZE (uncompressed):  480 K
+PACKAGE DESCRIPTION:
+cmark: cmark (C Reference libraries)
+cmark:
+cmark: cmark is the C reference implementation of CommonMark, a rationalized
+cmark: version of Markdown syntax with a spec. (For the JavaScript reference
+cmark: implementation, see commonmark.js.)
+cmark:
+cmark: Homepage: https://github.com/commonmark/cmark
+cmark:
+cmark:
+cmark:
+cmark:
 
 PACKAGE NAME:  cogl-1.22.8-x86_64-2_rtz.tgz
 PACKAGE LOCATION:  .
@@ -234,9 +331,43 @@ colord-gtk:
 colord-gtk:
 colord-gtk:
 
+PACKAGE NAME:  devhelp-41.2-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  288 K
+PACKAGE SIZE (uncompressed):  1920 K
+PACKAGE DESCRIPTION:
+devhelp: devhelp (an API documentation browser for GTK+ and GNOME)
+devhelp:
+devhelp: Devhelp is an API documentation browser for GTK+ and GNOME.  It works
+devhelp: natively with gtk-doc (the API reference framework developed for GTK+
+devhelp: and used throughout GNOME for API documentation). If you use gtk-doc
+devhelp: with your project, you can use Devhelp to browse the documentation.
+devhelp:
+devhelp: https://wiki.gnome.org/Apps/Devhelp
+devhelp:
+devhelp:
+devhelp:
+
+PACKAGE NAME:  device-tree-compiler-1.6.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  160 K
+PACKAGE SIZE (uncompressed):  770 K
+PACKAGE DESCRIPTION:
+device-tree-compiler: device-tree-compiler (Device Tree Compiler for Flat Device Trees)
+device-tree-compiler:
+device-tree-compiler: Device Tree Compiler, 'dtc', transforms a textual description of a
+device-tree-compiler: device tree ('DTS') into a binary object ('DTB').
+device-tree-compiler:
+device-tree-compiler: DTS is most commonly used on embedded platforms.
+device-tree-compiler:
+device-tree-compiler: This tool is particularly useful for building a DTS-enabled 'U-Boot'
+device-tree-compiler: binary.
+device-tree-compiler:
+device-tree-compiler:
+
 PACKAGE NAME:  eog-42.2-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  2464 K
+PACKAGE SIZE (compressed):  2468 K
 PACKAGE SIZE (uncompressed):  13670 K
 PACKAGE DESCRIPTION:
 eog: Eye of GNOME
@@ -250,10 +381,10 @@ eog:
 eog: https://wiki.gnome.org/Apps/EyeOfGnome
 eog:
 
-PACKAGE NAME:  epiphany-42.2-x86_64-1_rtz.txz
+PACKAGE NAME:  epiphany-42.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  5544 K
-PACKAGE SIZE (uncompressed):  14350 K
+PACKAGE SIZE (compressed):  5552 K
+PACKAGE SIZE (uncompressed):  14450 K
 PACKAGE DESCRIPTION:
 epiphany: Epiphany
 epiphany:
@@ -263,7 +394,7 @@ epiphany:
 
 PACKAGE NAME:  evince-42.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  2768 K
+PACKAGE SIZE (compressed):  2760 K
 PACKAGE SIZE (uncompressed):  23240 K
 PACKAGE DESCRIPTION:
 evince: Evince
@@ -277,26 +408,26 @@ evince:
 evince: https://wiki.gnome.org/Apps/Evince
 evince:
 
-PACKAGE NAME:  evolution-3.44.1-x86_64-1_rtz.tgz
+PACKAGE NAME:  evolution-3.44.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  23516 K
-PACKAGE SIZE (uncompressed):  85770 K
+PACKAGE SIZE (compressed):  11096 K
+PACKAGE SIZE (uncompressed):  86050 K
 PACKAGE DESCRIPTION:
-evolution: evolution (short description of app)
 evolution:
-evolution: Evolution is the integrated mail, calendar and address book suite 
-evolution: from the Evolution Team.
+evolution: Evolution
 evolution:
-evolution:
-evolution:
+evolution: Evolution is a personal information management application that
+evolution: provides integrated mail, calendaring and address book functionality.
 evolution:
 evolution:
-evolution: https://gitlab.gnome.org/GNOME/evolution
+evolution:
+evolution:
+evolution: https://wiki.gnome.org/Apps/Evolution
 evolution:
 
-PACKAGE NAME:  evolution-data-server-3.44.2-x86_64-1_rtz.txz
+PACKAGE NAME:  evolution-data-server-3.44.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  4568 K
+PACKAGE SIZE (compressed):  4572 K
 PACKAGE SIZE (uncompressed):  47310 K
 PACKAGE DESCRIPTION:
 evolution-data-server: Evolution Data Server
@@ -307,7 +438,7 @@ evolution-data-server: was originally developed for Evolution (hence the name), 
 evolution-data-server: used by other packages as well.
 evolution-data-server:
 
-PACKAGE NAME:  exempi-2.6.1-x86_64-1_rtz.txz
+PACKAGE NAME:  exempi-2.6.2-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  552 K
 PACKAGE SIZE (uncompressed):  1690 K
@@ -403,22 +534,19 @@ flatpak-builder:
 PACKAGE NAME:  folks-0.15.5-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  624 K
-PACKAGE SIZE (uncompressed):  3850 K
+PACKAGE SIZE (uncompressed):  3840 K
 PACKAGE DESCRIPTION:
-folks: folks
+folks: folks ( Library to aggregates people into metacontacts )
 folks:
-folks: libfolks is a library that aggregates people from multiple sources
-folks: (eg, Telepathy connection managers for IM contacts, Evolution Data
-folks: Server for local contacts, libsocialweb for web service contacts, 
-folks: etc.) to create metacontacts. It's written in Vala, which generates C
-folks: code when compiled.
 folks:
-folks: https://gitlab.gnome.org/GNOME/folks
+folks:
+folks: https://wiki.gnome.org/Projects/Folks
+folks:
 
 PACKAGE NAME:  gdm-42.0-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  732 K
-PACKAGE SIZE (uncompressed):  5700 K
+PACKAGE SIZE (uncompressed):  5690 K
 PACKAGE DESCRIPTION:
 gdm: gdm (GNOME Display Manager)
 gdm:
@@ -443,6 +571,23 @@ appname:
 appname: The maximum number of lines prefixed by "appname:" is 11.
 appname: Lines without any other text should *not* have a space after the :
 appname:
+
+PACKAGE NAME:  geoclue2-2.6.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  172 K
+PACKAGE SIZE (uncompressed):  1130 K
+PACKAGE DESCRIPTION:
+geoclue2: geoclue2 (location information service)
+geoclue2:
+geoclue2: geoclue2 is a D-Bus service that provides location information.
+geoclue2:
+geoclue2: This is a rewrite of the original geoclue.
+geoclue2:
+geoclue2: Homepage: https://www.freedesktop.org/wiki/Software/GeoClue
+geoclue2:
+geoclue2:
+geoclue2:
+geoclue2:
 
 PACKAGE NAME:  geocode-glib-3.26.2-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -506,10 +651,10 @@ gitg:
 gitg: https://gitlab.gnome.org/GNOME/gitg
 gitg:
 
-PACKAGE NAME:  gjs-1.72.0-x86_64-1_rtz.txz
+PACKAGE NAME:  gjs-1.72.1-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  656 K
-PACKAGE SIZE (uncompressed):  3030 K
+PACKAGE SIZE (compressed):  632 K
+PACKAGE SIZE (uncompressed):  2960 K
 PACKAGE DESCRIPTION:
 gjs: gjs (javascript bindings for GNOME)
 gjs:
@@ -522,6 +667,23 @@ gjs: Homepage: https://gitlab.gnome.org/GNOME/gjs/
 gjs:
 gjs:
 gjs:
+
+PACKAGE NAME:  glusterfs-4.1.0-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  3452 K
+PACKAGE SIZE (uncompressed):  17740 K
+PACKAGE DESCRIPTION:
+glusterfs: glusterfs (scalable network filesystem)
+glusterfs:
+glusterfs: GlusterFS is a scalable network filesystem. Using common
+glusterfs: off-the-shelf hardware, you can create large, distributed storage
+glusterfs: solutions for media streaming, data analysis, and other data- and
+glusterfs: bandwidth-intensive tasks. GlusterFS is free and open source
+glusterfs: software.
+glusterfs:
+glusterfs:
+glusterfs:
+glusterfs:
 
 PACKAGE NAME:  gnome-applets-3.44.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -559,7 +721,7 @@ gnome-autoar:     preferences settings.
 
 PACKAGE NAME:  gnome-backgrounds-42.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  50188 K
+PACKAGE SIZE (compressed):  50192 K
 PACKAGE SIZE (uncompressed):  50620 K
 PACKAGE DESCRIPTION:
 gnome-backgrounds: gnome-background
@@ -583,6 +745,38 @@ gnome-bluetooth:
 gnome-bluetooth: gnome-bluetooth is a fork of bluez-gnome focused on integration with
 gnome-bluetooth: the GNOME desktop environment
 gnome-bluetooth:
+
+PACKAGE NAME:  gnome-boxes-42.3-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  860 K
+PACKAGE SIZE (uncompressed):  6690 K
+PACKAGE DESCRIPTION:
+gnome-boxes: GNOME Boxes
+gnome-boxes:
+gnome-boxes: An application to view, access, and manage remote and virtual
+gnome-boxes: systems.
+gnome-boxes:
+gnome-boxes:
+gnome-boxes:
+gnome-boxes:
+gnome-boxes: https://wiki.gnome.org/Apps/Boxes
+gnome-boxes:
+
+PACKAGE NAME:  gnome-builder-42.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  13024 K
+PACKAGE SIZE (uncompressed):  60880 K
+PACKAGE DESCRIPTION:
+gnome-builder: GNOME Builder
+gnome-builder:
+gnome-builder: A toolsmith for GNOME-based applications.
+gnome-builder:
+gnome-builder:
+gnome-builder:
+gnome-builder:
+gnome-builder:
+gnome-builder: https://wiki.gnome.org/Apps/Builder
+gnome-builder:
 
 PACKAGE NAME:  gnome-calculator-42.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -635,6 +829,22 @@ gnome-characters:
 gnome-characters: https://gitlab.gnome.org/GNOME/gnome-characters
 gnome-characters:
 
+PACKAGE NAME:  gnome-clocks-42.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  260 K
+PACKAGE SIZE (uncompressed):  1920 K
+PACKAGE DESCRIPTION:
+gnome-clocks: GNOME Clocks
+gnome-clocks:
+gnome-clocks: Clock application designed for GNOME.
+gnome-clocks:
+gnome-clocks:
+gnome-clocks:
+gnome-clocks:
+gnome-clocks:
+gnome-clocks: https://wiki.gnome.org/Apps/Clocks
+gnome-clocks:
+
 PACKAGE NAME:  gnome-color-manager-3.36.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  1540 K
@@ -652,10 +862,27 @@ gnome-color-manager:
 gnome-color-manager: https://gitlab.gnome.org/GNOME/gnome-color-manager
 gnome-color-manager:
 
-PACKAGE NAME:  gnome-console-42.beta-x86_64-1_rtz.tgz
+PACKAGE NAME:  gnome-common-3.18.0-noarch-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  152 K
-PACKAGE SIZE (uncompressed):  500 K
+PACKAGE SIZE (compressed):  116 K
+PACKAGE SIZE (uncompressed):  580 K
+PACKAGE DESCRIPTION:
+gnome-common: gnome-common (GNOME development scripts and macros)
+gnome-common:
+gnome-common: Common scripts and macros to develop with GNOME 2.0.
+gnome-common:
+gnome-common:
+gnome-common:
+gnome-common:
+gnome-common:
+gnome-common:
+gnome-common:
+gnome-common:
+
+PACKAGE NAME:  gnome-console-42.2-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  132 K
+PACKAGE SIZE (uncompressed):  610 K
 PACKAGE DESCRIPTION:
 gnome-console: gnome-console (A minimal terminal for GNOME)
 gnome-console:
@@ -669,24 +896,7 @@ gnome-console:
 gnome-console: https://gitlab.gnome.org/GNOME/console
 gnome-console:
 
-PACKAGE NAME:  gnome-contacts-42.0-x86_64-1_rtz.txz
-PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  324 K
-PACKAGE SIZE (uncompressed):  1780 K
-PACKAGE DESCRIPTION:
-gnome-contacts:
-gnome-contacts: GNOME Contacts
-gnome-contacts:
-gnome-contacts: GNOME Contacts is GNOME's integrated address book.
-gnome-contacts:
-gnome-contacts:
-gnome-contacts:
-gnome-contacts:
-gnome-contacts:
-gnome-contacts: https://wiki.gnome.org/Apps/Contacts
-gnome-contacts:
-
-PACKAGE NAME:  gnome-control-center-42.2-x86_64-1_rtz.txz
+PACKAGE NAME:  gnome-control-center-42.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  5020 K
 PACKAGE SIZE (uncompressed):  20910 K
@@ -696,7 +906,7 @@ gnome-control-center:
 gnome-control-center: The GNOME settings manager.
 gnome-control-center:
 
-PACKAGE NAME:  gnome-desktop-42.2-x86_64-1_rtz.txz
+PACKAGE NAME:  gnome-desktop-42.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  316 K
 PACKAGE SIZE (uncompressed):  2640 K
@@ -747,10 +957,27 @@ gnome-disk-utility:
 gnome-disk-utility: https://gitlab.gnome.org/GNOME/gnome-disk-utility/
 gnome-disk-utility:
 
+PACKAGE NAME:  gnome-font-viewer-42.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  160 K
+PACKAGE SIZE (uncompressed):  1230 K
+PACKAGE DESCRIPTION:
+gnome-font-viewer:
+gnome-font-viewer: GNOME Font Viewer
+gnome-font-viewer:
+gnome-font-viewer: View fonts on your system.
+gnome-font-viewer:
+gnome-font-viewer:
+gnome-font-viewer:
+gnome-font-viewer:
+gnome-font-viewer:
+gnome-font-viewer: https://gitlab.gnome.org/GNOME/gnome-font-viewer
+gnome-font-viewer:
+
 PACKAGE NAME:  gnome-games-40.0-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  724 K
-PACKAGE SIZE (uncompressed):  4250 K
+PACKAGE SIZE (compressed):  728 K
+PACKAGE SIZE (uncompressed):  4270 K
 PACKAGE DESCRIPTION:
 gnome-games: GNOME Games
 gnome-games:
@@ -765,8 +992,8 @@ gnome-games:
 
 PACKAGE NAME:  gnome-initial-setup-42.2-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  1512 K
-PACKAGE SIZE (uncompressed):  5240 K
+PACKAGE SIZE (compressed):  1112 K
+PACKAGE SIZE (uncompressed):  2740 K
 PACKAGE DESCRIPTION:
 gnome-initial-setup: ( Simple, easy, and safe way to prepare a new system ) 
 gnome-initial-setup:
@@ -779,7 +1006,24 @@ gnome-initial-setup:
 gnome-initial-setup: https://wiki.gnome.org/Design/OS/InitialSetup
 gnome-initial-setup:
 
-PACKAGE NAME:  gnome-maps-42.2-x86_64-1_rtz.txz
+PACKAGE NAME:  gnome-keyring-42.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  684 K
+PACKAGE SIZE (uncompressed):  4310 K
+PACKAGE DESCRIPTION:
+gnome-keyring: gnome-keyring (a tool to handle security credentials)
+gnome-keyring:
+gnome-keyring: GNOME Keyring is a program designed to take care of the user's
+gnome-keyring: security credentials, such as user names and passwords, in an
+gnome-keyring: easy to access manner. The keyring is implemented as a daemon
+gnome-keyring: and uses the process name gnome-keyring-daemon.
+gnome-keyring:
+gnome-keyring:
+gnome-keyring:
+gnome-keyring:
+gnome-keyring:
+
+PACKAGE NAME:  gnome-maps-42.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  696 K
 PACKAGE SIZE (uncompressed):  5020 K
@@ -827,8 +1071,8 @@ gnome-mines:
 
 PACKAGE NAME:  gnome-music-42.1-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  1160 K
-PACKAGE SIZE (uncompressed):  4950 K
+PACKAGE SIZE (compressed):  272 K
+PACKAGE SIZE (uncompressed):  2380 K
 PACKAGE DESCRIPTION:
 gnome-music: GNOME Music
 gnome-music:
@@ -909,23 +1153,6 @@ gnome-photos:
 gnome-photos: https://wiki.gnome.org/Apps/Photos
 gnome-photos:
 
-PACKAGE NAME:  gnome-photos-42.0-x86_64-1_rtz.tgz
-PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  904 K
-PACKAGE SIZE (uncompressed):  4020 K
-PACKAGE DESCRIPTION:
-gnome-photos:
-gnome-photos: GNOME Photos
-gnome-photos:
-gnome-photos: GNOME Photos is an application to access, organize and share your
-gnome-photos: photos with GNOME.
-gnome-photos:
-gnome-photos:
-gnome-photos:
-gnome-photos:
-gnome-photos: https://wiki.gnome.org/Apps/Photos
-gnome-photos:
-
 PACKAGE NAME:  gnome-power-manager-3.32.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  252 K
@@ -943,7 +1170,7 @@ gnome-power-manager:
 gnome-power-manager: https://gitlab.gnome.org/GNOME/gnome-power-manager
 gnome-power-manager:
 
-PACKAGE NAME:  gnome-remote-desktop-42.2-x86_64-1_rtz.txz
+PACKAGE NAME:  gnome-remote-desktop-42.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  176 K
 PACKAGE SIZE (uncompressed):  880 K
@@ -978,10 +1205,10 @@ gnome-settings-daemon:
 gnome-settings-daemon: https://gitlab.gnome.org/GNOME/gnome-settings-daemon
 gnome-settings-daemon:
 
-PACKAGE NAME:  gnome-shell-42.2-x86_64-1_rtz.txz
+PACKAGE NAME:  gnome-shell-42.3.1-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  1540 K
-PACKAGE SIZE (uncompressed):  10370 K
+PACKAGE SIZE (uncompressed):  10380 K
 PACKAGE DESCRIPTION:
 gnome-shell: GNOME Shell
 gnome-shell:
@@ -993,16 +1220,29 @@ gnome-shell: to use experience. GNOME Shell is the defining technology of the
 gnome-shell: GNOME user experience.
 gnome-shell:
 
-PACKAGE NAME:  gnome-shell-extensions-42.2-x86_64-1_rtz.txz
+PACKAGE NAME:  gnome-shell-extensions-42.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  156 K
-PACKAGE SIZE (uncompressed):  1170 K
+PACKAGE SIZE (uncompressed):  1180 K
 PACKAGE DESCRIPTION:
 gnome-shell-extensions: GNOME Shell Extensions
 gnome-shell-extensions:
 gnome-shell-extensions: This package contains a collection of extensions providing additional
 gnome-shell-extensions: and optional functionality to GNOME Shell.
 gnome-shell-extensions:
+
+PACKAGE NAME:  gnome-sudoku-42.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  324 K
+PACKAGE SIZE (uncompressed):  1910 K
+PACKAGE DESCRIPTION:
+gnome-sudoku: gnome-sudoku 
+gnome-sudoku:
+gnome-sudoku: Test your logic skills in this number grid puzzle 
+gnome-sudoku:
+gnome-sudoku:
+gnome-sudoku: https://wiki.gnome.org/Apps/Sudoku
+gnome-sudoku:
 
 PACKAGE NAME:  gnome-system-monitor-42.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1038,38 +1278,14 @@ gnome-text-editor: GNOME Text Editor
 gnome-text-editor:https://gitlab.gnome.org/GNOME/gnome-text-editor
 gnome-text-editor:
 
-PACKAGE NAME:  gnome-tour-42.0-x86_64-1_rtz.txz
+PACKAGE NAME:  gnome-tweaks-42.beta-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  552 K
-PACKAGE SIZE (uncompressed):  2140 K
-PACKAGE DESCRIPTION:
-gnome-tour:
-gnome-tour: GNOME Tour
-gnome-tour:
-gnome-tour: GNOME Tour & Greeter.
-gnome-tour:
-gnome-tour:
-gnome-tour:
-gnome-tour:
-gnome-tour:
-gnome-tour: https://gitlab.gnome.org/GNOME/gnome-tour
-gnome-tour:
-
-PACKAGE NAME:  gnome-tweaks-42.beta-x86_64-1_rtz.tgz
-PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  348 K
+PACKAGE SIZE (compressed):  236 K
 PACKAGE SIZE (uncompressed):  1360 K
 PACKAGE DESCRIPTION:
 gnome-tweaks: GNOME Tweaks
 gnome-tweaks:
 gnome-tweaks: GNOME Tweaks is program used to tweak advanced GNOME settings.
-gnome-tweaks:
-gnome-tweaks:
-gnome-tweaks:
-gnome-tweaks:
-gnome-tweaks:
-gnome-tweaks:
-gnome-tweaks: https://gitlab.gnome.org/GNOME/gnome-tweaks
 gnome-tweaks:
 
 PACKAGE NAME:  gnome-user-docs-42.0-x86_64-1_rtz.tgz
@@ -1092,14 +1308,13 @@ gnome-user-docs:
 PACKAGE NAME:  gnome-video-effects-0.5.0-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  64 K
-PACKAGE SIZE (uncompressed):  260 K
+PACKAGE SIZE (uncompressed):  250 K
 PACKAGE DESCRIPTION:
 gnome-video-effects: gnome-video-effects
 gnome-video-effects:
 gnome-video-effects: The GNOME Video Effects package contains a collection of GStreamer 
 gnome-video-effects: effects.
 gnome-video-effects:
-gnome-video-effects: https://gitlab.gnome.org/GNOME/gnome-video-effects
 
 PACKAGE NAME:  gnome-weather-42.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1118,6 +1333,22 @@ gnome-weather:
 gnome-weather: https://wiki.gnome.org/Apps/Weather
 gnome-weather:
 
+PACKAGE NAME:  gom-0.4-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  780 K
+PACKAGE DESCRIPTION:
+gom: gom (libgom)
+gom:
+gom: An attempt to make a DataMapper for GObject.
+gom:
+gom:
+gom:
+gom:
+gom:
+gom: https://gitlab.gnome.org/GNOME/gom
+gom:
+
 PACKAGE NAME:  grilo-0.3.14-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  328 K
@@ -1128,7 +1359,6 @@ grilo:
 grilo: Grilo is a framework for browsing and searching media content from
 grilo: various sources using a single API.
 grilo:
-grilo: https://gitlab.gnome.org/GNOME/grilo
 
 PACKAGE NAME:  grilo-plugins-0.3.14-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
@@ -1142,6 +1372,23 @@ grilo-plugins: various multimedia content providers.
 grilo-plugins:
 grilo-plugins: https://gitlab.gnome.org/GNOME/grilo-plugins
 grilo-plugins:
+
+PACKAGE NAME:  gsettings-desktop-schemas-42.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  608 K
+PACKAGE SIZE (uncompressed):  4930 K
+PACKAGE DESCRIPTION:
+gsettings-desktop-schemas: gsettings-desktop-schemas (GSettings schemas)
+gsettings-desktop-schemas:
+gsettings-desktop-schemas: gsettings-desktop-schemas contains a collection of GSettings schemas 
+gsettings-desktop-schemas: for settings shared by various components of a desktop.
+gsettings-desktop-schemas:
+gsettings-desktop-schemas: 
+gsettings-desktop-schemas:
+gsettings-desktop-schemas:
+gsettings-desktop-schemas:
+gsettings-desktop-schemas:
+gsettings-desktop-schemas:
 
 PACKAGE NAME:  gsound-1.0.3-x86_64-2_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1177,6 +1424,22 @@ gspell:
 gspell:
 gspell:
 
+PACKAGE NAME:  gtk-frdp-3.37.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+gtk-frdp: gtk-frdp
+gtk-frdp:
+gtk-frdp: A RDP viewer widget for Gtk.
+gtk-frdp:
+gtk-frdp:
+gtk-frdp:
+gtk-frdp:
+gtk-frdp:
+gtk-frdp: https://gitlab.gnome.org/GNOME/gtk-frdp
+gtk-frdp:
+
 PACKAGE NAME:  gtk-vnc-1.3.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  240 K
@@ -1194,10 +1457,10 @@ gtk-vnc:
 gtk-vnc:
 gtk-vnc:
 
-PACKAGE NAME:  gtk4-4.7.0-x86_64-1_rtz.txz
+PACKAGE NAME:  gtk4-4.7.1-x86_64-2_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  11248 K
-PACKAGE SIZE (uncompressed):  66750 K
+PACKAGE SIZE (compressed):  9392 K
+PACKAGE SIZE (uncompressed):  51980 K
 PACKAGE DESCRIPTION:
 gtk4: gtk4 (multi-platform GUI toolkit v4)
 gtk4:
@@ -1244,6 +1507,23 @@ gtksourceview4:
 gtksourceview4: Homepage: http://projects.gnome.org/gtksourceview/
 gtksourceview4:
 gtksourceview4:
+
+PACKAGE NAME:  highlight-4.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  1100 K
+PACKAGE SIZE (uncompressed):  5620 K
+PACKAGE DESCRIPTION:
+highlight: highlight (a universal syntax highlighter)
+highlight:
+highlight: Highlight is a universal converter from source code to HTML, XHTML,
+highlight: RTF, TeX, LaTeX, and XML. (X)HTML output is formatted by Cascading
+highlight: Style Sheets. It supports more than 100 programming languages, and
+highlight: includes 40 highlighting color themes. It's possible to easily
+highlight: enhance the parsing database. The converter includes some features
+highlight: to provide a consistent layout of the input code.
+highlight:
+highlight:
+highlight:
 
 PACKAGE NAME:  jq-1.6-x86_64-2_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1296,6 +1576,23 @@ libadwaita:
 libadwaita: https://gitlab.gnome.org/GNOME/libadwaita 
 libadwaita:
 
+PACKAGE NAME:  libcacard-2.7.0-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  92 K
+PACKAGE SIZE (uncompressed):  360 K
+PACKAGE DESCRIPTION:
+libcacard: libcacard (Virtual Smart Card Emulator library)
+libcacard:
+libcacard: This emulator is designed to provide emulation of actual smart cards
+libcacard: to a virtual card reader running in a guest virtual machine. The
+libcacard: emulates smart cards can be representations of real smart cards, or
+libcacard: the cards could be pure software constructs.
+libcacard:
+libcacard: Homepage: https://www.spice-space.org
+libcacard:
+libcacard:
+libcacard:
+
 PACKAGE NAME:  libchamplain-0.12.20-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  216 K
@@ -1346,6 +1643,24 @@ appname:
 appname: The maximum number of lines prefixed by "appname:" is 11.
 appname: Lines without any other text should *not* have a space after the :
 appname:
+
+PACKAGE NAME:  libdmapsharing3-3.9.10-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  184 K
+PACKAGE SIZE (uncompressed):  1920 K
+PACKAGE DESCRIPTION:
+libdmapsharing3: ( A library that implements the DMAP family of protocols ) 
+libdmapsharing3:
+libdmapsharing3: Libdmapsharing is a library which allows programs to access, share
+libdmapsharing3: and control the playback of media content using DMAP (DAAP, DPAP &
+libdmapsharing3: DACP).
+libdmapsharing3:
+libdmapsharing3:
+libdmapsharing3:
+libdmapsharing3:
+libdmapsharing3:
+libdmapsharing3: http://www.flyn.org/projects/libdmapsharing
+libdmapsharing3:
 
 PACKAGE NAME:  libgdata-0.18.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1441,10 +1756,10 @@ libgusb:
 libgusb: Project URL: https://github.com/hughsie/libgusb
 libgusb:
 
-PACKAGE NAME:  libgweather-4.0.0-x86_64-2_rtz.tgz
+PACKAGE NAME:  libgweather-40.0-x86_64-2_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  8460 K
-PACKAGE SIZE (uncompressed):  23070 K
+PACKAGE SIZE (compressed):  2460 K
+PACKAGE SIZE (uncompressed):  22820 K
 PACKAGE DESCRIPTION:
 libgweather: libgweather (weather library for GNOME)
 libgweather:
@@ -1457,6 +1772,23 @@ libgweather:
 libgweather:
 libgweather:
 libgweather:
+
+PACKAGE NAME:  libgweather4-4.0.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  3612 K
+PACKAGE SIZE (uncompressed):  25390 K
+PACKAGE DESCRIPTION:
+libgweather4: libgweather4 (weather library for GNOME)
+libgweather4:
+libgweather4:
+libgweather4: libgweather is a library to access weather information from online
+libgweather4: services for numerous locations.
+libgweather4:
+libgweather4: https://gitlab.gnome.org/GNOME/libgweather
+libgweather4:
+libgweather4:
+libgweather4:
+libgweather4:
 
 PACKAGE NAME:  libgxps-0.3.2-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1475,10 +1807,10 @@ libgxps:
 libgxps:
 libgxps:
 
-PACKAGE NAME:  libhandy-1.6.2-x86_64-1_rtz.txz
+PACKAGE NAME:  libhandy-1.6.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  432 K
-PACKAGE SIZE (uncompressed):  2590 K
+PACKAGE SIZE (uncompressed):  2600 K
 PACKAGE DESCRIPTION:
 libhandy: libhandy (additional UI components for gtk+3)
 libhandy:
@@ -1491,6 +1823,37 @@ libhandy:
 libhandy:
 libhandy:
 libhandy:
+
+PACKAGE NAME:  libiptcdata-1.0.4-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  92 K
+PACKAGE SIZE (uncompressed):  600 K
+PACKAGE DESCRIPTION:
+libiptcdata: libiptcdata
+libiptcdata:
+libiptcdata: libiptcdata is a library, written in C, for manipulating the
+libiptcdata: International Press Telecommunications Council (IPTC) metadata stored
+libiptcdata: within multimedia files such as images. 
+libiptcdata:
+libiptcdata: http://libiptcdata.sourceforge.net
+libiptcdata:
+
+PACKAGE NAME:  libiscsi-1.19.0-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  128 K
+PACKAGE SIZE (uncompressed):  640 K
+PACKAGE DESCRIPTION:
+libiscsi: libiscsi (client-side library)
+libiscsi:
+libiscsi: Libiscsi is a client-side library to implement the iSCSI protocol that
+libiscsi: can be used to access the resources of an iSCSI target.
+libiscsi:
+libiscsi:
+libiscsi:
+libiscsi:
+libiscsi:
+libiscsi:
+libiscsi:
 
 PACKAGE NAME:  liblouis-3.21.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1509,12 +1872,28 @@ liblouis:
 liblouis: https://github.com/liblouis/liblouis
 liblouis:
 
-PACKAGE NAME:  libmediaart-1.9.5-x86_64-1_rtz.txz
+PACKAGE NAME:  libmanette-0.2.6-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  470 K
+PACKAGE DESCRIPTION:
+libmanette: libmanette
+libmanette:
+libmanette: GObject game controller library
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette: https://gitlab.gnome.org/aplazas/libmanette
+libmanette:
+
+PACKAGE NAME:  libmediaart-1.9.6-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  56 K
 PACKAGE SIZE (uncompressed):  390 K
 PACKAGE DESCRIPTION:
-libmediaart:
 libmediaart: libmediaart
 libmediaart:
 libmediaart: Library tasked with managing, extracting and handling media art
@@ -1526,10 +1905,27 @@ libmediaart:
 libmediaart: https://gitlab.gnome.org/GNOME/libmediaart
 libmediaart:
 
-PACKAGE NAME:  libnma-1.8.38-x86_64-1_rtz.txz
+PACKAGE NAME:  libnfs-5.0.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  156 K
+PACKAGE SIZE (uncompressed):  850 K
+PACKAGE DESCRIPTION:
+libnfs: libnfs (NFS client library)
+libnfs:
+libnfs: LIBNFS is a client library for accessing NFS shares over a network.
+libnfs:
+libnfs: Homepage: https://github.com/sahlberg/libnfs
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+
+PACKAGE NAME:  libnma-1.8.40-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  320 K
-PACKAGE SIZE (uncompressed):  2430 K
+PACKAGE SIZE (uncompressed):  2420 K
 PACKAGE DESCRIPTION:
 libnma: libnma (NetworkManager GUI client library)
 libnma:
@@ -1543,10 +1939,60 @@ libnma:
 libnma:
 libnma:
 
+PACKAGE NAME:  liboauth-1.0.3-x86_64-5_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+liboauth: liboauth (C library implementing OAuth Core RFC 5849)
+liboauth:
+liboauth: liboauth is a collection of POSIX-c functions implementing the OAuth
+liboauth: Core RFC 5849 standard.
+liboauth: liboauth provides functions to escape and encode parameters according
+liboauth: to OAuth specification and offers high-level functionality to sign
+liboauth: requests or verify OAuth signatures as well as perform HTTP requests.
+liboauth:
+liboauth: liboauth depends on either on the OpenSSL library or on NSS
+liboauth: (Mozilla's Network Security Services), which are used for generating
+liboauth: the hash/signature, and optionally libcurl for issuing HTTP requests.
+
+PACKAGE NAME:  libosinfo-1.10.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  380 K
+PACKAGE SIZE (uncompressed):  3530 K
+PACKAGE DESCRIPTION:
+libosinfo: libosinfo (operating systems library)
+libosinfo:
+libosinfo: GObject based library API for managing information about operating
+libosinfo: systems, hypervisors and the (virtual) hardware devices they can
+libosinfo: support. It includes a database containing device metadata and
+libosinfo: provides APIs to match/identify optimal devices for deploying
+libosinfo: an operating system on a hypervisor.
+libosinfo:
+libosinfo: homepage: http://libosinfo.org
+libosinfo:
+libosinfo:
+
+PACKAGE NAME:  libovf-glib-0.1.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+libovf-glib: libgovf
+libovf-glib:
+libovf-glib: a library for reading and writing virtual machine images in
+libovf-glib: the Open Virtualization Format.
+libovf-glib:
+libovf-glib:
+libovf-glib:
+libovf-glib:
+libovf-glib: https://gitlab.gnome.org/felipeborges/libovf-glib
+libovf-glib:
+
 PACKAGE NAME:  libpeas-1.32.0-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  1228 K
-PACKAGE SIZE (uncompressed):  4410 K
+PACKAGE SIZE (compressed):  136 K
+PACKAGE SIZE (uncompressed):  910 K
 PACKAGE DESCRIPTION:
 libpeas: libpeas (GObject Plugin System)
 libpeas:
@@ -1577,6 +2023,23 @@ libportal:
 libportal:
 libportal:
 
+PACKAGE NAME:  libpst-0.6.76-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  832 K
+PACKAGE SIZE (uncompressed):  4180 K
+PACKAGE DESCRIPTION:
+libpst: libpst (MS Outlook Personal Folders converter)
+libpst:
+libpst: The libpst project includes a library and a set of utilities to decode
+libpst: and convert MS Outlook PST files.
+libpst:
+libpst: readpst  - convert PST files to mbox and other formats
+libpst: lspst    - list PST (MS Outlook Personal Folders) file data
+libpst: pst2ldif - extract contacts from a PST file in .ldif format
+libpst: pst2dii  - extract email messages from a PST file in DII load format
+libpst:
+libpst: Homepage: http://www.five-ten-sg.com/libpst/
+
 PACKAGE NAME:  libstemmer-20140325-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  64 K
@@ -1589,6 +2052,74 @@ libstemmer: C project.
 libstemmer:
 libstemmer:
 libstemmer:
+
+PACKAGE NAME:  liburcu-0.13.1-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  132 K
+PACKAGE SIZE (uncompressed):  1050 K
+PACKAGE DESCRIPTION:
+liburcu: liburcu (RCU Library)
+liburcu:
+liburcu: liburcu is a LGPLv2.1 userspace RCU (read-copy-update) library.
+liburcu: This data synchronization library provides read-side access which
+liburcu: scales linearly with the number of cores.
+liburcu:
+liburcu:
+liburcu:
+liburcu: Project URL: http://liburcu.org/
+liburcu:
+liburcu:
+
+PACKAGE NAME:  libvirt-8.1.0-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  7332 K
+PACKAGE SIZE (uncompressed):  44920 K
+PACKAGE DESCRIPTION:
+libvirt: libvirt (The virtualization API)
+libvirt:
+libvirt: libvirt is a toolkit to interact with the virtualization
+libvirt: capabilities of recent versions of Linux (and other OSes).
+libvirt:
+libvirt: Homepage: http://libvirt.org
+libvirt:
+libvirt:
+libvirt:
+libvirt:
+libvirt:
+
+PACKAGE NAME:  libvirt-glib-4.0.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  296 K
+PACKAGE SIZE (uncompressed):  3590 K
+PACKAGE DESCRIPTION:
+libvirt-glib: libvirt-glib (glib wrapper for libvirt)
+libvirt-glib:
+libvirt-glib: libvirt-glib wraps libvirt to provide a high-level object-oriented
+libvirt-glib: API better suited for glib-based applications, via three libraries:
+libvirt-glib:
+libvirt-glib: - libvirt-glib - GLib main loop integration & misc helper APIs
+libvirt-glib: - libvirt-gconfig - GObjects for manipulating libvirt XML documents
+libvirt-glib: - libvirt-gobject - GObjects for managing libvirt objects
+libvirt-glib:
+libvirt-glib: libvirt-glib is Free Software and licenced under LGPLv2+.
+libvirt-glib:
+
+PACKAGE NAME:  libvirt-python-8.1.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  260 K
+PACKAGE SIZE (uncompressed):  1580 K
+PACKAGE DESCRIPTION:
+libvirt-python: libvirt-python (python bindings for libvirt)
+libvirt-python:
+libvirt-python: This package provides a python binding to the libvirt.so,
+libvirt-python: libvirt-qemu.so, and libvirt-lxc.so library APIs.
+libvirt-python:
+libvirt-python:
+libvirt-python:
+libvirt-python:
+libvirt-python:
+libvirt-python:
+libvirt-python:
 
 PACKAGE NAME:  libwnck4-40.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1623,6 +2154,91 @@ libwpe:
 libwpe: Project URL: https://wpewebkit.org/
 libwpe:
 libwpe:
+
+PACKAGE NAME:  lua-5.1.5-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  228 K
+PACKAGE SIZE (uncompressed):  1300 K
+PACKAGE DESCRIPTION:
+lua: lua (a powerful, fast, light-weight, embeddable scripting language)
+lua:
+lua: Lua combines simple procedural syntax with powerful data description
+lua: constructs based on associative arrays and extensible semantics.
+lua: Lua is dynamically typed, runs by interpreting bytecode for a
+lua: register-based virtual machine, and has automatic memory management
+lua: with incremental garbage collection, making it ideal for
+lua: configuration, scripting, and rapid prototyping.
+lua:
+lua:
+lua:
+
+PACKAGE NAME:  lua52-5.2.4-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  168 K
+PACKAGE SIZE (uncompressed):  1020 K
+PACKAGE DESCRIPTION:
+lua52: lua52 (powerful, fast, light-weight, embeddable scripting language)
+lua52:
+lua52: This package contains lua version 5.2.x that won't conflicts with lua
+lua52: version 5.1.x and 5.3.x
+lua52:
+lua52:
+lua52:
+lua52:
+lua52:
+lua52:
+lua52:
+
+PACKAGE NAME:  lua53-5.3.4-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  184 K
+PACKAGE SIZE (uncompressed):  1140 K
+PACKAGE DESCRIPTION:
+lua53: lua53 (powerful, fast, light-weight, embeddable scripting language)
+lua53:
+lua53: This package contains lua version 5.3.x that won't conflicts with lua
+lua53: version 5.1.x and 5.2.x
+lua53:
+lua53:
+lua53:
+lua53:
+lua53:
+lua53:
+lua53:
+
+PACKAGE NAME:  luajit-2.0.5-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  396 K
+PACKAGE SIZE (uncompressed):  2200 K
+PACKAGE DESCRIPTION:
+luajit: luajit (just-in-time compiler for Lua)
+luajit:
+luajit: LuaJIT is a Just-In-Time (JIT) compiler for the Lua programming
+luajit: language.
+luajit:
+luajit:
+luajit:
+luajit:
+luajit:
+luajit: Project Homepage: http://luajit.org/
+luajit:
+
+PACKAGE NAME:  luasocket-3.0.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  148 K
+PACKAGE SIZE (uncompressed):  470 K
+PACKAGE DESCRIPTION:
+luasocket: luasocket (Network support for the Lua language)
+luasocket:
+luasocket: LuaSocket is a Lua extension library that is composed by two parts: a
+luasocket: C core that provides support for the TCP and UDP transport layers,
+luasocket: and a set of Lua modules that add support for functionality commonly
+luasocket: needed by applications that deal with the Internet.
+luasocket:
+luasocket: The library is available under the same terms and conditions as the
+luasocket: Lua language, the MIT license. The idea is that if you can use Lua in
+luasocket: a project, you should also be able to use LuaSocket.
+luasocket:
 
 PACKAGE NAME:  lxml-4.8.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1676,10 +2292,10 @@ mozjs91:
 mozjs91:
 mozjs91:
 
-PACKAGE NAME:  mutter-42.2-x86_64-1_rtz.txz
+PACKAGE NAME:  mutter-42.3-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  2280 K
-PACKAGE SIZE (uncompressed):  14560 K
+PACKAGE SIZE (compressed):  2320 K
+PACKAGE SIZE (uncompressed):  14860 K
 PACKAGE DESCRIPTION:
 mutter:
 mutter: Mutter
@@ -1759,6 +2375,40 @@ orca: See also
 orca: http://wiki.gnome.org/Projects/Orca
 orca:
 
+PACKAGE NAME:  osinfo-db-20220516-noarch-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  120 K
+PACKAGE SIZE (uncompressed):  3690 K
+PACKAGE DESCRIPTION:
+osinfo-db: osinfo-db (operating systems database)
+osinfo-db:
+osinfo-db: The osinfo database provides information about operating systems and
+osinfo-db: hypervisor platforms to facilitate the automated configuration and
+osinfo-db: provisioning of new virtual machines.
+osinfo-db:
+osinfo-db: homepage: http://libosinfo.org
+osinfo-db:
+osinfo-db:
+osinfo-db:
+osinfo-db:
+
+PACKAGE NAME:  osinfo-db-tools-1.10.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  52 K
+PACKAGE SIZE (uncompressed):  240 K
+PACKAGE DESCRIPTION:
+osinfo-db-tools: osinfo-db-tools (operating systems database tools)
+osinfo-db-tools:
+osinfo-db-tools: This package provides tools for managing the osinfo database of
+osinfo-db-tools: information about operating systems for use with virtualization
+osinfo-db-tools:
+osinfo-db-tools: homepage: http://libosinfo.org
+osinfo-db-tools:
+osinfo-db-tools:
+osinfo-db-tools:
+osinfo-db-tools:
+osinfo-db-tools:
+
 PACKAGE NAME:  ostree-2021.3-x86_64-2_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  696 K
@@ -1776,10 +2426,27 @@ ostree:
 ostree:
 ostree:
 
-PACKAGE NAME:  pango-1.50.7-x86_64-1_rtz.txz
+PACKAGE NAME:  p7zip-17.04-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  416 K
-PACKAGE SIZE (uncompressed):  2560 K
+PACKAGE SIZE (compressed):  2332 K
+PACKAGE SIZE (uncompressed):  11770 K
+PACKAGE DESCRIPTION:
+p7zip: p7zip (File Compression/Decompression Utility)
+p7zip:
+p7zip: 7-Zip is a well-known file compression utility for windows.
+p7zip: p7zip is a ported version for linux with nearly the same capabilities.
+p7zip:
+p7zip: Homepage: http://p7zip.sourceforge.net/
+p7zip:
+p7zip:
+p7zip:
+p7zip:
+p7zip:
+
+PACKAGE NAME:  pango-1.50.8-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  420 K
+PACKAGE SIZE (uncompressed):  2570 K
 PACKAGE DESCRIPTION:
 pango: pango (library for layout and rendering of text)
 pango:
@@ -1792,6 +2459,74 @@ pango:
 pango:
 pango:
 pango:
+
+PACKAGE NAME:  pcsc-lite-1.9.4-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  372 K
+PACKAGE SIZE (uncompressed):  2040 K
+PACKAGE DESCRIPTION:
+pcsc-lite: pcsc-lite (Middleware to access a smart card using SCard API)
+pcsc-lite:
+pcsc-lite: Middleware to access a smart card using SCard API (PC/SC)
+pcsc-lite: Its purpose is to provide a Windows(R) SCard interface in a
+pcsc-lite: very small form factor for communicating to smart cards and
+pcsc-lite: readers.
+pcsc-lite:
+pcsc-lite: Homepage: https://pcsclite.apdu.fr/
+pcsc-lite:
+pcsc-lite:
+pcsc-lite:
+
+PACKAGE NAME:  polkit-0.120-x86_64-3_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  396 K
+PACKAGE SIZE (uncompressed):  2130 K
+PACKAGE DESCRIPTION:
+polkit: polkit (authentication framework)
+polkit: 
+polkit: PolicyKit is an application-level toolkit for defining and handling
+polkit: the policy that allows unprivileged processes to speak to privileged
+polkit: processes. PolicyKit is specifically targeting applications in rich
+polkit: desktop environments on multi-user UNIX-like operating systems.
+polkit:
+polkit: Homepage: http://www.freedesktop.org/wiki/Software/polkit
+polkit:
+polkit:
+polkit:
+
+PACKAGE NAME:  power-profiles-daemon-0.12-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  150 K
+PACKAGE DESCRIPTION:
+power-profiles-daemon: power-profiles-daemon
+power-profiles-daemon:
+power-profiles-daemon: power-profiles-daemon offers to modify system behaviour based upon 
+power-profiles-daemon: user-selected power profiles. There are 3 different 
+power-profiles-daemon: power profiles, a "balanced" default mode. The first 2 of those
+power-profiles-daemon: are available on every system.The "performance"mode is only available
+power-profiles-daemon: on select systems and is implemented by
+power-profiles-daemon:
+power-profiles-daemon: different "drivers" based on the system or systems it targets.
+power-profiles-daemon: https://gitlab.freedesktop.org/hadess/power-profiles-daemon
+power-profiles-daemon:
+
+PACKAGE NAME:  psutil-5.6.7-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  464 K
+PACKAGE SIZE (uncompressed):  3310 K
+PACKAGE DESCRIPTION:
+psutil: psutil (python interface for process and system info)
+psutil:
+psutil: psutil is a module providing an interface for retrieving information
+psutil: on all running processes and system utilization (CPU, memory, disks,
+psutil: network, users) in a portable way by using Python, implementing many
+psutil: functionalities offered by command line tools such as: ps, top, df,
+psutil: kill, free, lsof, netstat, ifconfig, nice, ionice, iostat, iotop,
+psutil: uptime, pidof, tty, who, taskset, and pmap
+psutil:
+psutil: Homepage: http://code.google.com/p/psutil/
+psutil:
 
 PACKAGE NAME:  python-toml-0.10.2-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1810,6 +2545,58 @@ python-toml:
 python-toml:
 python-toml:
 
+PACKAGE NAME:  python-wheel-0.37.1-x86_64-1__rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  80 K
+PACKAGE SIZE (uncompressed):  620 K
+PACKAGE DESCRIPTION:
+python-wheel: python-wheel ( A built-package format for Python )
+python-wheel:
+python-wheel:
+python-wheel:
+python-wheel: https://pypi.python.org/pypi/wheel
+python-wheel:
+
+PACKAGE NAME:  python3-dbusmock-0.28.3-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  440 K
+PACKAGE DESCRIPTION:
+python3-dbusmock: python3-dbusmock
+python3-dbusmock:
+python3-dbusmock: dbusmock is a Python library useful for writing tests for software
+python3-dbusmock: which talks to D-Bus services.
+python3-dbusmock:
+
+PACKAGE NAME:  qemu-6.2.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  67592 K
+PACKAGE SIZE (uncompressed):  1005490 K
+PACKAGE DESCRIPTION:
+qemu: qemu (open source processor emulator)
+qemu:
+qemu: QEMU is a generic and open source processor emulator which achieves
+qemu: a good emulation speed by using dynamic translation.
+qemu:
+qemu:
+qemu:
+qemu:
+qemu:
+qemu:
+qemu:
+
+PACKAGE NAME:  qqwing-1.3.4-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  130 K
+PACKAGE DESCRIPTION:
+qqwing: qqwing ( Sudoku generating and solving software )
+qqwing:
+qqwing:
+qqwing:
+qqwing: https://qqwing.com/
+qqwing:
+
 PACKAGE NAME:  rest-0.8.1-x86_64-2_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  144 K
@@ -1826,6 +2613,23 @@ rest:
 rest:
 rest:
 rest:
+
+PACKAGE NAME:  retro-gtk-1.0.2-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  188 K
+PACKAGE SIZE (uncompressed):  1410 K
+PACKAGE DESCRIPTION:
+retro-gtk: retro-gtk
+retro-gtk:
+retro-gtk: Toolkit to write Gtk+ 3 based libretro frontends.
+retro-gtk:
+retro-gtk:
+retro-gtk:
+retro-gtk:
+retro-gtk:
+retro-gtk:
+retro-gtk: https://git.gnome.org/browse/retro-gtk/
+retro-gtk:
 
 PACKAGE NAME:  seahorse-42.0-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
@@ -1844,22 +2648,111 @@ seahorse:
 seahorse:
 seahorse:
 
-PACKAGE NAME:  simple-scan-42.0-x86_64-1_rtz.txz
+PACKAGE NAME:  smartypants-2.0.1-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  928 K
-PACKAGE SIZE (uncompressed):  5340 K
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  110 K
 PACKAGE DESCRIPTION:
-simple-scan:
-simple-scan: simple-scan (Document Scanner)
-simple-scan:
-simple-scan: Simple Scan allows you to capture images using image scanners.
-simple-scan:
-simple-scan:
-simple-scan:
-simple-scan:
-simple-scan:
-simple-scan: https://gitlab.gnome.org/GNOME/simple-scan
-simple-scan:
+smartypants: smartypants
+smartypants:
+smartypants: ASCII quote-dot-dash to HTML entity converter.
+smartypants:
+
+PACKAGE NAME:  snappy-1.1.8-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+snappy: snappy (A fast compressor/decompressor)
+snappy:
+snappy: Snappy is a compression/decompression library. It does not aim for
+snappy: maximum compression, or compatibility with any other compression
+snappy: library; instead, it aims for very high speeds and reasonable
+snappy: compression. For instance, compared to the fastest mode of zlib,
+snappy: Snappy is an order of magnitude faster for most inputs, but the
+snappy: resulting compressed files are anywhere from 20% to 100% bigger.
+snappy:
+snappy:
+snappy:
+
+PACKAGE NAME:  sphinx_rtd_theme-0.4.2-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  408 K
+PACKAGE SIZE (uncompressed):  2260 K
+PACKAGE DESCRIPTION:
+sphinx_rtd_theme: sphinx_rtd_theme (sphinx theme for readthedocs.org)
+sphinx_rtd_theme:
+sphinx_rtd_theme: The sphinx_rtd_theme is a sphinx theme designed to look modern and
+sphinx_rtd_theme: be mobile-friendly. This theme is primary focused to be used on
+sphinx_rtd_theme: readthedocs.org but can work with your own sphinx projects.
+sphinx_rtd_theme:
+sphinx_rtd_theme: Homepage: https://github.com/rtfd/sphinx_rtd_theme
+sphinx_rtd_theme:
+sphinx_rtd_theme:
+sphinx_rtd_theme:
+sphinx_rtd_theme:
+
+PACKAGE NAME:  spice-0.15.0-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  356 K
+PACKAGE SIZE (uncompressed):  1330 K
+PACKAGE DESCRIPTION:
+spice: spice (remote computing solution)
+spice:
+spice: Spice is an open remote computing solution, providing client access to
+spice: remote machine display and devices (e.g., keyboard, mouse, audio).
+spice: Spice achieves a user experience similar to an interaction with a
+spice: local machine, while trying to offload most of the intensive CPU and
+spice: GPU tasks to the client. Spice is suitable for both LAN and WAN usage,
+spice: without compromising on the user experience.
+spice:
+spice: spice homepage: https://www.spice-space.org
+spice:
+
+PACKAGE NAME:  spice-gtk-0.41-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  472 K
+PACKAGE SIZE (uncompressed):  3310 K
+PACKAGE DESCRIPTION:
+spice-gtk: spice-gtk (spice gtk client/libraries)
+spice-gtk:
+spice-gtk: A Gtk client and libraries for spice remote desktop servers.
+spice-gtk:
+spice-gtk: Homepage: https://www.spice-space.org
+spice-gtk:
+spice-gtk:
+spice-gtk:
+spice-gtk:
+spice-gtk:
+spice-gtk:
+
+PACKAGE NAME:  spice-protocol-0.14.4-noarch-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  130 K
+PACKAGE DESCRIPTION:
+spice-protocol: spice-protocol (spice protocol headers)
+spice-protocol:
+spice-protocol: Spice protocol defines a set of protocol messages for accessing,
+spice-protocol: controlling, and receiving inputs from remote computing devices (e.g.,
+spice-protocol: keyboard, video, mouse) across networks, and sending output to them.
+spice-protocol: These are the protocol header files.
+spice-protocol:
+spice-protocol: homepage: https://www.spice-space.org
+spice-protocol:
+spice-protocol:
+spice-protocol:
+
+PACKAGE NAME:  sysprof-3.44.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  468 K
+PACKAGE SIZE (uncompressed):  2620 K
+PACKAGE DESCRIPTION:
+sysprof: sysprof
+sysprof:
+sysprof: The sysprof package contains a statistical and system-wide profiler
+sysprof: for Linux. 
+sysprof:
 
 PACKAGE NAME:  telepathy-glib-0.24.2-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
@@ -1929,18 +2822,58 @@ tracker: two big benefits for the desktop; shared data between applications
 tracker: and information which is relational to other information (e.g. mixing
 tracker: contacts with files, locations, activities and etcetera).
 
-PACKAGE NAME:  tracker-miners-3.3.0-x86_64-1_rtz.txz
+PACKAGE NAME:  tracker-miners2-2.3.5-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  832 K
-PACKAGE SIZE (uncompressed):  5010 K
+PACKAGE SIZE (compressed):  640 K
+PACKAGE SIZE (uncompressed):  3670 K
 PACKAGE DESCRIPTION:
-tracker-miners: tracker-miners
-tracker-miners:
-tracker-miners: The Tracker-miners package contains a set of data extractors 
-tracker-miners: for Tracker.  
-tracker-miners: 
-tracker-miners: https://gitlab.gnome.org/GNOME/tracker-miners 
-tracker-miners:
+tracker-miners2: tracker-miners2 ( Collection of data extractors for Tracker/Nepomuk )
+tracker-miners2:
+tracker-miners2: The Tracker-miners package contains a set of data extractors for
+tracker-miners2: Tracker.
+tracker-miners2:
+tracker-miners2:
+tracker-miners2:
+tracker-miners2:
+tracker-miners2: https://gitlab.gnome.org/GNOME/tracker-miners
+tracker-miners2:
+
+PACKAGE NAME:  tracker-miners3-3.3.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  736 K
+PACKAGE SIZE (uncompressed):  4510 K
+PACKAGE DESCRIPTION:
+tracker-miners3: tracker-miners3 ( Set of data extractors for Tracker )
+tracker-miners3:
+tracker-miners3: The Tracker-miners package contains a set of data extractors for
+tracker-miners3: Tracker.
+tracker-miners3:
+tracker-miners3:
+tracker-miners3:
+tracker-miners3:
+tracker-miners3: https://gitlab.gnome.org/GNOME/tracker-miners
+tracker-miners3:
+
+PACKAGE NAME:  tracker2-2.3.6-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  1152 K
+PACKAGE SIZE (uncompressed):  8330 K
+PACKAGE DESCRIPTION:
+tracker2: tracker2 (semantic data storage search engine)
+tracker2:
+tracker2: Tracker is a search engine and that allows the user to find their
+tracker2: data as fast as possible. Users can search for their files and search
+tracker2: for content in their files too. Tracker is a semantic data storage
+tracker2: for desktop and mobile devices. Tracker uses W3C standards for RDF
+tracker2: ontologies using Nepomuk with SPARQL to query and update the data.
+tracker2: Tracker is a central repository of user information, that provides
+tracker2: two big benefits for the desktop; shared data between applications
+tracker2: and information which is relational to other information (e.g. mixing
+tracker2: contacts with files, locations, activities and etcetera).
+tracker2: 
+tracker2: 
+tracker2: https://wiki.gnome.org/Projects/Tracker 
+tracker2: 
 
 PACKAGE NAME:  typogrify-2.0.7-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1959,10 +2892,23 @@ python-typogrify:
 python-typogrify: https://pypi.org/project/typogrify/
 python-typogrify:
 
-PACKAGE NAME:  upower-v0.99.17-x86_64-1_rtz.txz
+PACKAGE NAME:  umockdev-0.17.13-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  160 K
-PACKAGE SIZE (uncompressed):  1050 K
+PACKAGE SIZE (compressed):  132 K
+PACKAGE SIZE (uncompressed):  600 K
+PACKAGE DESCRIPTION:
+umockdev: umockdev ( hardware devices for bug reports and regression tests )
+umockdev:
+umockdev: Record/mock hardware devices for bug reports and regression tests
+umockdev:
+umockdev:
+umockdev: https://github.com/martinpitt/umockdev
+umockdev:
+
+PACKAGE NAME:  upower-0.99.19-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  128 K
+PACKAGE SIZE (uncompressed):  850 K
 PACKAGE DESCRIPTION:
 upower: UPower (power management abstraction daemon)
 upower:
@@ -1975,6 +2921,40 @@ upower:
 upower: Homepage: http://upower.freedesktop.org/
 upower:
 upower:
+
+PACKAGE NAME:  usbredir-0.12.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  56 K
+PACKAGE SIZE (uncompressed):  240 K
+PACKAGE DESCRIPTION:
+usbredir: usbredir (usb redirection protocol)
+usbredir:
+usbredir: usbredir is a protocol for redirection USB traffic from a single USB
+usbredir: device, to a different (virtual) machine then the one to which the
+usbredir: USB device is attached.
+usbredir: This package contains usbredirparser, usbredirhost and usbredirserver.
+usbredir:
+usbredir: homepage: https://www.spice-space.org
+usbredir:
+usbredir:
+usbredir:
+
+PACKAGE NAME:  vde2-2.3.2-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  208 K
+PACKAGE SIZE (uncompressed):  950 K
+PACKAGE DESCRIPTION:
+vde2: vde2 (Virtual Distributed Ethernet)
+vde2:
+vde2: VDE is an ethernet compliant virtual network which includes tools such
+vde2: as 'vde_switch' and 'vdeqemu'. VDE switch has several virtual ports
+vde2: where virtual machines, applications, virtual interfaces and
+vde2: connectivity tools can be virtually plugged in. VDE qemu works as a
+vde2: wrapper for running qemu/kvm virtual machines that connects
+vde2: transparently to a specified vde_switch
+vde2:
+vde2: Homepage: http://vde.sourceforge.net
+vde2:
 
 PACKAGE NAME:  vinagre-3.22.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
@@ -1993,9 +2973,26 @@ vinagre:
 vinagre: https://gitlab.gnome.org/GNOME/vinagre 
 vinagre:
 
+PACKAGE NAME:  virglrenderer-0.9.1-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  188 K
+PACKAGE SIZE (uncompressed):  560 K
+PACKAGE DESCRIPTION:
+virglrenderer: virglrenderer (virtio GL library)
+virglrenderer:
+virglrenderer: virglrenderer is GL renderer library based on virtio.
+virglrenderer:
+virglrenderer: homepage: https://virgil3d.github.io
+virglrenderer:
+virglrenderer:
+virglrenderer:
+virglrenderer:
+virglrenderer:
+virglrenderer:
+
 PACKAGE NAME:  webkit2gtk-2.36.1-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
-PACKAGE SIZE (compressed):  41236 K
+PACKAGE SIZE (compressed):  41240 K
 PACKAGE SIZE (uncompressed):  136390 K
 PACKAGE DESCRIPTION:
 webkit2gtk: webkit2gtk (Web content rendering)
@@ -2027,7 +3024,7 @@ wpebackend-fdo:
 wpebackend-fdo: Project URL: https://wpewebkit.org/
 wpebackend-fdo:
 
-PACKAGE NAME:  xdg-dbus-proxy-0.1.3-x86_64-1_rtz.txz
+PACKAGE NAME:  xdg-dbus-proxy-0.1.4-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  32 K
 PACKAGE SIZE (uncompressed):  100 K
@@ -2078,6 +3075,40 @@ xdg-desktop-portal-gtk:
 xdg-desktop-portal-gtk:
 xdg-desktop-portal-gtk:
 
+PACKAGE NAME:  yajl-2.1.0-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  250 K
+PACKAGE DESCRIPTION:
+yajl: yajl (Yet Another JSON Library)
+yajl:
+yajl: YAJL is a small event-driven (SAX-style) JSON parser written in
+yajl: ANSI C, and a small validating JSON generator. YAJL is released under
+yajl: the ISC license.
+yajl:
+yajl:
+yajl:
+yajl:
+yajl: http://lloyd.github.com/yajl/
+yajl:
+
+PACKAGE NAME:  yelp-42.1-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  836 K
+PACKAGE SIZE (uncompressed):  3310 K
+PACKAGE DESCRIPTION:
+yelp: yelp (Yelp Help Browser)
+yelp:
+yelp: yelp allows you to view documentation regarding GNOME and other
+yelp: components through a variety of formats
+yelp:
+yelp:
+yelp:
+yelp:
+yelp:
+yelp: Homepage: http://projects.gnome.org/yelp/
+yelp:
+
 PACKAGE NAME:  yelp-tools-42.0-x86_64-1_rtz.tgz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  36 K
@@ -2112,10 +3143,27 @@ yelp-xsl:
 yelp-xsl: Homepage: http://projects.gnome.org/yelp/
 yelp-xsl:
 
-PACKAGE NAME:  zenity-3.43.0-x86_64-1_rtz.txz
+PACKAGE NAME:  ytnef-2.0-x86_64-1_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  52 K
+PACKAGE SIZE (uncompressed):  250 K
+PACKAGE DESCRIPTION:
+ytnef: ytnef (Yerase's TNEF Stream Reader)
+ytnef:
+ytnef: Yerase's TNEF Stream Reader allows you to decode application/ms-tnef 
+ytnef: e-mail attachments, which are usually entitled "winmail.dat" and are
+ytnef: generally a file container format that is only readable by Microsoft
+ytnef: Outlook. Some TNEF streams also include RTF-formatted data.
+ytnef:
+ytnef: https://github.com/Yeraze/ytnef
+ytnef:
+ytnef:
+ytnef:
+
+PACKAGE NAME:  zenity-3.42.1-x86_64-1_rtz.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  2960 K
-PACKAGE SIZE (uncompressed):  11790 K
+PACKAGE SIZE (uncompressed):  11780 K
 PACKAGE DESCRIPTION:
 zenity: zenity (display gtk dialog boxes from cli)
 zenity:

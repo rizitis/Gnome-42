@@ -1,0 +1,17 @@
+PACKAGE NAME:  libcacard-2.7.0-x86_64-2_rtz.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  92 K
+PACKAGE SIZE (uncompressed):  360 K
+PACKAGE DESCRIPTION:
+libcacard: libcacard (Virtual Smart Card Emulator library)
+libcacard:
+libcacard: This emulator is designed to provide emulation of actual smart cards
+libcacard: to a virtual card reader running in a guest virtual machine. The
+libcacard: emulates smart cards can be representations of real smart cards, or
+libcacard: the cards could be pure software constructs.
+libcacard:
+libcacard: Homepage: https://www.spice-space.org
+libcacard:
+libcacard:
+libcacard:
+

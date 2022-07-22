@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./libovf-glib-0.1.0-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 15:33 ./
+drwxr-xr-x root/root         0 2022-07-18 15:33 install/
+-rw-r--r-- root/root       769 2022-07-18 15:33 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/doc/libovf-glib-0.1.0/
+-rw-r--r-- root/root        34 2022-07-17 15:24 usr/doc/libovf-glib-0.1.0/AUTHORS
+-rw-r--r-- root/root     26521 2022-07-17 15:24 usr/doc/libovf-glib-0.1.0/COPYING
+-rw-r--r-- root/root         0 2022-07-17 15:24 usr/doc/libovf-glib-0.1.0/NEWS
+-rw-r--r-- root/root       103 2022-07-17 15:24 usr/doc/libovf-glib-0.1.0/README
+-rw-r--r-- root/root      3325 2022-07-18 15:33 usr/doc/libovf-glib-0.1.0/libovf-glib.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/include/govf/
+-rw-r--r-- root/root      1728 2022-07-17 15:24 usr/include/govf/govf-disk.h
+-rw-r--r-- root/root      2664 2022-07-17 15:24 usr/include/govf/govf-package.h
+-rw-r--r-- root/root       991 2022-07-17 15:24 usr/include/govf/govf.h
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      2844 2022-07-18 15:33 usr/lib64/girepository-1.0/Govf-0.1.typelib
+-rwxr-xr-x root/root     22984 2022-07-18 15:33 usr/lib64/libgovf-0.1.so
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       212 2022-07-18 15:33 usr/lib64/pkgconfig/govf-0.1.pc
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/share/gir-1.0/
+-rw-r--r-- root/root     22955 2022-07-18 15:33 usr/share/gir-1.0/Govf-0.1.gir
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/share/vala/
+drwxr-xr-x root/root         0 2022-07-18 15:33 usr/share/vala/vapi/
+-rw-r--r-- root/root         8 2022-07-18 15:33 usr/share/vala/vapi/govf-0.1.deps
+-rw-r--r-- root/root      1559 2022-07-18 15:33 usr/share/vala/vapi/govf-0.1.vapi
+
+

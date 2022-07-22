@@ -1,0 +1,12 @@
+libdmapsharing3: ( A library that implements the DMAP family of protocols ) 
+libdmapsharing3:
+libdmapsharing3: Libdmapsharing is a library which allows programs to access, share
+libdmapsharing3: and control the playback of media content using DMAP (DAAP, DPAP &
+libdmapsharing3: DACP).
+libdmapsharing3:
+libdmapsharing3:
+libdmapsharing3:
+libdmapsharing3:
+libdmapsharing3:
+libdmapsharing3: http://www.flyn.org/projects/libdmapsharing
+libdmapsharing3:

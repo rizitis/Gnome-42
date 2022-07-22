@@ -1,0 +1,11 @@
+highlight: highlight (a universal syntax highlighter)
+highlight:
+highlight: Highlight is a universal converter from source code to HTML, XHTML,
+highlight: RTF, TeX, LaTeX, and XML. (X)HTML output is formatted by Cascading
+highlight: Style Sheets. It supports more than 100 programming languages, and
+highlight: includes 40 highlighting color themes. It's possible to easily
+highlight: enhance the parsing database. The converter includes some features
+highlight: to provide a consistent layout of the input code.
+highlight:
+highlight:
+highlight:

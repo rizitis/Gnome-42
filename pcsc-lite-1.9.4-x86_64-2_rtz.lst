@@ -1,0 +1,57 @@
+++========================================
+||
+||   Package:  ./pcsc-lite-1.9.4-x86_64-2_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:12 ./
+drwxr-xr-x root/root         0 2022-07-18 13:12 etc/
+drwxr-xr-x root/root         0 2022-07-18 13:12 etc/rc.d/
+-rwxr-xr-x root/root      1078 2022-07-18 13:12 etc/rc.d/rc.pcscd.new
+drwxr-xr-x root/root         0 2022-07-18 13:12 install/
+-rw-r--r-- root/root      1011 2022-07-18 13:12 install/doinst.sh
+-rw-r--r-- root/root       896 2022-07-18 13:12 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/bin/
+-rwxr-xr-x root/root     34692 2022-07-18 13:12 usr/bin/pcsc-spy
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/doc/pcsc-lite-1.9.4/
+-rw-r--r-- root/root       250 2020-08-05 14:01 usr/doc/pcsc-lite-1.9.4/AUTHORS
+-rw-r--r-- root/root      4620 2020-08-05 14:01 usr/doc/pcsc-lite-1.9.4/COPYING
+-rw-r--r-- root/root     79671 2021-10-01 19:00 usr/doc/pcsc-lite-1.9.4/ChangeLog
+-rw-r--r-- root/root   1629861 2021-10-01 19:01 usr/doc/pcsc-lite-1.9.4/ChangeLog.git
+-rw-r--r-- root/root       463 2020-08-05 14:01 usr/doc/pcsc-lite-1.9.4/HELP
+-rw-r--r-- root/root     15756 2020-08-05 18:19 usr/doc/pcsc-lite-1.9.4/INSTALL
+-rw-r--r-- root/root        34 2020-08-05 14:01 usr/doc/pcsc-lite-1.9.4/NEWS
+-rw-r--r-- root/root      1659 2022-07-18 13:12 usr/doc/pcsc-lite-1.9.4/README.SLACKWARE
+-rw-r--r-- root/root      1416 2022-07-18 13:12 usr/doc/pcsc-lite-1.9.4/README.polkit
+-rw-r--r-- root/root       586 2020-08-05 14:01 usr/doc/pcsc-lite-1.9.4/SECURITY
+-rw-r--r-- root/root       358 2020-08-05 14:01 usr/doc/pcsc-lite-1.9.4/TODO
+-rw-r--r-- root/root      6026 2022-07-18 13:12 usr/doc/pcsc-lite-1.9.4/pcsc-lite.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/include/PCSC/
+-rw-r--r-- root/root      4964 2022-07-18 13:12 usr/include/PCSC/debuglog.h
+-rw-r--r-- root/root     30508 2022-07-18 13:12 usr/include/PCSC/ifdhandler.h
+-rw-r--r-- root/root     15633 2022-07-18 13:12 usr/include/PCSC/pcsclite.h
+-rw-r--r-- root/root     15605 2022-07-18 13:12 usr/include/PCSC/reader.h
+-rw-r--r-- root/root      4151 2022-07-18 13:12 usr/include/PCSC/winscard.h
+-rw-r--r-- root/root      3115 2022-07-18 13:12 usr/include/PCSC/wintypes.h
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/lib64/
+-rwxr-xr-x root/root     47360 2022-07-18 13:12 usr/lib64/libpcsclite.so.1.0.0
+-rwxr-xr-x root/root     22760 2022-07-18 13:12 usr/lib64/libpcscspy.so.0.0.0
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/lib64/pcsc/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/lib64/pcsc/drivers/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/lib64/pcsc/services/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       312 2022-07-18 13:12 usr/lib64/pkgconfig/libpcsclite.pc
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/man/man1/
+-rw-r--r-- root/root       601 2022-07-18 13:12 usr/man/man1/formaticc.1.gz
+-rw-r--r-- root/root      3105 2022-07-18 13:12 usr/man/man1/pcsc-spy.1.gz
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/man/man5/
+-rw-r--r-- root/root      1209 2022-07-18 13:12 usr/man/man5/reader.conf.5.gz
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/man/man8/
+-rw-r--r-- root/root      1566 2022-07-18 13:12 usr/man/man8/pcscd.8.gz
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/sbin/
+-rwxr-xr-x root/root    122552 2022-07-18 13:12 usr/sbin/pcscd
+
+

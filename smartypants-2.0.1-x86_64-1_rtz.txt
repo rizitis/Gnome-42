@@ -1,0 +1,4 @@
+smartypants: smartypants
+smartypants:
+smartypants: ASCII quote-dot-dash to HTML entity converter.
+smartypants:

@@ -1,0 +1,6 @@
+qqwing: qqwing ( Sudoku generating and solving software )
+qqwing:
+qqwing:
+qqwing:
+qqwing: https://qqwing.com/
+qqwing:

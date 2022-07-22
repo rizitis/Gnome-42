@@ -1,0 +1,15 @@
+tracker2: tracker2 (semantic data storage search engine)
+tracker2:
+tracker2: Tracker is a search engine and that allows the user to find their
+tracker2: data as fast as possible. Users can search for their files and search
+tracker2: for content in their files too. Tracker is a semantic data storage
+tracker2: for desktop and mobile devices. Tracker uses W3C standards for RDF
+tracker2: ontologies using Nepomuk with SPARQL to query and update the data.
+tracker2: Tracker is a central repository of user information, that provides
+tracker2: two big benefits for the desktop; shared data between applications
+tracker2: and information which is relational to other information (e.g. mixing
+tracker2: contacts with files, locations, activities and etcetera).
+tracker2: 
+tracker2: 
+tracker2: https://wiki.gnome.org/Projects/Tracker 
+tracker2: 

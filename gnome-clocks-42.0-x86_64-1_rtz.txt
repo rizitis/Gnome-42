@@ -1,0 +1,10 @@
+gnome-clocks: GNOME Clocks
+gnome-clocks:
+gnome-clocks: Clock application designed for GNOME.
+gnome-clocks:
+gnome-clocks:
+gnome-clocks:
+gnome-clocks:
+gnome-clocks:
+gnome-clocks: https://wiki.gnome.org/Apps/Clocks
+gnome-clocks:

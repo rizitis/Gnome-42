@@ -1,0 +1,10 @@
+libovf-glib: libgovf
+libovf-glib:
+libovf-glib: a library for reading and writing virtual machine images in
+libovf-glib: the Open Virtualization Format.
+libovf-glib:
+libovf-glib:
+libovf-glib:
+libovf-glib:
+libovf-glib: https://gitlab.gnome.org/felipeborges/libovf-glib
+libovf-glib:

@@ -1,0 +1,76 @@
+++========================================
+||
+||   Package:  ./gom-0.4-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 15:40 ./
+drwxr-xr-x root/root         0 2022-07-18 15:40 install/
+-rw-r--r-- root/root       807 2022-07-18 15:40 install/doinst.sh
+-rw-r--r-- root/root       636 2022-07-18 15:40 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/doc/gom-0.4/
+-rw-r--r-- root/root        40 2020-02-17 21:00 usr/doc/gom-0.4/AUTHORS
+-rw-r--r-- root/root     26530 2020-02-17 21:00 usr/doc/gom-0.4/COPYING
+-rw-r--r-- root/root       137 2020-02-17 21:00 usr/doc/gom-0.4/ChangeLog
+-rw-r--r-- root/root      1723 2020-02-17 21:00 usr/doc/gom-0.4/NEWS
+-rw-r--r-- root/root       425 2020-02-17 21:00 usr/doc/gom-0.4/README
+-rw-r--r-- root/root      1362 2020-02-17 21:00 usr/doc/gom-0.4/TODO
+-rw-r--r-- root/root      3192 2022-07-18 15:40 usr/doc/gom-0.4/gom.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/include/gom-1.0/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/include/gom-1.0/gom/
+-rw-r--r-- root/root      3995 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-adapter.h
+-rw-r--r-- root/root      1512 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-autocleanups.h
+-rw-r--r-- root/root      2875 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-command-builder.h
+-rw-r--r-- root/root      4056 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-command.h
+-rw-r--r-- root/root      3363 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-cursor.h
+-rw-r--r-- root/root      1253 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-error.h
+-rw-r--r-- root/root      5204 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-filter.h
+-rw-r--r-- root/root      7912 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-repository.h
+-rw-r--r-- root/root      4937 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-resource-group.h
+-rw-r--r-- root/root      8614 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-resource.h
+-rw-r--r-- root/root      2820 2020-02-17 21:00 usr/include/gom-1.0/gom/gom-sorting.h
+-rw-r--r-- root/root      1169 2020-02-17 21:00 usr/include/gom-1.0/gom/gom.h
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root     16972 2022-07-18 15:40 usr/lib64/girepository-1.0/Gom-1.0.typelib
+-rwxr-xr-x root/root    139304 2022-07-18 15:40 usr/lib64/libgom-1.0.so.0.1.0
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       203 2022-07-18 15:40 usr/lib64/pkgconfig/gom-1.0.pc
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/python3.9/site-packages/gi/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/lib64/python3.9/site-packages/gi/overrides/
+-rw-r--r-- root/root      1611 2020-02-17 21:00 usr/lib64/python3.9/site-packages/gi/overrides/Gom.py
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/share/gir-1.0/
+-rw-r--r-- root/root    153889 2022-07-18 15:40 usr/share/gir-1.0/Gom-1.0.gir
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-07-18 15:40 usr/share/gtk-doc/html/gom/
+-rw-r--r-- root/root     22669 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomAdapter.html
+-rw-r--r-- root/root     16470 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomCommand.html
+-rw-r--r-- root/root     24608 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomCommandBuilder.html
+-rw-r--r-- root/root     15392 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomCursor.html
+-rw-r--r-- root/root     37155 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomFilter.html
+-rw-r--r-- root/root     53575 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomRepository.html
+-rw-r--r-- root/root     41204 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomResource.html
+-rw-r--r-- root/root     29453 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomResourceGroup.html
+-rw-r--r-- root/root     16884 2022-07-18 15:40 usr/share/gtk-doc/html/gom/GomSorting.html
+-rw-r--r-- root/root      4909 2022-07-18 15:40 usr/share/gtk-doc/html/gom/annotation-glossary.html
+-rw-r--r-- root/root     43917 2022-07-18 15:40 usr/share/gtk-doc/html/gom/api-index-full.html
+-rw-r--r-- root/root      2715 2022-07-18 15:40 usr/share/gtk-doc/html/gom/ch01.html
+-rw-r--r-- root/root     20516 2022-07-18 15:40 usr/share/gtk-doc/html/gom/gom.devhelp2
+-rw-r--r-- root/root       256 2022-07-18 15:40 usr/share/gtk-doc/html/gom/home.png
+-rw-r--r-- root/root      3662 2022-07-18 15:40 usr/share/gtk-doc/html/gom/index.html
+-rw-r--r-- root/root       395 2022-07-18 15:40 usr/share/gtk-doc/html/gom/left-insensitive.png
+-rw-r--r-- root/root       262 2022-07-18 15:40 usr/share/gtk-doc/html/gom/left.png
+-rw-r--r-- root/root      2912 2022-07-18 15:40 usr/share/gtk-doc/html/gom/object-tree.html
+-rw-r--r-- root/root       373 2022-07-18 15:40 usr/share/gtk-doc/html/gom/right-insensitive.png
+-rw-r--r-- root/root       261 2022-07-18 15:40 usr/share/gtk-doc/html/gom/right.png
+-rw-r--r-- root/root     12017 2022-07-18 15:40 usr/share/gtk-doc/html/gom/style.css
+-rw-r--r-- root/root       374 2022-07-18 15:40 usr/share/gtk-doc/html/gom/up-insensitive.png
+-rw-r--r-- root/root       260 2022-07-18 15:40 usr/share/gtk-doc/html/gom/up.png
+
+

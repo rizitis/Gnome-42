@@ -1,0 +1,11 @@
+libgweather4: libgweather4 (weather library for GNOME)
+libgweather4:
+libgweather4:
+libgweather4: libgweather is a library to access weather information from online
+libgweather4: services for numerous locations.
+libgweather4:
+libgweather4: https://gitlab.gnome.org/GNOME/libgweather
+libgweather4:
+libgweather4:
+libgweather4:
+libgweather4:

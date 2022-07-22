@@ -1,0 +1,38 @@
+++========================================
+||
+||   Package:  ./libcacard-2.7.0-x86_64-2_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:12 ./
+drwxr-xr-x root/root         0 2022-07-18 13:12 install/
+-rw-r--r-- root/root       198 2022-07-18 13:12 install/doinst.sh
+-rw-r--r-- root/root       944 2022-07-18 13:12 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/doc/libcacard-2.7.0/
+-rw-r--r-- root/root     26426 2018-04-05 11:51 usr/doc/libcacard-2.7.0/COPYING
+-rw-r--r-- root/root    191388 2019-07-22 19:35 usr/doc/libcacard-2.7.0/ChangeLog
+-rw-r--r-- root/root      2008 2019-07-08 14:21 usr/doc/libcacard-2.7.0/NEWS
+-rw-r--r-- root/root      1024 2019-05-23 20:31 usr/doc/libcacard-2.7.0/README.md
+-rw-r--r-- root/root      3364 2022-07-18 13:12 usr/doc/libcacard-2.7.0/libcacard.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/include/cacard/
+-rw-r--r-- root/root      3063 2022-07-18 13:12 usr/include/cacard/cac.h
+-rw-r--r-- root/root      2147 2022-07-18 13:12 usr/include/cacard/card_7816.h
+-rw-r--r-- root/root      7073 2022-07-18 13:12 usr/include/cacard/card_7816t.h
+-rw-r--r-- root/root       515 2022-07-18 13:12 usr/include/cacard/eventt.h
+-rw-r--r-- root/root       533 2022-07-18 13:12 usr/include/cacard/libcacard.h
+-rw-r--r-- root/root      3425 2022-07-18 13:12 usr/include/cacard/vcard.h
+-rw-r--r-- root/root      2407 2022-07-18 13:12 usr/include/cacard/vcard_emul.h
+-rw-r--r-- root/root      1000 2022-07-18 13:12 usr/include/cacard/vcard_emul_type.h
+-rw-r--r-- root/root      1563 2022-07-18 13:12 usr/include/cacard/vcardt.h
+-rw-r--r-- root/root       559 2022-07-18 13:12 usr/include/cacard/vevent.h
+-rw-r--r-- root/root      1895 2022-07-18 13:12 usr/include/cacard/vreader.h
+-rw-r--r-- root/root       560 2022-07-18 13:12 usr/include/cacard/vreadert.h
+-rw-r--r-- root/root      5121 2022-07-18 13:12 usr/include/cacard/vscard_common.h
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/lib64/
+-rwxr-xr-x root/root     87672 2022-07-18 13:12 usr/lib64/libcacard.so.0.0.0
+drwxr-xr-x root/root         0 2022-07-18 13:12 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       238 2022-07-18 13:12 usr/lib64/pkgconfig/libcacard.pc
+
+

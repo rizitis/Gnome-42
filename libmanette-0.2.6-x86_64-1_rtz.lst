@@ -1,0 +1,63 @@
+++========================================
+||
+||   Package:  ./libmanette-0.2.6-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 15:36 ./
+drwxr-xr-x root/root         0 2022-07-18 15:36 install/
+-rw-r--r-- root/root       108 2022-07-18 15:36 install/doinst.sh
+-rw-r--r-- root/root       708 2022-07-18 15:36 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/doc/libmanette-0.2.6/
+-rw-r--r-- root/root     26530 2020-11-28 19:58 usr/doc/libmanette-0.2.6/COPYING
+-rw-r--r-- root/root     12370 2020-11-28 19:58 usr/doc/libmanette-0.2.6/HACKING.md
+-rw-r--r-- root/root      5333 2020-11-28 19:58 usr/doc/libmanette-0.2.6/NEWS
+-rw-r--r-- root/root      1053 2020-11-28 19:58 usr/doc/libmanette-0.2.6/README.md
+-rw-r--r-- root/root      3220 2022-07-18 15:36 usr/doc/libmanette-0.2.6/libmanette.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/include/
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/include/libmanette/
+-rw-r--r-- root/root       998 2020-11-28 19:58 usr/include/libmanette/libmanette.h
+-rw-r--r-- root/root      1880 2020-11-28 19:58 usr/include/libmanette/manette-device.h
+-rw-r--r-- root/root      3019 2020-11-28 19:58 usr/include/libmanette/manette-event.h
+-rw-r--r-- root/root      1426 2020-11-28 19:58 usr/include/libmanette/manette-monitor-iter.h
+-rw-r--r-- root/root      1272 2020-11-28 19:58 usr/include/libmanette/manette-monitor.h
+-rw-r--r-- root/root      2799 2022-07-18 15:36 usr/include/libmanette/manette-version.h
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      3740 2022-07-18 15:36 usr/lib64/girepository-1.0/Manette-0.2.typelib
+-rwxr-xr-x root/root    191736 2022-07-18 15:36 usr/lib64/libmanette-0.2.so.0
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       237 2022-07-18 15:36 usr/lib64/pkgconfig/manette-0.2.pc
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/share/gir-1.0/
+-rw-r--r-- root/root     35522 2022-07-18 15:36 usr/share/gir-1.0/Manette-0.2.gir
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/share/gtk-doc/html/manette/
+-rw-r--r-- root/root     30903 2022-07-18 15:36 usr/share/gtk-doc/html/manette/ManetteDevice.html
+-rw-r--r-- root/root     29153 2022-07-18 15:36 usr/share/gtk-doc/html/manette/ManetteEvent.html
+-rw-r--r-- root/root     12882 2022-07-18 15:36 usr/share/gtk-doc/html/manette/ManetteMonitor.html
+-rw-r--r-- root/root      7611 2022-07-18 15:36 usr/share/gtk-doc/html/manette/ManetteMonitorIter.html
+-rw-r--r-- root/root     10823 2022-07-18 15:36 usr/share/gtk-doc/html/manette/annotations-glossary.html
+-rw-r--r-- root/root     13380 2022-07-18 15:36 usr/share/gtk-doc/html/manette/api-index-full.html
+-rw-r--r-- root/root      2476 2022-07-18 15:36 usr/share/gtk-doc/html/manette/core-api.html
+-rw-r--r-- root/root       256 2022-07-18 15:36 usr/share/gtk-doc/html/manette/home.png
+-rw-r--r-- root/root      2971 2022-07-18 15:36 usr/share/gtk-doc/html/manette/index.html
+-rw-r--r-- root/root       395 2022-07-18 15:36 usr/share/gtk-doc/html/manette/left-insensitive.png
+-rw-r--r-- root/root       262 2022-07-18 15:36 usr/share/gtk-doc/html/manette/left.png
+-rw-r--r-- root/root      8391 2022-07-18 15:36 usr/share/gtk-doc/html/manette/manette-Version.html
+-rw-r--r-- root/root      6976 2022-07-18 15:36 usr/share/gtk-doc/html/manette/manette.devhelp2
+-rw-r--r-- root/root      2582 2022-07-18 15:36 usr/share/gtk-doc/html/manette/object-tree.html
+-rw-r--r-- root/root      2530 2022-07-18 15:36 usr/share/gtk-doc/html/manette/overview.html
+-rw-r--r-- root/root       373 2022-07-18 15:36 usr/share/gtk-doc/html/manette/right-insensitive.png
+-rw-r--r-- root/root       261 2022-07-18 15:36 usr/share/gtk-doc/html/manette/right.png
+-rw-r--r-- root/root     12017 2022-07-18 15:36 usr/share/gtk-doc/html/manette/style.css
+-rw-r--r-- root/root       374 2022-07-18 15:36 usr/share/gtk-doc/html/manette/up-insensitive.png
+-rw-r--r-- root/root       260 2022-07-18 15:36 usr/share/gtk-doc/html/manette/up.png
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/share/vala/
+drwxr-xr-x root/root         0 2022-07-18 15:36 usr/share/vala/vapi/
+-rw-r--r-- root/root        30 2022-07-18 15:36 usr/share/vala/vapi/manette-0.2.deps
+-rw-r--r-- root/root      2860 2022-07-18 15:36 usr/share/vala/vapi/manette-0.2.vapi
+
+

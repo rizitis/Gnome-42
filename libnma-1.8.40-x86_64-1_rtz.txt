@@ -1,0 +1,11 @@
+libnma: libnma (NetworkManager GUI client library)
+libnma:
+libnma: The libnma library provides an API used to create dialogs for
+libnma: NetworkManager clients such as network-manager-applet.
+libnma:
+libnma: Homepage: https://wiki.gnome.org/Projects/NetworkManager/
+libnma:
+libnma:
+libnma:
+libnma:
+libnma:

@@ -1,0 +1,44 @@
+++========================================
+||
+||   Package:  ./blocaled-0.4-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:38 ./
+drwxr-xr-x root/root         0 2022-07-18 13:38 etc/
+drwxr-xr-x root/root         0 2022-07-18 13:38 etc/X11/
+drwxr-xr-x root/root         0 2022-07-18 13:38 etc/X11/xorg.conf.d/
+-rw-r--r-- root/root      1536 2022-07-18 13:38 etc/X11/xorg.conf.d/91-keyboard-layout-libinput.conf
+-rw-r--r-- root/root      1964 2022-07-18 13:38 etc/blocaled.conf
+drwxr-xr-x root/root         0 2022-07-18 13:38 etc/dbus-1/
+drwxr-xr-x root/root         0 2022-07-18 13:38 etc/dbus-1/system.d/
+-rw-r--r-- root/root       560 2022-07-18 13:38 etc/dbus-1/system.d/org.freedesktop.locale1.conf
+drwxr-xr-x root/root         0 2022-07-18 13:38 install/
+-rw-r--r-- root/root       152 2022-07-18 13:38 install/doinst.sh
+-rw-r--r-- root/root       802 2022-07-18 13:38 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/doc/blocaled-0.4/
+-rw-r--r-- root/root       139 2021-11-29 20:02 usr/doc/blocaled-0.4/AUTHORS
+-rw-r--r-- root/root     18567 2021-11-29 20:02 usr/doc/blocaled-0.4/COPYING
+-rw-r--r-- root/root      1364 2021-12-03 23:12 usr/doc/blocaled-0.4/NEWS
+-rw-r--r-- root/root      1230 2021-11-29 20:02 usr/doc/blocaled-0.4/README
+-rw-r--r-- root/root       366 2021-11-29 20:02 usr/doc/blocaled-0.4/TODO
+-rw-r--r-- root/root      3583 2022-07-18 13:38 usr/doc/blocaled-0.4/blocaled.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/libexec/
+-rwxr-xr-x root/root     82280 2022-07-18 13:38 usr/libexec/blocaled
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/man/man8/
+-rw-r--r-- root/root      1004 2022-07-18 13:38 usr/man/man8/blocaled.8.gz
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/share/blocaled/
+-rw-r--r-- root/root      3636 2022-07-18 13:38 usr/share/blocaled/kbd-model-map
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/share/dbus-1/
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/share/dbus-1/interfaces/
+-rw-r--r-- root/root      1625 2022-07-18 13:38 usr/share/dbus-1/interfaces/org.freedesktop.locale1.xml
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/share/dbus-1/system-services/
+-rw-r--r-- root/root        82 2022-07-18 13:38 usr/share/dbus-1/system-services/org.freedesktop.locale1.service
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/share/polkit-1/
+drwxr-xr-x root/root         0 2022-07-18 13:38 usr/share/polkit-1/actions/
+-rw-r--r-- root/root      1207 2022-07-18 13:38 usr/share/polkit-1/actions/org.freedesktop.locale1.policy
+
+

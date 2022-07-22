@@ -1,0 +1,33 @@
+++========================================
+||
+||   Package:  ./ytnef-2.0-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 12:48 ./
+drwxr-xr-x root/root         0 2022-07-18 12:48 install/
+-rw-r--r-- root/root       192 2022-07-18 12:48 install/doinst.sh
+-rw-r--r-- root/root       899 2022-07-18 12:48 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/bin/
+-rwxr-xr-x root/root     31040 2022-07-18 12:48 usr/bin/ytnef
+-rwxr-xr-x root/root     14512 2022-07-18 12:48 usr/bin/ytnefprint
+-rwxr-xr-x root/root      3426 2022-07-18 12:48 usr/bin/ytnefprocess
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/ytnef-2.0/
+-rw-r--r-- root/root     17989 2021-06-24 17:25 usr/doc/ytnef-2.0/COPYING
+-rw-r--r-- root/root      6796 2021-06-24 17:25 usr/doc/ytnef-2.0/ChangeLog
+-rw-r--r-- root/root      2290 2021-06-24 17:25 usr/doc/ytnef-2.0/README.md
+-rw-r--r-- root/root      3139 2022-07-18 12:48 usr/doc/ytnef-2.0/ytnef.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/include/
+-rw-r--r-- root/root      2757 2022-07-18 12:48 usr/include/mapi.h
+-rw-r--r-- root/root     26851 2022-07-18 12:48 usr/include/mapidefs.h
+-rw-r--r-- root/root     16533 2022-07-18 12:48 usr/include/mapitags.h
+-rw-r--r-- root/root      1218 2022-07-18 12:48 usr/include/tnef-errors.h
+-rw-r--r-- root/root      3179 2022-07-18 12:48 usr/include/tnef-types.h
+-rw-r--r-- root/root      6030 2022-07-18 12:48 usr/include/ytnef.h
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/
+-rwxr-xr-x root/root     98504 2022-07-18 12:48 usr/lib64/libytnef.so.0.0.0
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       248 2022-07-18 12:48 usr/lib64/pkgconfig/libytnef.pc
+
+

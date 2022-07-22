@@ -1,0 +1,10 @@
+gom: gom (libgom)
+gom:
+gom: An attempt to make a DataMapper for GObject.
+gom:
+gom:
+gom:
+gom:
+gom:
+gom: https://gitlab.gnome.org/GNOME/gom
+gom:

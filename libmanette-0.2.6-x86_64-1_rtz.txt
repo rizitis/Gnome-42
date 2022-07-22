@@ -1,0 +1,11 @@
+libmanette: libmanette
+libmanette:
+libmanette: GObject game controller library
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette: https://gitlab.gnome.org/aplazas/libmanette
+libmanette:

@@ -1,0 +1,83 @@
+++========================================
+||
+||   Package:  ./lua-5.1.5-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 12:48 ./
+drwxr-xr-x root/root         0 2022-07-18 12:48 install/
+-rw-r--r-- root/root       276 2022-07-18 12:48 install/doinst.sh
+-rw-r--r-- root/root       977 2022-07-18 12:48 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/bin/
+-rwxr-xr-x root/root    191384 2022-07-18 12:48 usr/bin/lua
+-rwxr-xr-x root/root    133616 2022-07-18 12:48 usr/bin/luac
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/lua-5.1.5/
+-rw-r--r-- root/root      1528 2012-02-03 13:37 usr/doc/lua-5.1.5/COPYRIGHT
+-rw-r--r-- root/root      7907 2007-03-26 19:05 usr/doc/lua-5.1.5/HISTORY
+-rw-r--r-- root/root      3868 2006-10-26 19:26 usr/doc/lua-5.1.5/INSTALL
+-rw-r--r-- root/root      1378 2007-03-29 03:19 usr/doc/lua-5.1.5/README
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/lua-5.1.5/extras/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/lua-5.1.5/extras/etc/
+-rw-r--r-- root/root       912 2006-02-07 21:09 usr/doc/lua-5.1.5/extras/etc/Makefile
+-rw-r--r-- root/root       972 2007-03-28 17:30 usr/doc/lua-5.1.5/extras/etc/README
+-rw-r--r-- root/root       678 2005-03-31 03:41 usr/doc/lua-5.1.5/extras/etc/all.c
+-rw-r--r-- root/root       191 2004-12-23 02:53 usr/doc/lua-5.1.5/extras/etc/lua.hpp
+-rw-r--r-- root/root      1078 2000-07-31 14:58 usr/doc/lua-5.1.5/extras/etc/lua.ico
+-rw-r--r-- root/root       658 2022-07-18 12:48 usr/doc/lua-5.1.5/extras/etc/lua.pc
+-rw-r--r-- root/root      1070 2008-01-20 19:40 usr/doc/lua-5.1.5/extras/etc/luavs.bat
+-rw-r--r-- root/root       800 2008-01-18 02:09 usr/doc/lua-5.1.5/extras/etc/min.c
+-rw-r--r-- root/root      1253 2005-09-02 04:34 usr/doc/lua-5.1.5/extras/etc/noparser.c
+-rw-r--r-- root/root       928 2008-01-18 19:03 usr/doc/lua-5.1.5/extras/etc/strict.lua
+drwxr-xr-x root/root         0 2006-05-12 05:36 usr/doc/lua-5.1.5/extras/test/
+-rw-r--r-- root/root      1177 2005-05-17 14:30 usr/doc/lua-5.1.5/extras/test/README
+-rw-r--r-- root/root       645 2002-10-31 04:57 usr/doc/lua-5.1.5/extras/test/bisect.lua
+-rw-r--r-- root/root       293 2002-08-07 16:57 usr/doc/lua-5.1.5/extras/test/cf.lua
+-rw-r--r-- root/root        80 2002-08-12 23:06 usr/doc/lua-5.1.5/extras/test/echo.lua
+-rw-r--r-- root/root       181 2003-03-11 12:16 usr/doc/lua-5.1.5/extras/test/env.lua
+-rw-r--r-- root/root       707 2002-12-13 14:13 usr/doc/lua-5.1.5/extras/test/factorial.lua
+-rw-r--r-- root/root       605 2002-11-22 13:45 usr/doc/lua-5.1.5/extras/test/fib.lua
+-rw-r--r-- root/root       254 2003-10-24 13:00 usr/doc/lua-5.1.5/extras/test/fibfor.lua
+-rw-r--r-- root/root       418 2002-08-07 17:17 usr/doc/lua-5.1.5/extras/test/globals.lua
+-rw-r--r-- root/root        86 2002-08-07 03:43 usr/doc/lua-5.1.5/extras/test/hello.lua
+-rw-r--r-- root/root      2635 2002-08-28 17:38 usr/doc/lua-5.1.5/extras/test/life.lua
+-rw-r--r-- root/root       234 2005-08-12 04:24 usr/doc/lua-5.1.5/extras/test/luac.lua
+-rw-r--r-- root/root       169 2004-12-23 02:28 usr/doc/lua-5.1.5/extras/test/printf.lua
+-rw-r--r-- root/root       260 2003-03-12 02:05 usr/doc/lua-5.1.5/extras/test/readonly.lua
+-rw-r--r-- root/root       774 2002-10-31 04:52 usr/doc/lua-5.1.5/extras/test/sieve.lua
+-rw-r--r-- root/root      1494 2002-08-07 17:21 usr/doc/lua-5.1.5/extras/test/sort.lua
+-rw-r--r-- root/root       283 2004-02-05 05:05 usr/doc/lua-5.1.5/extras/test/table.lua
+-rw-r--r-- root/root       749 2005-08-12 04:30 usr/doc/lua-5.1.5/extras/test/trace-calls.lua
+-rw-r--r-- root/root       728 2003-03-12 02:03 usr/doc/lua-5.1.5/extras/test/trace-globals.lua
+-rw-r--r-- root/root       364 2004-12-20 23:17 usr/doc/lua-5.1.5/extras/test/xd.lua
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/lua-5.1.5/html/
+-rw-r--r-- root/root     22482 2012-02-13 22:53 usr/doc/lua-5.1.5/html/contents.html
+-rw-r--r-- root/root      4232 2001-10-23 15:39 usr/doc/lua-5.1.5/html/logo.gif
+-rw-r--r-- root/root      1306 2011-12-26 18:56 usr/doc/lua-5.1.5/html/lua.css
+-rw-r--r-- root/root      3951 2006-02-07 18:38 usr/doc/lua-5.1.5/html/lua.html
+-rw-r--r-- root/root      3896 2006-02-13 01:46 usr/doc/lua-5.1.5/html/luac.html
+-rw-r--r-- root/root    254745 2012-02-13 22:54 usr/doc/lua-5.1.5/html/manual.html
+-rw-r--r-- root/root       834 2012-02-03 13:44 usr/doc/lua-5.1.5/html/readme.html
+-rw-r--r-- root/root      3411 2022-07-18 12:48 usr/doc/lua-5.1.5/lua.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/include/
+-rw-r--r-- root/root      5777 2007-12-27 15:02 usr/include/lauxlib.h
+-rw-r--r-- root/root     11688 2012-01-13 22:36 usr/include/lua.h
+-rw-r--r-- root/root       191 2004-12-23 02:53 usr/include/lua.hpp
+-rw-r--r-- root/root     22295 2022-07-18 12:48 usr/include/luaconf.h
+-rw-r--r-- root/root      1026 2007-12-27 15:02 usr/include/lualib.h
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/
+-rw-r--r-- root/root    369548 2022-07-18 12:48 usr/lib64/liblua.a
+-rwxr-xr-x root/root    200200 2022-07-18 12:48 usr/lib64/liblua.so.5.1.5
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/lua/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/lua/5.1/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       658 2022-07-18 12:48 usr/lib64/pkgconfig/lua.pc
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/man/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/man/man1/
+-rw-r--r-- root/root      1651 2006-01-06 18:03 usr/man/man1/lua.1.gz
+-rw-r--r-- root/root      1676 2006-02-13 01:46 usr/man/man1/luac.1.gz
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/share/lua/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/share/lua/5.1/
+
+

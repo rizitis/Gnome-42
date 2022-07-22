@@ -1,0 +1,10 @@
+gtk-frdp: gtk-frdp
+gtk-frdp:
+gtk-frdp: A RDP viewer widget for Gtk.
+gtk-frdp:
+gtk-frdp:
+gtk-frdp:
+gtk-frdp:
+gtk-frdp:
+gtk-frdp: https://gitlab.gnome.org/GNOME/gtk-frdp
+gtk-frdp:

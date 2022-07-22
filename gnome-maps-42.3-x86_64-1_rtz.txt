@@ -1,0 +1,10 @@
+gnome-maps: GNOME Maps
+gnome-maps:
+gnome-maps: GNOME Maps gives you quick access to maps all across the world.
+gnome-maps:
+gnome-maps:
+gnome-maps:
+gnome-maps:
+gnome-maps:
+gnome-maps: https://wiki.gnome.org/Apps/Maps
+gnome-maps:

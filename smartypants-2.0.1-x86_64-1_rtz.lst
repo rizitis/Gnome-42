@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./smartypants-2.0.1-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 12:04 ./
+drwxr-xr-x root/root         0 2022-07-18 12:04 install/
+-rw-r--r-- root/root       603 2022-07-18 12:04 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/bin/
+-rwxr-xr-x root/root      3295 2022-07-18 12:04 usr/bin/smartypants
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/doc/smartypants-2.0.1/
+-rw-r--r-- root/root      7465 2017-12-20 16:34 usr/doc/smartypants-2.0.1/CHANGES.rst
+-rw-r--r-- root/root      3130 2017-12-20 16:34 usr/doc/smartypants-2.0.1/COPYING
+-rw-r--r-- root/root        55 2017-12-20 16:34 usr/doc/smartypants-2.0.1/MANIFEST.in
+-rw-r--r-- root/root      1213 2017-12-20 16:34 usr/doc/smartypants-2.0.1/README.rst
+-rw-r--r-- root/root      2450 2022-07-18 12:04 usr/doc/smartypants-2.0.1/smartypants.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/lib64/python2.7/
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/lib64/python2.7/site-packages/
+-rw-r--r-- root/root      2342 2022-07-18 12:04 usr/lib64/python2.7/site-packages/smartypants-2.0.1-py2.7.egg-info
+-rw-r--r-- root/root     18952 2017-12-20 16:34 usr/lib64/python2.7/site-packages/smartypants.py
+-rw-r--r-- root/root     14167 2022-07-18 12:04 usr/lib64/python2.7/site-packages/smartypants.pyc
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-18 12:04 usr/lib64/python3.9/site-packages/__pycache__/
+-rw-r--r-- root/root     11700 2022-07-18 12:04 usr/lib64/python3.9/site-packages/__pycache__/smartypants.cpython-39.pyc
+-rw-r--r-- root/root      2342 2022-07-18 12:04 usr/lib64/python3.9/site-packages/smartypants-2.0.1-py3.9.egg-info
+-rw-r--r-- root/root     18952 2017-12-20 16:34 usr/lib64/python3.9/site-packages/smartypants.py
+
+

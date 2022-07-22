@@ -1,0 +1,24 @@
+++========================================
+||
+||   Package:  ./acpica-20211217-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 14:02 ./
+drwxr-xr-x root/root         0 2022-07-18 14:02 install/
+-rw-r--r-- root/root       830 2022-07-18 14:02 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/bin/
+-r-xr-xr-x root/root     39704 2022-07-18 14:02 usr/bin/acpibin
+-r-xr-xr-x root/root     52056 2022-07-18 14:02 usr/bin/acpidump
+-r-xr-xr-x root/root    217136 2022-07-18 14:02 usr/bin/acpiexamples
+-r-xr-xr-x root/root    606104 2022-07-18 14:02 usr/bin/acpiexec
+-r-xr-xr-x root/root    143896 2022-07-18 14:02 usr/bin/acpihelp
+-r-xr-xr-x root/root     84344 2022-07-18 14:02 usr/bin/acpisrc
+-r-xr-xr-x root/root     31448 2022-07-18 14:02 usr/bin/acpixtract
+-r-xr-xr-x root/root   1120088 2022-07-18 14:02 usr/bin/iasl
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 14:02 usr/doc/acpica-20211217/
+-rw-r--r-- root/root      3081 2022-07-18 14:02 usr/doc/acpica-20211217/acpica.SlackBuild
+-rw-r--r-- root/root    769145 2021-12-17 19:47 usr/doc/acpica-20211217/changes.txt
+
+

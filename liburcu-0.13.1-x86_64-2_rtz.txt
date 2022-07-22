@@ -1,0 +1,11 @@
+liburcu: liburcu (RCU Library)
+liburcu:
+liburcu: liburcu is a LGPLv2.1 userspace RCU (read-copy-update) library.
+liburcu: This data synchronization library provides read-side access which
+liburcu: scales linearly with the number of cores.
+liburcu:
+liburcu:
+liburcu:
+liburcu: Project URL: http://liburcu.org/
+liburcu:
+liburcu:

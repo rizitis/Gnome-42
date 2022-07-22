@@ -1,0 +1,86 @@
+++========================================
+||
+||   Package:  ./sphinx_rtd_theme-0.4.2-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 13:41 ./
+drwxr-xr-x root/root         0 2022-07-18 13:41 install/
+-rw-r--r-- root/root       989 2022-07-18 13:41 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/doc/sphinx_rtd_theme-0.4.2/
+-rw-r--r-- root/root     11379 2018-10-05 16:18 usr/doc/sphinx_rtd_theme-0.4.2/Apache-License-2.0.txt
+-rw-r--r-- root/root      1119 2018-10-05 16:18 usr/doc/sphinx_rtd_theme-0.4.2/LICENSE
+-rw-r--r-- root/root      4438 2018-10-05 16:18 usr/doc/sphinx_rtd_theme-0.4.2/OFL-License.txt
+-rw-r--r-- root/root      1946 2018-10-05 16:18 usr/doc/sphinx_rtd_theme-0.4.2/README.rst
+-rw-r--r-- root/root      2978 2022-07-18 13:41 usr/doc/sphinx_rtd_theme-0.4.2/sphinx_rtd_theme.SlackBuild
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python2.7/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python2.7/site-packages/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme-0.4.2-py2.7.egg-info/
+-rw-r--r-- root/root      3407 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme-0.4.2-py2.7.egg-info/PKG-INFO
+-rw-r--r-- root/root      1044 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme-0.4.2-py2.7.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme-0.4.2-py2.7.egg-info/dependency_links.txt
+-rw-r--r-- root/root        58 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme-0.4.2-py2.7.egg-info/entry_points.txt
+-rw-r--r-- root/root         1 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme-0.4.2-py2.7.egg-info/not-zip-safe
+-rw-r--r-- root/root         7 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme-0.4.2-py2.7.egg-info/requires.txt
+-rw-r--r-- root/root        17 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme-0.4.2-py2.7.egg-info/top_level.txt
+-rw-r--r-- root/root       520 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/__init__.py
+-rw-r--r-- root/root       928 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/__init__.pyc
+-rw-r--r-- root/root      3873 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/breadcrumbs.html
+-rw-r--r-- root/root      1975 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/footer.html
+-rw-r--r-- root/root      8042 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/layout.html
+-rw-r--r-- root/root      1530 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/search.html
+-rw-r--r-- root/root       365 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/searchbox.html
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/css/
+-rw-r--r-- root/root      3358 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/css/badge_only.css
+-rw-r--r-- root/root    116330 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/css/theme.css
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/fonts/
+-rw-r--r-- root/root    165742 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.eot
+-rw-r--r-- root/root    444379 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.svg
+-rw-r--r-- root/root    165548 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.ttf
+-rw-r--r-- root/root     98024 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.woff
+-rw-r--r-- root/root     77160 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.woff2
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/js/
+-rw-r--r-- root/root     15414 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/js/modernizr.min.js
+-rw-r--r-- root/root      4392 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/static/js/theme.js
+-rw-r--r-- root/root       327 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/theme.conf
+-rw-r--r-- root/root      1299 2018-10-05 16:18 usr/lib64/python2.7/site-packages/sphinx_rtd_theme/versions.html
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme-0.4.2-py3.9.egg-info/
+-rw-r--r-- root/root      2986 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme-0.4.2-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      1044 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme-0.4.2-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme-0.4.2-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        58 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme-0.4.2-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root         1 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme-0.4.2-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root         7 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme-0.4.2-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root        17 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme-0.4.2-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       520 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/__init__.py
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/__pycache__/
+-rw-r--r-- root/root       724 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3873 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/breadcrumbs.html
+-rw-r--r-- root/root      1975 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/footer.html
+-rw-r--r-- root/root      8042 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/layout.html
+-rw-r--r-- root/root      1530 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/search.html
+-rw-r--r-- root/root       365 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/searchbox.html
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/css/
+-rw-r--r-- root/root      3358 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/css/badge_only.css
+-rw-r--r-- root/root    116330 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/css/theme.css
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/fonts/
+-rw-r--r-- root/root    165742 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.eot
+-rw-r--r-- root/root    444379 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.svg
+-rw-r--r-- root/root    165548 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.ttf
+-rw-r--r-- root/root     98024 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.woff
+-rw-r--r-- root/root     77160 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/fonts/fontawesome-webfont.woff2
+drwxr-xr-x root/root         0 2022-07-18 13:41 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/js/
+-rw-r--r-- root/root     15414 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/js/modernizr.min.js
+-rw-r--r-- root/root      4392 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/static/js/theme.js
+-rw-r--r-- root/root       327 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/theme.conf
+-rw-r--r-- root/root      1299 2018-10-05 16:18 usr/lib64/python3.9/site-packages/sphinx_rtd_theme/versions.html
+
+

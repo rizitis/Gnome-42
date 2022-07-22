@@ -1,0 +1,61 @@
+++========================================
+||
+||   Package:  ./luasocket-3.0.0-x86_64-1_rtz.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 12:48 ./
+drwxr-xr-x root/root         0 2022-07-18 12:48 install/
+-rw-r--r-- root/root      1109 2022-07-18 12:48 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/doc/luasocket-3.0.0/
+-rw-r--r-- root/root      3908 2022-03-25 10:05 usr/doc/luasocket-3.0.0/CHANGELOG.md
+-rw-r--r-- root/root      1333 2022-03-25 10:05 usr/doc/luasocket-3.0.0/FIX
+-rw-r--r-- root/root      1060 2022-03-25 10:05 usr/doc/luasocket-3.0.0/LICENSE
+-rw-r--r-- root/root       939 2022-03-25 10:05 usr/doc/luasocket-3.0.0/README.md
+-rw-r--r-- root/root      2462 2022-03-25 10:05 usr/doc/luasocket-3.0.0/TODO
+-rw-r--r-- root/root       729 2022-03-25 10:05 usr/doc/luasocket-3.0.0/WISH
+-rw-r--r-- root/root      4752 2022-03-25 10:05 usr/doc/luasocket-3.0.0/dns.html
+-rw-r--r-- root/root     13825 2022-07-18 12:48 usr/doc/luasocket-3.0.0/etc.tar.gz
+-rw-r--r-- root/root      9599 2022-03-25 10:05 usr/doc/luasocket-3.0.0/ftp.html
+-rw-r--r-- root/root     11865 2022-03-25 10:05 usr/doc/luasocket-3.0.0/http.html
+-rw-r--r-- root/root      4431 2022-03-25 10:05 usr/doc/luasocket-3.0.0/index.html
+-rw-r--r-- root/root      3883 2022-03-25 10:05 usr/doc/luasocket-3.0.0/installation.html
+-rw-r--r-- root/root     12433 2022-03-25 10:05 usr/doc/luasocket-3.0.0/introduction.html
+-rw-r--r-- root/root     29307 2022-03-25 10:05 usr/doc/luasocket-3.0.0/ltn012.wiki
+-rw-r--r-- root/root      8547 2022-03-25 10:05 usr/doc/luasocket-3.0.0/ltn013.wiki
+-rw-r--r-- root/root     11483 2022-03-25 10:05 usr/doc/luasocket-3.0.0/ltn12.html
+-rw-r--r-- root/root      3549 2022-07-18 12:48 usr/doc/luasocket-3.0.0/luasocket.SlackBuild
+-rw-r--r-- root/root     11732 2022-03-25 10:05 usr/doc/luasocket-3.0.0/luasocket.png
+-rw-r--r-- root/root     14246 2022-03-25 10:05 usr/doc/luasocket-3.0.0/mime.html
+-rw-r--r-- root/root       975 2022-03-25 10:05 usr/doc/luasocket-3.0.0/reference.css
+-rw-r--r-- root/root      7928 2022-03-25 10:05 usr/doc/luasocket-3.0.0/reference.html
+-rw-r--r-- root/root      4244 2022-07-18 12:48 usr/doc/luasocket-3.0.0/samples.tar.gz
+-rw-r--r-- root/root     14621 2022-03-25 10:05 usr/doc/luasocket-3.0.0/smtp.html
+-rw-r--r-- root/root     14704 2022-03-25 10:05 usr/doc/luasocket-3.0.0/socket.html
+-rw-r--r-- root/root     23755 2022-03-25 10:05 usr/doc/luasocket-3.0.0/tcp.html
+-rw-r--r-- root/root     40207 2022-07-18 12:48 usr/doc/luasocket-3.0.0/test.tar.gz
+-rw-r--r-- root/root     18727 2022-03-25 10:05 usr/doc/luasocket-3.0.0/udp.html
+-rw-r--r-- root/root      8430 2022-03-25 10:05 usr/doc/luasocket-3.0.0/url.html
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/lua/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/lua/5.1/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/lua/5.1/mime/
+-rwxr-xr-x root/root     18720 2022-07-18 12:48 usr/lib64/lua/5.1/mime/core.so
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/lib64/lua/5.1/socket/
+-rwxr-xr-x root/root     66464 2022-07-18 12:48 usr/lib64/lua/5.1/socket/core.so
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/share/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/share/lua/
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/share/lua/5.1/
+-rw-r--r-- root/root      8845 2022-07-18 12:48 usr/share/lua/5.1/ltn12.lua
+-rw-r--r-- root/root      2267 2022-07-18 12:48 usr/share/lua/5.1/mime.lua
+drwxr-xr-x root/root         0 2022-07-18 12:48 usr/share/lua/5.1/socket/
+-rw-r--r-- root/root      4448 2022-07-18 12:48 usr/share/lua/5.1/socket.lua
+-rw-r--r-- root/root     10606 2022-07-18 12:48 usr/share/lua/5.1/socket/ftp.lua
+-rw-r--r-- root/root      3698 2022-07-18 12:48 usr/share/lua/5.1/socket/headers.lua
+-rw-r--r-- root/root     14659 2022-07-18 12:48 usr/share/lua/5.1/socket/http.lua
+-rw-r--r-- root/root      8074 2022-07-18 12:48 usr/share/lua/5.1/socket/smtp.lua
+-rw-r--r-- root/root      3766 2022-07-18 12:48 usr/share/lua/5.1/socket/tp.lua
+-rw-r--r-- root/root     11669 2022-07-18 12:48 usr/share/lua/5.1/socket/url.lua
+
+

@@ -1,0 +1,11 @@
+libosinfo: libosinfo (operating systems library)
+libosinfo:
+libosinfo: GObject based library API for managing information about operating
+libosinfo: systems, hypervisors and the (virtual) hardware devices they can
+libosinfo: support. It includes a database containing device metadata and
+libosinfo: provides APIs to match/identify optimal devices for deploying
+libosinfo: an operating system on a hypervisor.
+libosinfo:
+libosinfo: homepage: http://libosinfo.org
+libosinfo:
+libosinfo:
