@@ -193,9 +193,24 @@ after that you can reboot , probably your system is back...
 ps. we have a small working team of slackers for Gnome buildings. We work together for fun and we have separate repos for our projects. 
 If you want to help or ask, follow that link https://discord.gg/sMzwUS8GxB
 
-ps2. If you want some Slackware Dark-Light wallpapers follow that link https://github.com/rizitis/Dark-Light-Wallpapers-
 Enjoy!
 
+
+# OR 
+if you like download an installation iso I created https://tinyurl.com/SlackwareG 
+under the same rules... 
+
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED
+  WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO
+  EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+  OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 
