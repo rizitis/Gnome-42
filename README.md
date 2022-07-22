@@ -198,7 +198,8 @@ Enjoy!
 
 # OR 
 if you like download an installation iso I created https://tinyurl.com/SlackwareG 
-under the same rules... 
+installation video https://www.youtube.com/watch?v=qHWpk-SAgSw
+you use it at your own risk and under the same rules... 
 
 
 THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED
